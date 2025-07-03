@@ -1,3 +1,24 @@
+<!DOCTYPE html>
 <html>
-<h1>NOVELS</h1>
+<head>
+  <title>Repo Contents</title>
+</head>
+<body>
+  <h1>Files in NOVELS</h1>
+  <ul id="file-list"></ul>
+
+  <script>
+    fetch("https://api.github.com/repos/irfaansheikh/NOVELS/contents/")
+      .then(res => res.json())
+      .then(data => {
+        const list = document.getElementById("file-list");
+        data.forEach(file => {
+          const li = document.createElement("li");
+          li.innerHTML = `<a href="${file.name}">${file.name}</a>`;
+          list.appendChild(li);
+        });
+      });
+  </script>
+</body>
 </html>
+
