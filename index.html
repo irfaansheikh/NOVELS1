@@ -17,9 +17,8 @@
       transform: scale(1.03);
     }
     .cover-img {
-      height: 220px;
+      height: 200px;
       object-fit: cover;
-      border-bottom: 1px solid #ddd;
     }
     .card-title {
       font-size: 1rem;
@@ -27,13 +26,34 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
+    .author-btn {
+      margin: 2px;
+      cursor: pointer;
+    }
+    .sidebar {
+      max-height: 100vh;
+      overflow-y: auto;
+      border-right: 1px solid #ccc;
+    }
   </style>
 </head>
 <body>
-  <div class="container py-5">
-    <h1 class="text-center mb-5">📚 Irfaan's Novel Library</h1>
-    <div id="book-list" class="row g-4 justify-content-center">
-      <!-- Books will be loaded here -->
+  <div class="container-fluid">
+    <div class="row">
+      
+      <!-- Sidebar -->
+      <div class="col-md-2 bg-light sidebar p-3">
+        <h5>📚 Authors</h5>
+        <div id="author-list" class="d-grid gap-2"></div>
+        <button class="btn btn-secondary mt-3 w-100" onclick="filterBooks('All')">Show All</button>
+      </div>
+
+      <!-- Main Content -->
+      <div class="col-md-10 py-4">
+        <h2 class="text-center mb-4">📖 Irfaan's Novel Collection</h2>
+        <div id="book-list" class="row g-4 justify-content-center"></div>
+      </div>
+
     </div>
   </div>
 
@@ -41,53 +61,91 @@
     const username = "irfaansheikh";
     const repo = "NOVELS";
     const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/`;
-    const rawBase = `https://raw.githubusercontent.com/${username}/${repo}/main/`;
-    const defaultCover = "https://via.placeholder.com/300x220.png?text=No+Cover";
+    const defaultCover = "https://via.placeholder.com/300x200.png?text=No+Cover";
+
+    let allBooks = [];
 
     fetch(apiUrl)
       .then(res => res.json())
       .then(data => {
-        const container = document.getElementById("book-list");
-
-        // Create a map of all files
         const fileMap = {};
-        data.forEach(file => {
-          fileMap[file.name.toLowerCase()] = file;
-        });
+        data.forEach(file => fileMap[file.name.toLowerCase()] = file);
 
+        // Collect books
         data.forEach(item => {
-          const isBook = item.name.match(/\.(pdf|epub|mobi|html)$/i);
-          if (isBook) {
+          if (item.name.match(/\.(pdf|epub|mobi|html)$/i)) {
             const baseName = item.name.replace(/\.(pdf|epub|mobi|html)$/i, '');
-            const cover = (
-              fileMap[`${baseName}.jpg`] ||
-              fileMap[`${baseName}.png`] ||
-              fileMap[`${baseName}.webp`]
-            );
-
+            const cover = fileMap[`${baseName}.jpg`] || fileMap[`${baseName}.png`] || fileMap[`${baseName}.webp`];
             const coverUrl = cover ? cover.download_url : defaultCover;
 
-            const card = document.createElement("div");
-            card.className = "col-sm-6 col-md-4 col-lg-3";
+            // Extract author from file name (before dash)
+            let author = "Unknown";
+            if (item.name.includes("-")) {
+              author = item.name.split("-")[0].trim();
+            }
 
-            card.innerHTML = `
-              <div class="card book-card shadow-sm h-100">
-                <img src="${coverUrl}" alt="Cover" class="cover-img card-img-top" />
-                <div class="card-body d-flex flex-column justify-content-between">
-                  <h6 class="card-title text-center" title="${item.name}">${item.name}</h6>
-                  <a href="${item.download_url}" target="_blank" class="btn btn-primary mt-2 w-100">📥 Download</a>
-                </div>
-              </div>
-            `;
-
-            container.appendChild(card);
+            allBooks.push({
+              name: item.name,
+              url: item.download_url,
+              cover: coverUrl,
+              author: author
+            });
           }
         });
-      })
-      .catch(err => {
-        console.error("Error loading files:", err);
-        document.getElementById("book-list").innerHTML = "<p class='text-danger'>Failed to load books.</p>";
+
+        renderAuthors();
+        renderBooks(allBooks);
       });
+
+    function renderAuthors() {
+      const authorList = document.getElementById("author-list");
+      const authors = [...new Set(allBooks.map(book => book.author))].sort();
+
+      authors.forEach(author => {
+        const btn = document.createElement("button");
+        btn.className = "btn btn-outline-primary author-btn";
+        btn.innerText = author;
+        btn.onclick = () => filterBooks(author);
+        authorList.appendChild(btn);
+      });
+    }
+
+    function renderBooks(books) {
+      const container = document.getElementById("book-list");
+      container.innerHTML = "";
+
+      if (books.length === 0) {
+        container.innerHTML = "<p class='text-muted'>No books found.</p>";
+        return;
+      }
+
+      books.forEach(book => {
+        const card = document.createElement("div");
+        card.className = "col-sm-6 col-md-4 col-lg-3";
+
+        card.innerHTML = `
+          <div class="card book-card shadow-sm h-100">
+            <img src="${book.cover}" class="cover-img card-img-top" alt="Cover">
+            <div class="card-body d-flex flex-column justify-content-between">
+              <h6 class="card-title text-center" title="${book.name}">${book.name}</h6>
+              <p class="text-muted text-center small">${book.author}</p>
+              <a href="${book.url}" target="_blank" class="btn btn-primary mt-2 w-100">📥 Download</a>
+            </div>
+          </div>
+        `;
+
+        container.appendChild(card);
+      });
+    }
+
+    function filterBooks(author) {
+      if (author === "All") {
+        renderBooks(allBooks);
+      } else {
+        const filtered = allBooks.filter(book => book.author === author);
+        renderBooks(filtered);
+      }
+    }
   </script>
 </body>
 </html>
