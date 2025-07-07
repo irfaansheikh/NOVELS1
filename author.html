@@ -46,10 +46,22 @@
       .then(data => {
         const container = document.getElementById("book-list");
 
+        const fileMap = {};
+        data.forEach(item => fileMap[item.name.toLowerCase()] = item.download_url);
+
         data.forEach(item => {
           if (item.name.match(/\.(pdf|epub|mobi|html)$/i)) {
             const baseName = item.name.replace(/\.(pdf|epub|mobi|html)$/i, '');
-            const coverUrl = `${item.download_url.replace(item.name, "")}${baseName}.jpg`;
+            const coverExtensions = [".jpg", ".png", ".webp"];
+            let coverUrl = defaultCover;
+
+            for (const ext of coverExtensions) {
+              const possibleCover = `${baseName}${ext}`.toLowerCase();
+              if (fileMap[possibleCover]) {
+                coverUrl = fileMap[possibleCover];
+                break;
+              }
+            }
 
             const card = document.createElement("div");
             card.className = "col-sm-6 col-md-4 col-lg-3";
