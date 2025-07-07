@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3842</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40aa9d64-12dc-4f2c-8395-1c4b4aae95d2</dc:identifier>
+        <dc:title>The Tailor of Panama</dc:title>
+        <dc:creator opf:file-as="Carré, John le" opf:role="aut">John le Carré</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.15) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Harry Pendel, tailor and spy, decides to take matters into his own hands by deceiving everyone and masterminding a scheme so brilliant that his life careens into a deadly game of politics and deception, in a humorous and fast-paced thriller. Reprint. &lt;em&gt;NYT. &lt;/em&gt;"&lt;/p&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;John le Carré, the greatest spy novelist of the Cold War era, continues his post-Cold War quest to define the genre he helped perfect. The classic spy novel was essentially a story of good (England, the United States) vs. evil (Nazi Germany, the Soviet Union), in which good more or less prevailed. &lt;em&gt;The Tailor of Panama&lt;/em&gt; is something else entirely: a spy novel with no spies in which the bad guys reap most of the rewards. It is also a viciously funny satire. The novel is set in Panama, where a plot is in place to make void the Panama Treaty, which would return control of the Panama Canal to the Panamanians in 1999. At the center of events is Harry Pendel, the tailor of the title. Coerced into working for British Intelligence, he concocts out of whole cloth a left-wing movement with the goal of luring the American military to do the dirty work--invade Panama à la 1989 and nullify the treaty. From the characters to the setting, le Carré has succeeded in setting new parameters for an old genre. &lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;The many and various talents of le Carr‚ give this new audio version of his 1996 novel more than enough reasons for approval. Most obvious is the fact that he is a wonderful reader a natural, honest storyteller and artful actor who can command our attention and hold it long after others might lose their grip. In just a few minutes, he brings to life a large gallery of diverse characters: an upper-class narrator; a British tailor, Harry Pendel, who can't quite hide his East End Jewish, ex-convict roots; his American wife, Louisa, who pulses with do-gooder zeal; a Panamanian soldier whose English is limited to one phrase; a Panamanian banker who oozes hypocrisy; the Cockney ghost of Harry's crooked old uncle; and a rather nasty working-class British spy who threatens to upset Harry's delicately balanced life. Le Carr‚'s superb reading skills also enable listeners to stop and sniff the prose to realize just how good a writer he really is. Based on the Knopf hardcover. &lt;/p&gt;&lt;p&gt;Copyright 2001 Cahners Business Information, Inc.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Ballantine Books</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">x30jqXtULOIC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0345420438</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0345420438</dc:identifier>
+        <dc:identifier opf:scheme="FF">l/john-le-carre/tailor-of-panama</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/tailor-of-panama-john-le-carr/1100715377</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">629865</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <meta content="{&quot;John le Carré&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2012-07-02T15:55:13+00:00" name="calibre:timestamp"/>
+        <meta content="Tailor of Panama, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#series" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#series&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;series&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;series&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Crossover&quot;}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 3, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 24, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;series&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

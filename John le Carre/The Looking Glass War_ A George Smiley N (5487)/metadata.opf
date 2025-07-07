@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d5e1d38-6ecf-4174-bbce-f87cdcac787f</dc:identifier>
+        <dc:title>The Looking Glass War: A George Smiley Novel</dc:title>
+        <dc:creator opf:file-as="Carré, John le" opf:role="aut">John le Carré</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.23) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-05T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;A &lt;em&gt;NEW YORK TIMES&lt;/em&gt; BESTSELLER&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;It would have been an easy job for the Circus: a can of film couriered from Helsinki to London. In the past the Circus handled all things political, while the Department dealt with matters military. But the Department has been moribund since the War, its resources siphoned away. Now, one of their agents is dead, and vital evidence verifying the presence of Soviet missiles near the West German border is gone. John Avery is the Department's younger member and its last hope. Charged with handling Fred Leiser, a German-speaking Pole left over from the War, Avery must infiltrate the East and restore his masters' former glory.&lt;/p&gt;&lt;p&gt;Darkly compelling and brutally Machiavellian, &lt;em&gt;The Looking Glass War&lt;/em&gt; is a stunning accomplishment by one of today's most remarkable and enduring literary writers.&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"Le Carré is simply the world's greatest fictional spymaster."&lt;/p&gt;&lt;p&gt;(&lt;em&gt;Newsweek&lt;/em&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;"A book of rare and great power."&lt;/p&gt;&lt;p&gt;(&lt;em&gt;Financial Times&lt;/em&gt; (U.K.) )&lt;br&gt;&lt;/p&gt;&lt;p&gt;"A bitter, bleak, superlatively written novel."&lt;/p&gt;&lt;p&gt;(&lt;em&gt;Publishers Weekly&lt;/em&gt; ) &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;John le Carré&lt;/strong&gt;, the author of twenty-two novels, is the pseudonym for David Cornwell, who was a member of the British Foreign Service from 1959 to 1964. Many of his books have been made into films, including &lt;em&gt;The Constant Gardener&lt;/em&gt;, &lt;em&gt;The Russia House&lt;/em&gt;, &lt;em&gt;The&lt;/em&gt; &lt;em&gt;Little Drummer Girl&lt;/em&gt;, and &lt;em&gt;Tinker, Tailor, Soldier, Spy.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B008EXK0TG</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0143122592</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780143122593</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;John le Carré&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-18T00:55:28+00:00" name="calibre:timestamp"/>
+        <meta content="Looking Glass War: A George Smiley Novel, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#series" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#series&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;series&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;series&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Crossover&quot;}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 3, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 24, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;series&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
