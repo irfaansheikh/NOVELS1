@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3bf840ba-efc2-4f06-9fd5-a94faadf3870</dc:identifier>
+        <dc:title>Call for the Dead: A George Smiley Novel</dc:title>
+        <dc:creator opf:file-as="Carré, John le" opf:role="aut">John le Carré</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.23) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;"Go back to Whitehall and look for more spies on your drawing boards."&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;George Smiley is no one's idea of a spy—which is perhaps why he's such a natural. But Smiley apparently made a mistake. After a routine security interview, he concluded that the affable Samuel Fennan had nothing to hide. Why, then, did the man from the Foreign Office shoot himself in the head only hours later? Or did he?&lt;br&gt;&lt;/p&gt;&lt;p&gt;The heart-stopping tale of intrigue that launched both novelist and spy, &lt;em&gt;Call for the Dead&lt;/em&gt; is an essential introduction to le Carré's chillingly amoral universe.&lt;br&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;'Brilliant. Realistic. Constant suspense ... excellent writing' -- Observer 'Intelligent, thrilling, surprising ... makes most cloak-and-dagger stuff taste of cardboard' -- Sunday Telegraph &lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;&lt;p&gt;Praise for &lt;em&gt;Call for the Dead&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;"A finely wrought and compelling admixture of three types of crime writing: the novel of action and excitement that we commonly call a thriller, the spy story, and the detective story."-- P. D. James, from the Foreword&lt;br&gt;&lt;/p&gt;&lt;p&gt;"A subtle and acute story of counter-espionage marked by restraint, indirection, and intelligence."-- &lt;em&gt;The New York Times Book Review&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Praise for John Le Carré&lt;br&gt;&lt;/p&gt;&lt;p&gt;"Le Carré is more than just a great storyteller-- he captures the Zeitgeist itself."-- Tom Wolfe&lt;br&gt;&lt;/p&gt;&lt;p&gt;"No other contemporary novelist has more durably enjoyed the twin badges of being both well-read and well-regarded."-- Scott Turow&lt;br&gt;&lt;/p&gt;&lt;p&gt;"He is one of the half-dozen best novelists now working in English."-- &lt;em&gt;Chicago Sun-Times&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;"Le Carré is one of the best novelists-- of any kind-- we have."-- &lt;em&gt;Vanity Fair&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;"A brilliant linguistic artist with a keen eye for the exotic and not-so-exotic locale, a crafty, moralizer with an occasional bent for sentiment."-- &lt;em&gt;The Wall Street Journal&lt;/em&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0081KYXQ8</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0081KYXQ8</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">01DiY_m80GoC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0143122576</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Espionage</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;John le Carré&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-03-18T00:56:53+00:00" name="calibre:timestamp"/>
+        <meta content="Call for the Dead: A George Smiley Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#series" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 2, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#series&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;series&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;series&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Crossover&quot;}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: true, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 3, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 24, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;series&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;formats&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Formats&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
