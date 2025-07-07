@@ -1,0 +1,24 @@
+.yui-t1 #yui-main {
+	FLOAT: none; MARGIN: 0.1em
+}
+.yui-t2 #yui-main {
+	FLOAT: none; MARGIN: 0.1em
+}
+.yui-t3 #yui-main {
+	FLOAT: none; MARGIN: 0.1em
+}
+.yui-t3 #yui-main .yui-b {
+	MARGIN: 0em
+}
+.yui-b {
+	POSITION: relative
+}
+#doc3 #hd {
+	BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: auto
+}
+#hd INPUT {
+	DISPLAY: none
+}
+#siteTitle {
+	FONT-SIZE: 120%; POSITION: static
+}

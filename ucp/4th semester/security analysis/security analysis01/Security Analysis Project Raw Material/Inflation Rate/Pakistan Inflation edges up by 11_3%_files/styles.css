@@ -1,0 +1,300 @@
+BODY {
+	PADDING-RIGHT: 0px; MARGIN-TOP: 0px; PADDING-LEFT: 0px; BACKGROUND: #fdefb7; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+TEXTAREA {
+	FONT: 100% Arial, sans-serif
+}
+TD {
+	FONT-SIZE: 11px
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:link {
+	TEXT-DECORATION: none
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.gelink {
+	FONT-WEIGHT: normal; COLOR: #0000ff; TEXT-DECORATION: underline
+}
+.linkkop {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #0000ff; TEXT-DECORATION: underline
+}
+#container {
+	MARGIN: 0px auto; WIDTH: 1000px; BORDER-BOTTOM: #058f76 1px solid; POSITION: relative; TEXT-ALIGN: left
+}
+#header {
+	BACKGROUND-IMAGE: url(http://www.freshplaza.com/images/header.jpg); OVERFLOW: hidden; WIDTH: 1000px; BACKGROUND-REPEAT: no-repeat; POSITION: relative; HEIGHT: 108px
+}
+#topbar {
+	FONT-SIZE: 11px; FLOAT: left; WIDTH: 1000px; COLOR: white; POSITION: relative; HEIGHT: 28px; TEXT-ALIGN: left
+}
+#top_links {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FLOAT: left; PADDING-BOTTOM: 3px; WIDTH: 530px; PADDING-TOP: 5px; POSITION: relative
+}
+#top_links A {
+	COLOR: white; TEXT-DECORATION: none
+}
+#top_links A:hover {
+	BORDER-BOTTOM: white 1px dashed
+}
+#bericht A {
+	COLOR: #0000ff
+}
+#search {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 5px; FLOAT: right; PADDING-BOTTOM: 2px; MARGIN: 0px; WIDTH: 420px; PADDING-TOP: 2px; POSITION: relative; TEXT-ALIGN: right
+}
+.zoekvak {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FONT-SIZE: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.button {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 9px; PADDING-BOTTOM: 0px; WIDTH: 60px; PADDING-TOP: 0px; HEIGHT: 18px
+}
+FORM {
+	DISPLAY: inline
+}
+#topmessage {
+	FLOAT: left; OVERFLOW: hidden; WIDTH: 350px; POSITION: relative; HEIGHT: 73px
+}
+#topmessage P {
+	MARGIN-TOP: 10px; FONT-WEIGHT: bolder; FONT-SIZE: 15px; MARGIN-LEFT: 175px; VERTICAL-ALIGN: middle; COLOR: #f3c20f; MARGIN-RIGHT: 5px; TEXT-ALIGN: center
+}
+#topbanners {
+	PADDING-RIGHT: 6px; FONT-SIZE: 10px; FLOAT: left; OVERFLOW: hidden; WIDTH: 635px; PADDING-TOP: 8px; POSITION: relative; HEIGHT: 73px; TEXT-ALIGN: right
+}
+#topbanners IMG {
+	MARGIN-RIGHT: 5px
+}
+#topbanners OBJECT {
+	MARGIN-RIGHT: 5px
+}
+#hoofdmenu {
+	BORDER-TOP-WIDTH: 0px; CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: left; BACKGROUND-IMAGE: url(http://www.freshplaza.com/images/hoofdmenu_bg.jpg); BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 1000px; PADDING-TOP: 0px; BACKGROUND-REPEAT: repeat-x; POSITION: relative; HEIGHT: 21px; BORDER-RIGHT-WIDTH: 0px
+}
+#hoofdmenu UL {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-WEIGHT: 800; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#hoofdmenu LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; TEXT-INDENT: 0px; LINE-HEIGHT: normal; PADDING-TOP: 0px
+}
+#hoofdmenu A {
+	BORDER-RIGHT: #008d82 1px solid; PADDING-RIGHT: 15px; DISPLAY: block; PADDING-LEFT: 15px; FONT-WEIGHT: bolder; BACKGROUND-IMAGE: url(http://www.freshplaza.com/images/hoofdmenu_bg.jpg); PADDING-BOTTOM: 3px; OVERFLOW: hidden; COLOR: #00584e; PADDING-TOP: 3px; BACKGROUND-REPEAT: repeat-x; TEXT-DECORATION: none
+}
+#hoofdmenu A:hover {
+	BACKGROUND-IMAGE: url(http://www.freshplaza.com/images/hoofdmenu_bg_hover.jpg); COLOR: white; BACKGROUND-REPEAT: repeat-x
+}
+#sectormenu {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px 0px; PADDING-LEFT: 0px; FLOAT: left; BACKGROUND-IMAGE: url(http://www.freshplaza.com/images/sectormenu_bg.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: hidden; WIDTH: 1000px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat; POSITION: relative; HEIGHT: 64px
+}
+#sectormenu UL {
+	CLEAR: left; PADDING-RIGHT: 15px; DISPLAY: block; PADDING-LEFT: 15px; FONT-SIZE: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#sectormenu LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 22px
+}
+#sectormenu A {
+	PADDING-RIGHT: 14px; MARGIN-TOP: 2px; DISPLAY: block; PADDING-LEFT: 14px; FONT-WEIGHT: 400; PADDING-BOTTOM: 1px; COLOR: #00594f; PADDING-TOP: 2px; WHITE-SPACE: nowrap; TEXT-DECORATION: none
+}
+#sectormenu A:hover {
+	COLOR: #ff0000
+}
+#foto_cats {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; BACKGROUND-IMAGE: url(http://www.freshplaza.com/images/foto_cats_bg.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: hidden; WIDTH: 1000px; PADDING-TOP: 0px; BACKGROUND-REPEAT: repeat-y; POSITION: relative; HEIGHT: 29px; BACKGROUND-COLOR: #00594f
+}
+#foto_cats UL {
+	CLEAR: left; PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 15px; FONT-SIZE: 10px; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 3px; LIST-STYLE-TYPE: none
+}
+#foto_cats LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 6px; LINE-HEIGHT: 120%; PADDING-TOP: 0px
+}
+#foto_cats A.curr {
+	CLEAR: both; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: url(http://www.freshplaza.com/images/button_02.gif) no-repeat left 50%; PADDING-BOTTOM: 0px; WIDTH: 130px; COLOR: #00594f; PADDING-TOP: 7px; HEIGHT: 23px
+}
+#foto_cats A.other {
+	CLEAR: both; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 5px; FONT-SIZE: 12px; BACKGROUND: url(http://www.freshplaza.com/images/button_01.gif) no-repeat left 50%; PADDING-BOTTOM: 0px; WIDTH: 130px; COLOR: #286831; PADDING-TOP: 7px; HEIGHT: 23px
+}
+#foto_cats A:hover {
+	COLOR: red
+}
+#main_foto {
+	CLEAR: both; PADDING-LEFT: 1px; BACKGROUND: url(http://www.freshplaza.com/images/background.gif) #ffffff repeat-y 0px 0px; FLOAT: left; MARGIN: 0px; WIDTH: 1000px; POSITION: relative
+}
+#body_foto {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FONT-SIZE: 12px; FLOAT: left; PADDING-BOTTOM: 30px; PADDING-TOP: 0px; POSITION: relative
+}
+#foto_menu {
+	PADDING-LEFT: 8px; FONT-SIZE: 12px; FLOAT: left; OVERFLOW: hidden; WIDTH: 119px; PADDING-TOP: 20px; POSITION: relative; HEIGHT: 600px; BACKGROUND-COLOR: #f8df7d
+}
+#foto_index {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 25px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 810px; PADDING-TOP: 20px; POSITION: relative; HEIGHT: 450px
+}
+#foto_index .titel {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px
+}
+#foto_index .rood {
+	COLOR: #ff0000
+}
+#foto_top5 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 5px; FONT-SIZE: 10px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 810px; COLOR: #ffffff; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 150px; BACKGROUND-COLOR: #00594f
+}
+#foto_top5 UL {
+	CLEAR: left; PADDING-RIGHT: 3px; DISPLAY: block; PADDING-LEFT: 15px; FONT-SIZE: 10px; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 16px; LIST-STYLE-TYPE: none
+}
+#foto_top5 LI {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 15px; FLOAT: left; MARGIN-BOTTOM: 6px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 120%; PADDING-TOP: 0px
+}
+#foto_top5 A {
+	COLOR: #ffffff
+}
+#main {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://www.freshplaza.com/images/background.gif) #ffffff repeat-y 0px 0px; FLOAT: left; PADDING-BOTTOM: 15px; MARGIN: 0px; WIDTH: 1000px; PADDING-TOP: 15px; POSITION: relative
+}
+#body {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 15px; FONT-SIZE: 11px; FLOAT: left; PADDING-BOTTOM: 30px; PADDING-TOP: 0px; POSITION: relative
+}
+#top_part {
+	FLOAT: left; POSITION: relative
+}
+#leftcol_top {
+	FLOAT: left; OVERFLOW: hidden; WIDTH: 470px; POSITION: relative
+}
+#hoofdartikelen {
+	PADDING-RIGHT: 10px
+}
+#hoofdartikelen P {
+	MARGIN-BOTTOM: 20px
+}
+#zijkant {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FLOAT: left; WIDTH: 230px; POSITION: relative
+}
+H2 {
+	FONT-SIZE: 12px; FONT-STYLE: italic
+}
+H4.blokkop {
+	CLEAR: both; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; BACKGROUND: url(http://www.freshplaza.com/images/block_header_bg.jpg) no-repeat left 50%; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 225px; COLOR: #00594f; PADDING-TOP: 7px; POSITION: relative; HEIGHT: 23px
+}
+H4.blokkop SPAN.meer {
+	PADDING-RIGHT: 27px; FONT-SIZE: 11px; RIGHT: 0px; MARGIN: 0px; LINE-HEIGHT: 1.3; POSITION: absolute; TOP: 7px
+}
+H4.blokkop SPAN.meer A {
+	FONT-WEIGHT: normal; COLOR: #00594f; TEXT-DECORATION: none
+}
+DIV.outer_blok {
+	BORDER-RIGHT: #018901 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #018901 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: -3px 0px 7px; OVERFLOW: hidden; BORDER-LEFT: #018901 1px solid; WIDTH: 220px; PADDING-TOP: 2px; BORDER-BOTTOM: #018901 1px solid
+}
+DIV.outer_blok .inner_blok {
+	BORDER-RIGHT: #f5f4ec 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #f5f4ec 1px solid; PADDING-LEFT: 0px; FONT-SIZE: 11px; BACKGROUND: #e0f1ef; PADDING-BOTTOM: 5px; MARGIN: 0px; BORDER-LEFT: #f5f4ec 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #f5f4ec 1px solid
+}
+DIV.outer_blok .mededelingen {
+	BORDER-RIGHT: #157880 0px solid; BORDER-TOP: #157880 0px solid; BACKGROUND: #e0f1ef; BORDER-LEFT: #157880 0px solid; BORDER-BOTTOM: #157880 0px solid
+}
+.inner_blok UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.innerblok IMG {
+	WIDTH: 190px
+}
+.inner_blok UL LI {
+	DISPLAY: list-item; BACKGROUND: url(http://www.freshplaza.com/images/pijl.gif) no-repeat 0px 0px
+}
+.inner_blok UL LI A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; MIN-HEIGHT: 15px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 1.3em; PADDING-TOP: 0px; WHITE-SPACE: normal; HEIGHT: 15px
+}
+DIV.outer_blok .vacatures {
+	BORDER-RIGHT: #157880 0px solid; BORDER-TOP: #157880 0px solid; BACKGROUND: #e0f1ef; BORDER-LEFT: #157880 0px solid; BORDER-BOTTOM: #157880 0px solid
+}
+DIV.outer_blok .googles {
+	BORDER-RIGHT: #157880 0px solid; BORDER-TOP: #157880 0px solid; BACKGROUND: #e0f1ef; BORDER-LEFT: #157880 0px solid; BORDER-BOTTOM: #157880 0px solid
+}
+#banners_zijkant {
+	PADDING-LEFT: 50px; FLOAT: left; OVERFLOW: hidden; WIDTH: 210px; POSITION: relative; TEXT-ALIGN: center
+}
+#banners_zijkant IMG {
+	MARGIN-BOTTOM: 6px; MARGIN-RIGHT: 5px
+}
+#banners_zijkant OBJECT {
+	MARGIN-BOTTOM: 6px; MARGIN-RIGHT: 5px
+}
+#sectoren {
+	CLEAR: both; BORDER-TOP: black 1px dotted; FLOAT: left; WIDTH: 100%; POSITION: relative
+}
+#sectoren_links {
+	BORDER-RIGHT: black 1px dotted; PADDING-RIGHT: 10px; PADDING-LEFT: 2px; FLOAT: left; PADDING-BOTTOM: 5px; OVERFLOW: hidden; WIDTH: 480px; PADDING-TOP: 5px; POSITION: relative
+}
+#sectoren_rechts {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FLOAT: left; PADDING-BOTTOM: 5px; OVERFLOW: hidden; WIDTH: 475px; PADDING-TOP: 5px
+}
+.outer_special {
+	BORDER-RIGHT: #eaca40 1px solid; BORDER-TOP: #eaca40 0px solid; MARGIN: 0px; OVERFLOW: hidden; BORDER-LEFT: #eaca40 1px solid; WIDTH: 472px; BORDER-BOTTOM: #eaca40 1px solid
+}
+.inner_special {
+	BORDER-RIGHT: #f5f4ec 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #f5f4ec 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 11px; BACKGROUND: #ffffbb; PADDING-BOTTOM: 4px; MARGIN: 0px; BORDER-LEFT: #f5f4ec 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #f5f4ec 1px solid
+}
+#sectoren_links P {
+	MARGIN-BOTTOM: 20px
+}
+#sectoren_rechts P {
+	MARGIN-BOTTOM: 20px
+}
+#reactie .verwijderen {
+	COLOR: #0000ff; TEXT-ALIGN: right
+}
+.bron {
+	FONT-SIZE: 9px; COLOR: #0000ff; FONT-STYLE: italic
+}
+.datum {
+	FONT-WEIGHT: bolder; FONT-SIZE: 18px
+}
+.grijscursief {
+	COLOR: #999999; FONT-STYLE: italic
+}
+.roodklein {
+	FONT-SIZE: 10px; COLOR: #ff0000
+}
+.rood {
+	COLOR: #ff0000
+}
+.klein {
+	FONT-SIZE: 10px
+}
+.groot {
+	FONT-SIZE: 13px; COLOR: #000000
+}
+.kop {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000000
+}
+.inleiding {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: italic
+}
+H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: italic
+}
+.aanvoer_kop {
+	BORDER-RIGHT: #000000 0.5pt; PADDING-RIGHT: 2px; BORDER-TOP: #000000 0.5pt; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 13px; PADDING-BOTTOM: 2px; BORDER-LEFT: #000000 0.5pt; PADDING-TOP: 2px; BORDER-BOTTOM: #000000 0.5pt solid; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 19px; BACKGROUND-COLOR: #ffc20e
+}
+H3.sectorkop {
+	CLEAR: both; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: url(http://www.freshplaza.com/images/sector_heading.jpg) #fff no-repeat right top; PADDING-BOTTOM: 0px; MARGIN: 5px 0px 8px; WIDTH: 450px; COLOR: white; PADDING-TOP: 4px; POSITION: relative; HEIGHT: 21px
+}
+H3.sectorkop SPAN.meernieuws {
+	PADDING-RIGHT: 27px; FONT-SIZE: 11px; RIGHT: 0px; MARGIN: 0px; LINE-HEIGHT: 1.3; POSITION: absolute; TOP: 3px
+}
+H3.sectorkop SPAN.meernieuws A {
+	FONT-WEIGHT: normal; COLOR: white
+}
+BODY.print {
+	BACKGROUND-POSITION: 10px 10px; FONT-SIZE: 10px; BACKGROUND-IMAGE: url(http://www.freshplaza.com/images/logo.gif); WIDTH: 80%; PADDING-TOP: 80px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: white; TEXT-ALIGN: left
+}
+BODY.print A {
+	COLOR: black
+}
+BODY.print A:visited {
+	COLOR: black
+}
+#vacatures A {
+	COLOR: blue
+}

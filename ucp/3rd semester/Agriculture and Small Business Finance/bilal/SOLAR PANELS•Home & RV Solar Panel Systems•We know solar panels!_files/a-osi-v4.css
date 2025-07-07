@@ -1,0 +1,177 @@
+HTML {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	BACKGROUND: url(/Merchant2/graphics/site/bg.gif) #6699cc repeat-x; FONT: 76% verdana, arial, sans-serif; TEXT-ALIGN: center
+}
+DIV#header H1 {
+	FONT-SIZE: 3em; MARGIN: 0.8em 0px 0.2em 0.4em; COLOR: #3399ff; LINE-HEIGHT: 1em
+}
+DIV#container {
+	TEXT-ALIGN: left
+}
+DIV#content {
+	PADDING-LEFT: 10px
+}
+DIV#content P {
+	LINE-HEIGHT: 1.4
+}
+#content H2 {
+	FONT-SIZE: 2em; COLOR: #990000
+}
+DIV#navigation {
+	BACKGROUND: #fff
+}
+DIV#extra {
+	BACKGROUND: #fff
+}
+DIV#footer {
+	BACKGROUND: #990000; COLOR: #fff
+}
+DIV#footer P {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-TOP: 5px
+}
+DIV.box1 {
+	MARGIN-LEFT: 10px
+}
+DIV#box2 {
+	MARGIN-LEFT: 10px
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+A {
+	COLOR: #3366cc
+}
+A:hover {
+	COLOR: #cc0000; TEXT-DECORATION: none
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 2.2em; PADDING-BOTTOM: 0px; MARGIN: 0.2em 0px 0.5em; COLOR: #3399ff; PADDING-TOP: 0px
+}
+H2 {
+	FONT-SIZE: 1.2em; COLOR: #000000
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 1.6em; PADDING-BOTTOM: 0px; MARGIN: 1em 0px 0.5em; COLOR: #000000; PADDING-TOP: 0px
+}
+H4 {
+	FONT-SIZE: 1em; MARGIN: 0.2em 0px 0px; COLOR: #ff9933
+}
+P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.4em 0px 0.8em; PADDING-TOP: 0px
+}
+#footer A {
+	COLOR: #ffff00
+}
+#tickertape H4 {
+	FONT-SIZE: 1em; MARGIN: 0px 0px 0px 0.5em; COLOR: #ff9933
+}
+DIV#container {
+	BACKGROUND: #fff; MARGIN: 10px auto; WIDTH: 995px
+}
+DIV#wrapper {
+	FLOAT: left; WIDTH: 100%
+}
+DIV#content {
+	MARGIN: 0px 200px
+}
+DIV#navigation {
+	FLOAT: left; MARGIN-LEFT: -995px; WIDTH: 200px
+}
+DIV#extra {
+	FLOAT: left; MARGIN-LEFT: -200px; WIDTH: 200px
+}
+DIV#footer {
+	CLEAR: left; WIDTH: 100%; TEXT-ALIGN: center
+}
+#menu LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#menu {
+	PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: url(/Merchant2/graphics/site/menu_active_bg.gif) #fff repeat-x left bottom; MARGIN-BOTTOM: 10px; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Arial, Verdana, Sans-serif; POSITION: relative; HEIGHT: 40px
+}
+#menu UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: auto; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#menu UL LI {
+	DISPLAY: block; FLOAT: left; MARGIN: 0px 2px
+}
+#menu UL LI A {
+	PADDING-RIGHT: 10px; DISPLAY: block; PADDING-LEFT: 10px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #cceeee; LINE-HEIGHT: 44px; PADDING-TOP: 0px; HEIGHT: 40px; TEXT-DECORATION: none
+}
+#menu UL LI A:hover {
+	COLOR: #fff
+}
+#menu UL LI.current_page_item A {
+	BACKGROUND: url(/Merchant2/graphics/site/menuslice.gif) center top; COLOR: #234ba3
+}
+#menu UL LI.current_page_item A:hover {
+	BACKGROUND: url(/Merchant2/graphics/site/menuslice.gif) center top; COLOR: #234ba3
+}
+#menu UL LI.current_page_item2 A {
+	BACKGROUND: url(/Merchant2/graphics/site/menuslice2.gif) center top; COLOR: #234ba3
+}
+#menu UL LI.current_page_item2 A:hover {
+	BACKGROUND: url(/Merchant2/graphics/site/menuslice2.gif) center top; COLOR: #234ba3
+}
+#menu UL LI A {
+	LINE-HEIGHT: 43px; HEIGHT: 1%
+}
+#menu UL LI A.current {
+	LINE-HEIGHT: 43px; HEIGHT: 1%
+}
+#menu UL LI A SPAN {
+	LINE-HEIGHT: 43px; HEIGHT: 1%
+}
+#welcome {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #eee; PADDING-BOTTOM: 5px; MARGIN: 0px 10px 10px; PADDING-TOP: 5px
+}
+#welcome IMG {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.bullet A {
+	PADDING-LEFT: 14px; BACKGROUND: url(/Merchant2/graphics/site/star-bullet.gif) no-repeat; LINE-HEIGHT: 16px
+}
+.video A {
+	PADDING-LEFT: 14px; BACKGROUND: url(/Merchant2/graphics/site/video.gif) no-repeat; LINE-HEIGHT: 16px
+}
+#cartcontents {
+	BORDER-RIGHT: #cc0000 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #cc0000 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND: #ffffcc; PADDING-BOTTOM: 10px; MARGIN: 0px 0px 10px; BORDER-LEFT: #cc0000 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #cc0000 1px solid; FONT-FAMILY: Arial, Verdana, Sans-serif
+}
+#cartcontents_green {
+	BORDER-RIGHT: #008000 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #008000 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 11px; BACKGROUND: #ffffcc; PADDING-BOTTOM: 10px; MARGIN: 0px 0px 10px; BORDER-LEFT: #008000 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #008000 1px solid; FONT-FAMILY: Arial, Verdana, Sans-serif
+}
+#clear {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+.text IMG {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.text A {
+	
+}
+.text A:hover {
+	COLOR: #cc0000
+}
+.cat {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px
+}
+.sub {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px
+}
+DIV#slr {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(/Merchant2/graphics/site/solar-products-directory.png) #143691 no-repeat; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 98%; PADDING-TOP: 0px; HEIGHT: 26px
+}
+#bold {
+	FONT-WEIGHT: bold
+}
+DIV#no-relevant {
+	DISPLAY: none
+}
+BLOCKQUOTE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-TOP: 0px
+}

@@ -1,0 +1,207 @@
+BODY {
+	FONT-SIZE: 80%; MARGIN: 1em; FONT-FAMILY: Arial,Sans-serif
+}
+.footer {
+	BORDER-RIGHT: #8080f0 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #8080f0 1px solid; PADDING-LEFT: 4px; BACKGROUND: #60ae7e; PADDING-BOTTOM: 4px; MARGIN: 3px 1em; BORDER-LEFT: #8080f0 1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: #8080f0 1px solid
+}
+.header {
+	BORDER-RIGHT: #8080f0 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #8080f0 1px solid; PADDING-LEFT: 4px; BACKGROUND: #60ae7e; PADDING-BOTTOM: 4px; MARGIN: 3px 1em; BORDER-LEFT: #8080f0 1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: #8080f0 1px solid
+}
+.userpage_table_emph {
+	FONT-WEIGHT: bold
+}
+UL.menu {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; TEXT-ALIGN: right
+}
+UL.menu LI {
+	DISPLAY: inline; LIST-STYLE-TYPE: none
+}
+UL.menu LI:hover {
+	BACKGROUND: #8ac94f
+}
+UL.menu LI A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.searchcontrol A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+UL.menu LI A:hover {
+	COLOR: #60ae7e; TEXT-DECORATION: none
+}
+UL.menu LI A:visited {
+	COLOR: #ffffff
+}
+INPUT {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; COLOR: blue
+}
+SELECT {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; COLOR: blue
+}
+TEXTAREA {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; COLOR: blue
+}
+.actionbutton {
+	BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; BACKGROUND: #60ae7e; PADDING-BOTTOM: 3px; MARGIN: 2px; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; PADDING-TOP: 3px; BORDER-BOTTOM: #ffffff 1px solid
+}
+UL.menu LI {
+	BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; BACKGROUND: #60ae7e; PADDING-BOTTOM: 3px; MARGIN: 2px; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; PADDING-TOP: 3px; BORDER-BOTTOM: #ffffff 1px solid
+}
+.searchcontrol {
+	BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; BACKGROUND: #60ae7e; PADDING-BOTTOM: 3px; MARGIN: 2px; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; PADDING-TOP: 3px; BORDER-BOTTOM: #ffffff 1px solid
+}
+.example {
+	FONT-WEIGHT: bold; COLOR: blue
+}
+.box {
+	PADDING-RIGHT: 8pt; PADDING-LEFT: 8pt; MARGIN-BOTTOM: 1pt; PADDING-BOTTOM: 8pt; PADDING-TOP: 8pt; FONT-FAMILY: sans-serif
+}
+H1 {
+	FONT: bold 130% Arial,Sans-serif; COLOR: #606060
+}
+H2 {
+	FONT: bold 120% Arial,Sans-serif; COLOR: #606060
+}
+H3 {
+	FONT: 120% Arial,Sans-serif; COLOR: #606060
+}
+H4 {
+	FONT: 100% Arial,Sans-serif; COLOR: #606060
+}
+.archivetitle {
+	FONT-SIZE: 150%; COLOR: #ffffff; FONT-FAMILY: "Bookman Old Style"
+}
+.searchfieldhelp {
+	FONT-SIZE: small
+}
+.formfieldhelp {
+	FONT-SIZE: small
+}
+.formfieldname {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; PADDING-TOP: 1em
+}
+.searchfieldname {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; PADDING-TOP: 1em
+}
+.formfieldidname {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%
+}
+.formfieldinput {
+	PADDING-BOTTOM: 3pt
+}
+.formfieldidinput {
+	
+}
+.formfieldcomment {
+	PADDING-BOTTOM: 3pt; FONT-STYLE: italic
+}
+.requiredstar {
+	COLOR: #ff0000
+}
+.requiredlang {
+	COLOR: #ff0000
+}
+.alert {
+	COLOR: #ff0000
+}
+.namefieldheading {
+	TEXT-ALIGN: left
+}
+.searchorder {
+	PADDING-TOP: 12pt
+}
+.searchmustfulfill {
+	PADDING-TOP: 12pt
+}
+.main {
+	MARGIN: 1em
+}
+DT {
+	FONT-WEIGHT: bold
+}
+.numeral {
+	FONT-WEIGHT: bold
+}
+.ignoredword {
+	FONT-STYLE: italic
+}
+.subject_browser_opts {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN-LEFT: 1em; BORDER-LEFT: #ccc 1px solid; MARGIN-RIGHT: 1em; PADDING-TOP: 0.5em; BORDER-BOTTOM: #ccc 1px solid
+}
+.subject_browser_selections {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN-LEFT: 1em; BORDER-LEFT: #ccc 1px solid; MARGIN-RIGHT: 1em; PADDING-TOP: 0.5em; BORDER-BOTTOM: #ccc 1px solid
+}
+.subject_browser_search {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN-LEFT: 1em; BORDER-LEFT: #ccc 1px solid; MARGIN-RIGHT: 1em; PADDING-TOP: 0.5em; BORDER-BOTTOM: #ccc 1px solid
+}
+.subject_browser_selections {
+	MARGIN-TOP: 0.5em; BACKGROUND: #ffffaa
+}
+.subject_browser_selections SPAN.subject {
+	FONT-WEIGHT: bold
+}
+.subject_browser_opts {
+	MARGIN-BOTTOM: 0.5em
+}
+.subject_browser_selected {
+	FONT-STYLE: italic
+}
+.row_a {
+	BACKGROUND: #efefff
+}
+.row_b {
+	BACKGROUND: #f8f8ff
+}
+.row_a TD {
+	BORDER-TOP: #8080f0 1px solid; BORDER-BOTTOM: #8080f0 1px solid
+}
+.row_b TD {
+	BORDER-TOP: #8080f0 1px solid; BORDER-BOTTOM: #8080f0 1px solid
+}
+TD.first_col {
+	BORDER-LEFT: #8080f0 1px solid
+}
+TD.last_col {
+	BORDER-RIGHT: #8080f0 1px solid
+}
+TD.middle_col {
+	BORDER-RIGHT: #8080f0 1px solid; BORDER-LEFT: #8080f0 1px solid
+}
+.status_row_heading {
+	BORDER-RIGHT: #8080f0 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #8080f0 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; BACKGROUND: #efefff; PADDING-BOTTOM: 2px; BORDER-LEFT: #8080f0 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #8080f0 1px solid; FONT-FAMILY: Arial,Sans-serif
+}
+TH {
+	BORDER-RIGHT: #8080f0 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #8080f0 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; BACKGROUND: #efefff; PADDING-BOTTOM: 2px; BORDER-LEFT: #8080f0 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #8080f0 1px solid; FONT-FAMILY: Arial,Sans-serif
+}
+.submission_buttons {
+	BORDER-RIGHT: #8080f0 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #8080f0 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; BACKGROUND: #efefff; PADDING-BOTTOM: 2px; BORDER-LEFT: #8080f0 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #8080f0 1px solid; FONT-FAMILY: Arial,Sans-serif
+}
+.searchbuttons {
+	BORDER-RIGHT: #8080f0 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #8080f0 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; BACKGROUND: #efefff; PADDING-BOTTOM: 2px; BORDER-LEFT: #8080f0 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #8080f0 1px solid; FONT-FAMILY: Arial,Sans-serif
+}
+.searchcontrols {
+	BORDER-RIGHT: #8080f0 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #8080f0 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; BACKGROUND: #efefff; PADDING-BOTTOM: 2px; BORDER-LEFT: #8080f0 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #8080f0 1px solid; FONT-FAMILY: Arial,Sans-serif
+}
+TH.empty_heading {
+	BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+TR.header_plain TH {
+	BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.submission_buttons {
+	PADDING-RIGHT: 4px; MARGIN-TOP: 8pt; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.searchbuttons {
+	PADDING-RIGHT: 4px; MARGIN-TOP: 8pt; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.searchcontrols {
+	PADDING-RIGHT: 4px; MARGIN-TOP: 8pt; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.searchcontrols {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 8px; PADDING-TOP: 8px
+}
+.problems {
+	BORDER-RIGHT: #ff0000 4px solid; PADDING-RIGHT: 16pt; BORDER-TOP: #ff0000 4px solid; MARGIN-TOP: 8pt; PADDING-LEFT: 16pt; MARGIN-BOTTOM: 8pt; PADDING-BOTTOM: 16pt; BORDER-LEFT: #ff0000 4px solid; PADDING-TOP: 16pt; BORDER-BOTTOM: #ff0000 4px solid; BACKGROUND-COLOR: #f8f8f8; TEXT-DECORATION: none
+}
+.preview {
+	BORDER-RIGHT: #c0c0ff 2px dashed; PADDING-RIGHT: 1em; BORDER-TOP: #c0c0ff 2px dashed; PADDING-LEFT: 1em; BACKGROUND: #f8f8ff; PADDING-BOTTOM: 1em; MARGIN: 1em 0px; BORDER-LEFT: #c0c0ff 2px dashed; PADDING-TOP: 1em; BORDER-BOTTOM: #c0c0ff 2px dashed
+}

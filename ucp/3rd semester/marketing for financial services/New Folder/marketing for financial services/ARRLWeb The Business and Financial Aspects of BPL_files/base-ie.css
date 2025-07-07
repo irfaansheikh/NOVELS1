@@ -1,0 +1,39 @@
+.qlink {
+	FONT: x-small arial,helvetica,sans-serif; TEXT-ALIGN: center
+}
+BODY {
+	MARGIN-LEFT: 2%; MARGIN-RIGHT: 2%
+}
+P {
+	
+}
+.subhead {
+	BACKGROUND: #ffcc00; FONT: bold small arial,helvetica,sans-serif; COLOR: #000099
+}
+.subhead2 {
+	BACKGROUND: #ffff99; FONT: bold x-small arial,helvetica,sans-serif; COLOR: #000099
+}
+.sb {
+	FONT: x-small arial,helvetica,sans-serif
+}
+.navmenu {
+	BORDER-TOP-WIDTH: 2px; BORDER-LEFT-WIDTH: 2px; FONT-SIZE: xx-small; BORDER-BOTTOM-WIDTH: 2px; BORDER-RIGHT-WIDTH: 2px
+}
+.navmenu TD {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: xx-small; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 1px
+}
+.navbar {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: xx-small; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 1px
+}
+.sb P {
+	FONT: x-small arial,helvetica,sans-serif; TEXT-ALIGN: left
+}
+.news {
+	FONT: x-small arial,helvetica,sans-serif
+}
+.mouse {
+	FONT: xx-small arial,helvetica,sans-serif
+}
+.photocap {
+	FONT: x-small arial,helvetica,sans-serif; TEXT-ALIGN: left
+}

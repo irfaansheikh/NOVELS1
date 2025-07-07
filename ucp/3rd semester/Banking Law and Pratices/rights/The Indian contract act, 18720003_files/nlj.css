@@ -1,0 +1,222 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333333; LINE-HEIGHT: normal; PADDING-TOP: 0px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: white; FONT-VARIANT: normal
+}
+A {
+	COLOR: #004893; LETTER-SPACING: normal; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #004893; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:active {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+P {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; MARGIN: 7px 1px; LINE-HEIGHT: 140%; TEXT-ALIGN: justify
+}
+P.leftee {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 10px; MARGIN: 7px 1px; LINE-HEIGHT: 140%; FONT-FAMILY: Tahoma,Verdana,Arial; TEXT-ALIGN: justify
+}
+HR {
+	COLOR: #999; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 2px; BACKGROUND-COLOR: #999; BORDER-BOTTOM-STYLE: none
+}
+H1 {
+	FONT: bold 12pt Arial, Helvetica, sans-serif; COLOR: #006699
+}
+H1.heads {
+	MARGIN: 16px 2px 0px 5px; FONT: bold 12pt Arial, Helvetica, sans-serif; COLOR: black
+}
+H2 {
+	FONT: bold 12pt Arial, Helvetica, sans-serif; COLOR: #3e80a4
+}
+H3 {
+	FONT: bold 14pt Arial, Helvetica, Sans-serif; COLOR: #000000
+}
+UL {
+	PADDING-RIGHT: 1px; MARGIN-TOP: 1px; PADDING-LEFT: 5px; MARGIN-BOTTOM: 4px; MARGIN-LEFT: 10px
+}
+FORM {
+	MARGIN: 2px 2px 3px 9px
+}
+INPUT {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; FONT: 0.9em/1.3em arial, helvetica, verdana, sans-serif; PADDING-TOP: 3px
+}
+.bullets {
+	LIST-STYLE: none url(images/bullet.gif) outside; MARGIN-TOP: 3px; PADDING-LEFT: 3px; FONT-SIZE: 11px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 130%
+}
+.bullets A {
+	FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.bullets A:hover {
+	TEXT-DECORATION: underline
+}
+.smallbullets {
+	LIST-STYLE: none url(images/bullet-small.gif) outside; MARGIN-TOP: 1px; FONT-WEIGHT: normal; FONT-SIZE: 11px; LINE-HEIGHT: 130%
+}
+.roundbullets {
+	LIST-STYLE: none url(images/round-bullet.gif) outside; MARGIN-TOP: 1px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 11px; LINE-HEIGHT: 130%
+}
+.smallbulletsblue {
+	LIST-STYLE: none url(images/bullet-small-blue.gif) outside; MARGIN-TOP: 1px; FONT-WEIGHT: bold; FONT-SIZE: 11px; LINE-HEIGHT: 130%
+}
+.smallbullets A {
+	TEXT-DECORATION: none
+}
+.smallbullets A:hover {
+	TEXT-DECORATION: underline
+}
+.disc {
+	LIST-STYLE: disc url(images/bullet3.gif) outside; MARGIN-BOTTOM: 5px; MARGIN-LEFT: 10px; MARGIN-RIGHT: 5px
+}
+.snipDiscimilar {
+	FONT-SIZE: 9px; FONT-FAMILY: Arial,Helvetica,Serif
+}
+.topmenu {
+	FONT-WEIGHT: bold; COLOR: white; BACKGROUND-COLOR: #4993ba
+}
+.topmenu A {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.topmenu A:hover {
+	COLOR: #f0f8ff; TEXT-DECORATION: underline
+}
+.topmenusub {
+	FONT-WEIGHT: bold; COLOR: #ffffff; BACKGROUND-COLOR: #83b5cf
+}
+.topmenusub A {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.topmenusub A:hover {
+	COLOR: #f0f8ff; TEXT-DECORATION: underline
+}
+.rt-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: url(images/rt-title-bg.gif) repeat-x; COLOR: #3e80a4
+}
+.rt-title-double {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: url(images/rt-title-bg-double.gif) repeat-x; COLOR: #3e80a4
+}
+.centre-head {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+.left {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 5px
+}
+.leftSimple {
+	FONT-SIZE: 12px; MARGIN-LEFT: 10px
+}
+.left1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-LEFT: 35px
+}
+.text11pt {
+	FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.dot {
+	LIST-STYLE: none url(images/bullet2.gif) outside; MARGIN-TOP: 3px; MARGIN-LEFT: 10px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 130%
+}
+.TableOuter {
+	BORDER-RIGHT: #739dc5 1px solid; BORDER-TOP: #739dc5 1px solid; BORDER-LEFT: #739dc5 1px solid; BORDER-BOTTOM: #739dc5 1px solid
+}
+.TableInner {
+	BACKGROUND-COLOR: #f0faff
+}
+.normal {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: arial, helvetica, verdana; TEXT-DECORATION: none
+}
+.normala {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: arial, helvetica, verdana; TEXT-DECORATION: none
+}
+.indexfooter {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #c0c0c0; FONT-FAMILY: arial, helvetica, verdana; TEXT-DECORATION: none
+}
+.boldRed {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #cc0000
+}
+.graymatter {
+	COLOR: #aaa
+}
+.grey {
+	COLOR: #aaa; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 3px; BACKGROUND-COLOR: #aaa; BORDER-BOTTOM-STYLE: none
+}
+.snip {
+	FONT-SIZE: 11px; MARGIN-LEFT: 5px; COLOR: red; FONT-FAMILY: Arial,Helvetica,Serif
+}
+.heading {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #c8270b; FONT-FAMILY: Arial,Helvetica,Serif
+}
+.footer {
+	
+}
+.footer A {
+	LETTER-SPACING: 1px; TEXT-DECORATION: none
+}
+.footer A:hover {
+	TEXT-DECORATION: underline
+}
+.cmsheadline {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #006699; FONT-FAMILY: Arial
+}
+.cmsheadlinebig {
+	FONT-WEIGHT: bold; FONT-SIZE: 13pt; COLOR: #006699; FONT-FAMILY: Arial
+}
+.cmsnormaltxt {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial
+}
+.cmssmalltxt {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial
+}
+.cmslighttxt {
+	FONT-SIZE: 8pt; COLOR: #999999; FONT-FAMILY: Arial
+}
+.cmsheadlinelight {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #999999; FONT-FAMILY: Arial
+}
+.cmsactspart {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #20758d; FONT-FAMILY: arial
+}
+.cmsactssection {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #198aaa; FONT-FAMILY: arial
+}
+.cmsactstext {
+	FONT-SIZE: 10pt; COLOR: #000066; FONT-FAMILY: arial
+}
+.cmsh1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #004893; FONT-FAMILY: Arial,Verdana,  Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.cmsh2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #004893; FONT-FAMILY: Arial,Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.cmsh3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #004893; FONT-FAMILY: Arial,Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.cmsh4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial,Verdana,  Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.cmsp1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Verdana,  Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.cmsp2 {
+	FONT-WEIGHT: normal; COLOR: #000000; FONT-FAMILY: Arial,Verdana,  Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.cmsp3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial,Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.cmsp4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial,Verdana,  Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.cmsa {
+	FONT-SIZE: 8pt; COLOR: #f20000; FONT-FAMILY: verdana,arial; TEXT-DECORATION: none
+}
+.cmsa:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+B.blue {
+	FONT-SIZE: 10pt; COLOR: #006699
+}
+INPUT.n-button {
+	BORDER-RIGHT: #8080c0 1px solid; BORDER-TOP: #8080c0 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #8080c0 1px solid; BORDER-BOTTOM: #8080c0 1px solid; FONT-FAMILY: Verdana,Arial,Helvetica,Serif
+}

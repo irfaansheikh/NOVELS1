@@ -1,0 +1,42 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #cdcdcd; SCROLLBAR-HIGHLIGHT-COLOR: #c1c1c1; SCROLLBAR-SHADOW-COLOR: #b4b4b4; SCROLLBAR-3DLIGHT-COLOR: #a7a7a7; SCROLLBAR-TRACK-COLOR: #cdcdcd
+}
+.top {
+	FONT-SIZE: 9px; COLOR: #a4a4a4; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+A.top:hover {
+	FONT-SIZE: 9px; COLOR: #000066; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+.sublink {
+	FONT-SIZE: 11px; COLOR: #111111; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+A.sublink:hover {
+	FONT-SIZE: 12px; COLOR: #000066; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+.footer {
+	FONT-SIZE: 9px; COLOR: #000066; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+A.footer:hover {
+	FONT-SIZE: 9px; COLOR: #4b4b4b; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+.client {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+.news {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+A.news:hover {
+	FONT-SIZE: 9px; COLOR: #000066; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+.mainlink {
+	FONT-SIZE: 9px; COLOR: #ffffff; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+A.mainlink:hover {
+	FONT-SIZE: 11px; COLOR: #6699ff; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+.areport {
+	FONT-SIZE: 9px; COLOR: #050569; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}
+A.areport:hover {
+	FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif
+}

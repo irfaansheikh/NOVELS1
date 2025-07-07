@@ -1,0 +1,63 @@
+.footbox {
+	BACKGROUND: #ffffff; MARGIN: 0px; WIDTH: 800px
+}
+DIV#futmap DL {
+	BACKGROUND: url(http://images.forbes.com/media/partners/footer/backfoot_partners.jpg) no-repeat; MARGIN: 0px auto; WIDTH: 802px; POSITION: relative; HEIGHT: 62px
+}
+DIV#futmap DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute
+}
+DIV#futmap DD#posOne {
+	LEFT: 33px; TOP: 27px
+}
+DD#posOne A {
+	WIDTH: 65px; POSITION: absolute; HEIGHT: 21px; TEXT-DECORATION: none
+}
+DIV#futmap DD#posTwo {
+	LEFT: 130px; TOP: 27px
+}
+DD#posTwo A {
+	WIDTH: 42px; POSITION: absolute; HEIGHT: 21px; TEXT-DECORATION: none
+}
+DIV#futmap DD#posThree {
+	LEFT: 211px; TOP: 27px
+}
+DIV#futmap DD#posThree A {
+	WIDTH: 49px; POSITION: absolute; HEIGHT: 21px; TEXT-DECORATION: none
+}
+DIV#futmap DD#posFour {
+	LEFT: 295px; TOP: 27px
+}
+DIV#futmap DD#posFour A {
+	WIDTH: 51px; POSITION: absolute; HEIGHT: 21px; TEXT-DECORATION: none
+}
+DIV#futmap DD#posFive {
+	LEFT: 373px; TOP: 27px
+}
+DIV#futmap DD#posFive A {
+	WIDTH: 59px; POSITION: absolute; HEIGHT: 21px; TEXT-DECORATION: none
+}
+DIV#futmap DD#poddix {
+	LEFT: 451px; TOP: 35px
+}
+DIV#futmap DD#poddix A {
+	WIDTH: 75px; POSITION: absolute; HEIGHT: 15px; TEXT-DECORATION: none
+}
+DIV#futmap DD#poddeven {
+	LEFT: 549px; TOP: 24px
+}
+DIV#futmap DD#poddeven A {
+	WIDTH: 43px; POSITION: absolute; HEIGHT: 30px; TEXT-DECORATION: none
+}
+DIV#futmap DD#posEight {
+	LEFT: 634px; TOP: 24px
+}
+DIV#futmap DD#posEight A {
+	WIDTH: 43px; POSITION: absolute; HEIGHT: 30px; TEXT-DECORATION: none
+}
+DIV#futmap DD#posNine {
+	LEFT: 717px; TOP: 24px
+}
+DIV#futmap DD#posNine A {
+	WIDTH: 43px; POSITION: absolute; HEIGHT: 30px; TEXT-DECORATION: none
+}

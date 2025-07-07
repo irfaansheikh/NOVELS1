@@ -1,0 +1,33 @@
+UNKNOWN {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #cc66ff
+}
+A:hover {
+	FONT-SIZE: 10px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+A:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+A:visited {
+	FONT-SIZE: 10px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+A:active {
+	FONT-SIZE: 10px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+TD {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+LI {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+FORM {
+	
+}
+INPUT {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.textarea {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}
+.selectlist {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-FAMILY: Verdana
+}

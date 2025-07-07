@@ -1,0 +1,351 @@
+BODY {
+	FONT-FAMILY: Georgia, "Times New Roman", Times, serif; TEXT-ALIGN: center
+}
+BODY#index {
+	BACKGROUND-COLOR: rgb(240,240,240)
+}
+BODY#collection {
+	BACKGROUND-COLOR: rgb(240,240,240)
+}
+H1 {
+	FONT-FAMILY: sans-serif
+}
+H2 {
+	FONT-FAMILY: sans-serif
+}
+H3 {
+	FONT-FAMILY: sans-serif
+}
+H4 {
+	FONT-FAMILY: sans-serif
+}
+H5 {
+	FONT-FAMILY: sans-serif
+}
+H6 {
+	FONT-FAMILY: sans-serif
+}
+DIV#parent_nav {
+	FONT-FAMILY: sans-serif
+}
+DIV#sibling_nav {
+	FONT-FAMILY: sans-serif
+}
+LI {
+	PADDING-RIGHT: 4em; FONT-SIZE: 0.95em; PADDING-BOTTOM: 0.4em
+}
+H1 {
+	MARGIN: 0.25em 0px
+}
+H2 {
+	PADDING-TOP: 0.5em
+}
+HR {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; MARGIN: 0px 0px 10px; BORDER-LEFT: medium none; BORDER-BOTTOM: rgb(180,180,180) 1px dotted; HEIGHT: 1px
+}
+P SPAN.highlight {
+	BACKGROUND-COLOR: rgb(255,255,80)
+}
+P SPAN.highlight A {
+	PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0.25em; COLOR: rgb(210,0,0); PADDING-TOP: 0.25em; FONT-FAMILY: sans-serif
+}
+INPUT.catch_bots {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; VISIBILITY: hidden; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 0px
+}
+DIV#container {
+	MARGIN: 0px auto; WIDTH: 980px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-ALIGN: left
+}
+BODY#index DIV#container {
+	WIDTH: 780px
+}
+BODY#collection DIV#container {
+	WIDTH: 780px
+}
+BODY#page DIV#container {
+	WIDTH: 780px
+}
+DIV#parent_nav {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.75em; PADDING-BOTTOM: 1em; MARGIN: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: rgb(60,60,60) 1px solid
+}
+BODY#index DIV#parent_nav {
+	BACKGROUND-COLOR: rgb(240,240,240)
+}
+BODY#collection DIV#parent_nav {
+	BACKGROUND-COLOR: rgb(240,240,240)
+}
+BODY#page DIV#parent_nav {
+	BORDER-BOTTOM: rgb(180,180,180) 1px solid
+}
+DIV#sibling_nav {
+	CLEAR: both; PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-SIZE: 0.75em; PADDING-BOTTOM: 0.25em; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 1.25em; BACKGROUND-COLOR: rgb(255,255,255)
+}
+DIV#sibling_nav SPAN.back {
+	FLOAT: left; WIDTH: 50%; TEXT-ALIGN: left
+}
+DIV#sibling_nav SPAN.next {
+	FLOAT: right; WIDTH: 50%; TEXT-ALIGN: right
+}
+DIV#sibling_nav SPAN.next SPAN {
+	COLOR: rgb(100,100,100)
+}
+DIV#sibling_nav SPAN.prev {
+	COLOR: rgb(100,100,100)
+}
+A {
+	COLOR: #009; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #333; TEXT-DECORATION: underline
+}
+DIV#description {
+	MARGIN: 0px 1em
+}
+DIV#description P {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+DIV#content {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0px
+}
+DIV#comments {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0px
+}
+DIV#collection_links {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0px
+}
+DIV#page_links {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0px
+}
+DIV#link_code {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0px
+}
+DIV#ext_links {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0px
+}
+BODY#page DIV#page_links {
+	FONT-SIZE: 0.75em
+}
+DIV#content H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px 0.25em; PADDING-TOP: 0px
+}
+DIV.page_link H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px 0.25em; PADDING-TOP: 0px
+}
+DIV.collection_link H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px 0.25em; PADDING-TOP: 0px
+}
+DIV.page_link H2 {
+	FONT-SIZE: 1.25em
+}
+DIV.collection_link H2 {
+	FONT-SIZE: 1.25em
+}
+DIV#description {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/site/header_bg.jpg) no-repeat left top; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1px; PADDING-TOP: 0px; BORDER-BOTTOM: rgb(180,180,180) 1px solid; HEIGHT: 170px
+}
+BODY#page DIV#description {
+	HEIGHT: auto
+}
+DIV#description DIV {
+	FILTER: alpha(opacity=75); LEFT: 0px; POSITION: relative; TOP: 125px; HEIGHT: 45px; BACKGROUND-COLOR: silver; TEXT-ALIGN: right; opacity: .75; moz-opacity: 0.75
+}
+BODY#page DIV#description DIV {
+	POSITION: static; HEIGHT: auto; TEXT-ALIGN: left
+}
+DIV#description DIV H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 20pt; PADDING-BOTTOM: 0px; MARGIN: 0px 14px; COLOR: black; PADDING-TOP: 0px; FONT-FAMILY: Arial Black, sans-serif
+}
+BODY#page DIV#description DIV H1 {
+	FONT-SIZE: 18pt
+}
+DIV#description DIV P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 9pt; PADDING-BOTTOM: 0px; MARGIN: 0px 14px; PADDING-TOP: 0px; FONT-FAMILY: Verdana, sans-serif
+}
+DIV#content {
+	MARGIN: 1em 0px; LINE-HEIGHT: 1.65em
+}
+DIV#content H1 {
+	FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+DIV#content H2 {
+	FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+DIV#content H3 {
+	FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+DIV#content H4 {
+	FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+DIV#content H5 {
+	FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+DIV#content H6 {
+	FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+DIV#content H1 {
+	FONT-SIZE: 1.75em
+}
+DIV#content P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1.5em; PADDING-TOP: 0px
+}
+DIV.page_link P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1.5em; PADDING-TOP: 0px
+}
+DIV.collection_link P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1.5em; PADDING-TOP: 0px
+}
+DIV#content TABLE {
+	CLEAR: both; MARGIN: 1em 0px 2em; WIDTH: 100%; BORDER-BOTTOM: rgb(180,180,180) 1px solid
+}
+DIV#content TABLE THEAD {
+	FONT-SIZE: 0.95em; FONT-FAMILY: sans-serif
+}
+DIV#content TABLE TBODY {
+	FONT-SIZE: 0.95em; FONT-FAMILY: sans-serif
+}
+DIV#content TABLE TFOOT {
+	FONT-SIZE: 0.95em; FONT-FAMILY: sans-serif
+}
+DIV#content TABLE THEAD TR TD {
+	BORDER-BOTTOM: rgb(180,180,180) 1px solid
+}
+DIV#content TABLE TBODY {
+	FONT-SIZE: 0.95em; FONT-FAMILY: monospace
+}
+SPAN.image_group {
+	CLEAR: both; DISPLAY: block; WIDTH: 100%; TEXT-ALIGN: center
+}
+SPAN.image_group IMG {
+	BORDER-RIGHT: rgb(100,100,100) 1px solid; BORDER-TOP: rgb(100,100,100) 1px solid; MARGIN: 1em 0.5em 0px 1em; BORDER-LEFT: rgb(100,100,100) 1px solid; BORDER-BOTTOM: rgb(100,100,100) 1px solid
+}
+SPAN.image_group SPAN.caption {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-SIZE: 0.8em; PADDING-BOTTOM: 0px; MARGIN: 0.25em auto 1em; WIDTH: 300px; PADDING-TOP: 0px; FONT-FAMILY: sans-serif; TEXT-ALIGN: left
+}
+DIV#content BLOCKQUOTE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(/images/quotes1.png) no-repeat 0px 2px; PADDING-BOTTOM: 0px; MARGIN: 0.5em 3em 0.5em 2em; TEXT-INDENT: 25px; PADDING-TOP: 0px; TEXT-ALIGN: justify
+}
+DIV#content BLOCKQUOTE P {
+	PADDING-RIGHT: 24px; DISPLAY: inline; PADDING-LEFT: 0px; FONT-SIZE: 0.9em; BACKGROUND: url(/images/quotes2.png) no-repeat right bottom; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV#content DIV.google_ad {
+	MARGIN: 0px 0px 1em
+}
+DIV#content DIV.google_ad_float {
+	FLOAT: left; MARGIN: 0px 1em 0px 0px
+}
+DIV#content DIV.content_ad {
+	FLOAT: right
+}
+DIV#comments {
+	CLEAR: both; MARGIN: 0px auto 1em
+}
+DIV#link_code {
+	CLEAR: both; MARGIN: 0px auto 1em
+}
+DIV#comments H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px; PADDING-TOP: 0px
+}
+DIV#link_code H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px; PADDING-TOP: 0px
+}
+DIV#comments H2 SPAN.action {
+	PADDING-LEFT: 1em; FONT-SIZE: 0.5em
+}
+DIV#comments DIV.comment {
+	CLEAR: both; MARGIN: 0px auto 1em; WIDTH: 80%
+}
+DIV#comments DIV.comment P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV#comments DIV.comment P.created_at {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.78em; FLOAT: right; PADDING-BOTTOM: 0.2em; COLOR: rgb(100,100,100); PADDING-TOP: 0.2em
+}
+DIV#comments DIV.comment P.byline {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.78em; FLOAT: left; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em
+}
+DIV#comments DIV.comment P.byline SPAN.email {
+	COLOR: rgb(100,100,100)
+}
+DIV#comments DIV.comment P.body {
+	CLEAR: left; PADDING-RIGHT: 0.5em; BORDER-TOP: rgb(180,180,180) 1px dotted; PADDING-LEFT: 0.5em; FONT-SIZE: 0.9em; PADDING-BOTTOM: 0.25em; BORDER-LEFT: rgb(180,180,180) 4px solid; PADDING-TOP: 0.25em
+}
+DIV.form_container {
+	CLEAR: both; MARGIN: 0px auto; WIDTH: 500px
+}
+DIV.form_container FORM P {
+	CLEAR: both; PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px; PADDING-TOP: 0px
+}
+DIV.form_container FORM LABEL {
+	DISPLAY: block; FONT-WEIGHT: bold; FLOAT: left; WIDTH: 25%; MARGIN-RIGHT: 4%; PADDING-TOP: 0.2em; FONT-FAMILY: sans-serif; TEXT-ALIGN: right
+}
+DIV.form_container FORM TEXTAREA {
+	WIDTH: 70%; HEIGHT: 200px
+}
+DIV.form_container FORM DIV.errorExplanation {
+	PADDING-RIGHT: 1em; BORDER-TOP: rgb(255,0,0) 1px solid; PADDING-LEFT: 1em; BACKGROUND: rgb(255,220,220); PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+DIV.form_container FORM DIV.errorExplanation H2 {
+	FONT-SIZE: 0.9em; FONT-FAMILY: sans-serif
+}
+DIV.form_container FORM DIV.errorExplanation P {
+	FONT-SIZE: 0.8em; FONT-FAMILY: sans-serif
+}
+DIV.form_container FORM DIV.errorExplanation UL LI {
+	FONT-SIZE: 0.8em; FONT-FAMILY: sans-serif
+}
+DIV.form_container FORM DIV.fieldWithErrors INPUT {
+	BORDER-RIGHT: rgb(255,0,0) 2px solid; BORDER-TOP: rgb(255,0,0) 2px solid; BORDER-LEFT: rgb(255,0,0) 2px solid; BORDER-BOTTOM: rgb(255,0,0) 2px solid
+}
+DIV.form_container FORM DIV.fieldWithErrors TEXTAREA {
+	BORDER-RIGHT: rgb(255,0,0) 2px solid; BORDER-TOP: rgb(255,0,0) 2px solid; BORDER-LEFT: rgb(255,0,0) 2px solid; BORDER-BOTTOM: rgb(255,0,0) 2px solid
+}
+DIV.form_container FORM P.notice {
+	PADDING-RIGHT: 0px; BORDER-TOP: rgb(0,255,0) 1px solid; PADDING-LEFT: 0px; FONT-SIZE: 0.8em; BACKGROUND: rgb(220,255,220); PADDING-BOTTOM: 0.1em; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0.1em; BORDER-BOTTOM: rgb(0,255,0) 1px solid; FONT-FAMILY: sans-serif
+}
+DIV.form_container FORM P.submit {
+	PADDING-RIGHT: 0px; BORDER-TOP: rgb(180,180,180) 1px dashed; PADDING-LEFT: 0px; FONT-SIZE: 0.75em; BACKGROUND-IMAGE: url(/images/form_bg.gif); PADDING-BOTTOM: 0.5em; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0.25em; FONT-FAMILY: sans-serif; TEXT-ALIGN: right
+}
+DIV.form_container FORM INPUT#comment_captcha_validation {
+	VERTICAL-ALIGN: top; WIDTH: 10em
+}
+DIV.form_container FORM P.submit INPUT {
+	MARGIN: 0px 1em 0px 0.25em
+}
+DIV#disclaimer {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: 100%; PADDING-TOP: 0px; BACKGROUND-COLOR: rgb(255,255,150)
+}
+DIV#disclaimer P {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 8pt; PADDING-BOTTOM: 2px; MARGIN: 0px; COLOR: #333; LINE-HEIGHT: 120%; PADDING-TOP: 2px; FONT-FAMILY: arial; TEXT-ALIGN: center
+}
+DIV#ext_links {
+	CLEAR: both; PADDING-TOP: 0.25em
+}
+DIV#ext_links P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.7em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV#footer {
+	CLEAR: both; BORDER-TOP: rgb(180,180,180) 1px solid
+}
+BODY#index DIV#footer {
+	BACKGROUND-COLOR: rgb(240,240,240)
+}
+BODY#collection DIV#footer {
+	BACKGROUND-COLOR: rgb(240,240,240)
+}
+DIV#footer P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0.6em; PADDING-BOTTOM: 1em; MARGIN: 0px; COLOR: rgb(100,100,100); PADDING-TOP: 2px; FONT-FAMILY: sans-serif; TEXT-ALIGN: center
+}
+DIV.jrank_search {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: 250px; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+DIV.jrank_search FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.jrank_search FIELDSET {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: medium none; PADDING-TOP: 0px; BORDER-BOTTOM: medium none
+}
+DIV.jrank_search INPUT {
+	VERTICAL-ALIGN: middle
+}
+DIV.jrank_search .queryText INPUT {
+	BORDER-RIGHT: #555 1px solid; BORDER-TOP: #555 1px solid; DISPLAY: inline; BORDER-LEFT: #555 1px solid; BORDER-BOTTOM: #555 1px solid
+}

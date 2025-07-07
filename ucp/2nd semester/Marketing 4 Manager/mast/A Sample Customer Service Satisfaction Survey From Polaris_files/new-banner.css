@@ -1,0 +1,69 @@
+.bannerlogo {
+	DISPLAY: none
+}
+TD.bannertop {
+	BORDER-TOP: #000000 1px solid; BACKGROUND-IMAGE: url(../imagesweb/common/banner-repeattop.jpg); BACKGROUND-REPEAT: repeat-x
+}
+TD.bannerbtm {
+	BACKGROUND-IMAGE: url(../imagesweb/common/banner-repeatbtm.jpg); BACKGROUND-REPEAT: repeat-x
+}
+TD.navigation {
+	BACKGROUND-IMAGE: url(../imagesweb/common/fill_mainnav.gif); BACKGROUND-REPEAT: repeat-x
+}
+.sp2_field {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; COLOR: #000000; PADDING-TOP: 2px; BACKGROUND-COLOR: #efefef
+}
+.sp2_btn {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: 0; BACKGROUND-COLOR: #738252
+}
+A.sp2_advanced:link {
+	FONT-SIZE: 10px; COLOR: #9e9c9c; FONT-FAMILY: 0
+}
+A.sp2_advanced:active {
+	FONT-SIZE: 10px; COLOR: #9e9c9c; FONT-FAMILY: 0
+}
+A.sp2_advanced:visited {
+	FONT-SIZE: 10px; COLOR: #9e9c9c; FONT-FAMILY: 0
+}
+A.sp2_advanced:hover {
+	FONT-SIZE: 10px; COLOR: #cccccc; FONT-FAMILY: 0
+}
+A.sp2_title:link {
+	FONT-SIZE: 13px; COLOR: #7777cc; FONT-FAMILY: 0
+}
+A.sp2_title:active {
+	FONT-SIZE: 13px; COLOR: #7777cc; FONT-FAMILY: 0
+}
+A.sp2_title:visited {
+	FONT-SIZE: 13px; COLOR: #7777cc; FONT-FAMILY: 0
+}
+A.sp2_title:hover {
+	FONT-SIZE: 13px; COLOR: #7777cc; FONT-FAMILY: 0
+}
+.sp2_result {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: 0
+}
+.sp2_select {
+	FONT-SIZE: 11px; COLOR: #990000; FONT-FAMILY: 0
+}
+.sp2_address {
+	FONT-SIZE: 11px; COLOR: #008000; FONT-FAMILY: 0
+}
+.sp2_page {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: 0
+}
+A.sp2_page:link {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: 0
+}
+A.sp2_page:active {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: 0
+}
+A.sp2_page:visited {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: 0
+}
+A.sp2_page:hover {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: 0
+}
+.sp2_nowpage {
+	FONT-SIZE: 11px; COLOR: #a90a08; FONT-FAMILY: 0
+}

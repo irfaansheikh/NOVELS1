@@ -1,0 +1,27 @@
+#video {
+	BORDER-RIGHT: #339933 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #339933 1px solid; PADDING-LEFT: 10px; BACKGROUND: url(images/video_bg.jpg) repeat-x left top; PADDING-BOTTOM: 10px; BORDER-LEFT: #339933 1px solid; WIDTH: 250px; PADDING-TOP: 10px; BORDER-BOTTOM: #339933 1px solid
+}
+#video H1 {
+	FONT-SIZE: 14px; MARGIN-BOTTOM: 20px; COLOR: #339933
+}
+#video UL {
+	LIST-STYLE-TYPE: none
+}
+#video LI {
+	MARGIN-BOTTOM: 4px; PADDING-BOTTOM: 3px; BORDER-BOTTOM: #e5e5e5 1px solid; LIST-STYLE-TYPE: none
+}
+#headers H1 {
+	FONT-SIZE: 18px
+}
+#headers H2 {
+	FONT-SIZE: 18px
+}
+#headers H1 {
+	MARGIN-BOTTOM: 5px; COLOR: #bbbbbb
+}
+#headers H2 {
+	MARGIN-BOTTOM: 20px; COLOR: #339933
+}
+#intro {
+	FONT-WEIGHT: bold; MARGIN-BOTTOM: 10px
+}

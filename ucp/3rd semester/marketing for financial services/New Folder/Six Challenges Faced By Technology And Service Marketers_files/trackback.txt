@@ -1,0 +1,12 @@
+#!/usr/bin/perl
+
+use lib '/home/iunctura/var/cgi-lib';
+use trackback::service;
+
+$tb = new trackback::service(
+    DATA_DIRECTORY=>"/home/iunctura/var/weblog/tb_radio",
+    RSS_FILE=>"/home/iunctura/var/weblog/tb_radio/trackback.xml"
+);
+$tb->handle();
+
+exit(0);

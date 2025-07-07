@@ -1,0 +1,120 @@
+ {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none; BORDER-RIGHT-WIDTH: 0px
+}
+BODY {
+	BACKGROUND: #000
+}
+#header {
+	BACKGROUND: url(../images/bg.gif) repeat-x 50% bottom; WIDTH: 100%; POSITION: relative; HEIGHT: 15em
+}
+#masthead {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 19em; PADDING-BOTTOM: 5.8em; MARGIN: 0px auto; WIDTH: 50em; PADDING-TOP: 4em; POSITION: relative; HEIGHT: 5.2em
+}
+#masthead UL {
+	BOTTOM: 0px; POSITION: absolute
+}
+#masthead LI {
+	BACKGROUND: url(../images/nav_over.gif) #d8ed46 repeat-x 50% bottom; FLOAT: left; MARGIN-RIGHT: 10px
+}
+#masthead LI A {
+	DISPLAY: block; BACKGROUND: url(../images/nav_over_left.gif) no-repeat left top
+}
+#masthead LI:hover {
+	BACKGROUND: url(../images/nav_under.gif) #d8ed46 repeat-x 50% bottom
+}
+#masthead LI A STRONG {
+	PADDING-RIGHT: 10px; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND: url(../images/nav_over_right.gif) no-repeat right top; PADDING-BOTTOM: 0.5em; MARGIN-LEFT: 10px; PADDING-TOP: 0.5em
+}
+#masthead IMG {
+	BORDER-RIGHT: #fff 0.3em solid; BORDER-TOP: #fff 0.3em solid; LEFT: 0px; BORDER-LEFT: #fff 0.3em solid; WIDTH: 15em; BOTTOM: 2em; BORDER-BOTTOM: #fff 0.3em solid; POSITION: absolute; HEIGHT: 10em; outline: 0.2em solid #000
+}
+#main {
+	Z-INDEX: 2; BACKGROUND: url(../images/main.gif) #fff repeat-x; WIDTH: 100%; POSITION: absolute
+}
+#content {
+	PADDING-RIGHT: 2em; PADDING-LEFT: 2em; BACKGROUND: #fff; PADDING-BOTTOM: 2em; MARGIN: 0px auto; WIDTH: 72em; PADDING-TOP: 2em
+}
+#subContent {
+	PADDING-LEFT: 2em; BACKGROUND: url(../images/green_vr.gif) repeat-y; FLOAT: right; WIDTH: 18em
+}
+.article {
+	PADDING-RIGHT: 2em; BACKGROUND: url(../images/hr.gif) no-repeat right bottom; PADDING-BOTTOM: 6.5em; WIDTH: 49.5em; POSITION: relative
+}
+.article UL {
+	MARGIN: 1em 0px
+}
+.article LI {
+	MARGIN-BOTTOM: 0.5em; MARGIN-LEFT: 1.5em
+}
+.article UL LI {
+	PADDING-LEFT: 1em; BACKGROUND: url(../images/bullet.gif) no-repeat left 50%
+}
+#subContent UL LI {
+	PADDING-LEFT: 1em; BACKGROUND: url(../images/bullet.gif) no-repeat left 50%
+}
+.comments {
+	RIGHT: 3em; BOTTOM: 3em; POSITION: absolute
+}
+.article .comments LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.hr {
+	WIDTH: 55em; HEIGHT: 128px
+}
+#footer {
+	CLEAR: both; BACKGROUND: #000; POSITION: relative; HEIGHT: 20em
+}
+#footer UL {
+	BORDER-RIGHT: #cf0 1px solid; PADDING-RIGHT: 1em; MARGIN-TOP: -4em; PADDING-LEFT: 1em; RIGHT: 50%; PADDING-BOTTOM: 3em; PADDING-TOP: 3em; POSITION: absolute; TOP: 50%; TEXT-ALIGN: right
+}
+#footer IMG {
+	BORDER-RIGHT: #fff 5px solid; BORDER-TOP: #fff 5px solid; MARGIN-TOP: -2.9em; BACKGROUND: #ccc; LEFT: 50%; MARGIN-LEFT: 1em; BORDER-LEFT: #fff 5px solid; WIDTH: 5em; BORDER-BOTTOM: #fff 5px solid; POSITION: absolute; TOP: 50%; HEIGHT: 5em; outline: 0.1em solid #333
+}
+BODY {
+	FONT: 62.5% "Trebuchet MS"; COLOR: #333
+}
+A {
+	COLOR: #090
+}
+P {
+	FONT-SIZE: 1.2em; MARGIN-BOTTOM: 1em; LINE-HEIGHT: 1.5em
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 3.6em; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #fff; PADDING-TOP: 0px
+}
+H2 {
+	FONT-SIZE: 2em; MARGIN-BOTTOM: 0.5em; LINE-HEIGHT: 1.5em
+}
+BLOCKQUOTE {
+	PADDING-LEFT: 2em; MARGIN-LEFT: 1em; BORDER-LEFT: #090 0.3em solid; COLOR: #666
+}
+.article LI {
+	FONT-SIZE: 1.2em
+}
+.comments {
+	FONT-SIZE: 0.95em
+}
+#subContent H2 {
+	FONT-SIZE: 1.3em
+}
+#subContent P {
+	FONT-SIZE: 1.1em
+}
+#masthead P {
+	COLOR: #cf0
+}
+#masthead LI A {
+	FONT-SIZE: 1.2em; COLOR: #000; TEXT-DECORATION: none
+}
+#footer {
+	COLOR: #ccc
+}
+#footer A {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+#footer A:hover {
+	TEXT-DECORATION: underline
+}
+#footer P {
+	MARGIN-BOTTOM: 0px
+}

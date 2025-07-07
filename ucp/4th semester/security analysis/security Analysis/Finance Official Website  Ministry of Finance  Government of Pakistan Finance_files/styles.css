@@ -1,0 +1,69 @@
+BODY {
+	BACKGROUND-IMAGE: url(../images/patt1.jpg)
+}
+.main {
+	FONT-SIZE: 11px; COLOR: #6a6a6a; FONT-FAMILY: Tahoma
+}
+.search {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #6a6a6a; FONT-FAMILY: Tahoma
+}
+.menuheading {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #699b62; FONT-FAMILY: Tahoma
+}
+.bodytext_form_field {
+	FONT-SIZE: 11px; COLOR: #6a6a6a; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.bottom {
+	FONT-SIZE: 11px; COLOR: #6a6a6a; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.pageheading {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.news {
+	COLOR: #666666; FONT-FAMILY: Arial
+}
+.newsheading {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #002164; FONT-FAMILY: Century Gothic
+}
+.address {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #3b5fdf; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #6a6a6a; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.menu:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #6a6a6a; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.menu:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #6a6a6a; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.menu:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #6a6a6a; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.topmenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.topmenu:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.topmenu:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma
+}
+A.topmenu:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.hedding {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffcc00; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.green {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #699b62; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.green:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #699b62; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.green:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #699b62; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.green:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #699b62; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}

@@ -1,0 +1,162 @@
+UL {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.text {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.topnavig {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.xhit {
+	TEXT-DECORATION: none
+}
+.path2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.channelname {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textwhite {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #306898; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.textspecial {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffcc00; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textwhitesmall {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #306898; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.text2white {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.text2whitelink {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.titlelink {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.title2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.title2link {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.title3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.title3link {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.textarticle {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.text {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.text3 {
+	FONT-SIZE: 12px; COLOR: #ffffff
+}
+.textsmall {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textlink {
+	FONT-SIZE: 12px; COLOR: #0000cc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.text2 {
+	FONT-SIZE: 11px; COLOR: #306898; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.text2link {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.text2link A:link {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.text2link A:visited {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.text2link A:hover {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.textb {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.textblink {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.caption {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.copy {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.date {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.datelink {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.menutitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: 1px
+}
+A:hover {
+	TEXT-DECORATION: none
+}
+.logotitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #8b0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: normal; TEXT-DECORATION: none
+}
+.logotitlesmall {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #8b0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: normal; TEXT-DECORATION: none
+}
+.CATEGORY {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica
+}
+.CATEGORY A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.CATEGORY A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.CATEGORY A:hover {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.PRINAV {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000066; FONT-FAMILY: Arial, Helvetica
+}
+.PRINAV A:link {
+	FONT-WEIGHT: bold; COLOR: #000066; TEXT-DECORATION: none
+}
+.PRINAV A:visited {
+	FONT-WEIGHT: bold; COLOR: #000066; TEXT-DECORATION: none
+}
+.PRINAV A:hover {
+	FONT-WEIGHT: bold; COLOR: #000066; TEXT-DECORATION: none
+}
+.textlinkun-underline {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.heading {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.navBtnDv {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 2px
+}
+.text2Yellow {
+	FONT-SIZE: 12px; COLOR: #ffff00; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.bgwithtext {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ff6600
+}
+.linkTextOnly {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}

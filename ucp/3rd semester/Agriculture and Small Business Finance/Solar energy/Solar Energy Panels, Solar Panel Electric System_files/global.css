@@ -1,0 +1,57 @@
+BODY {
+	BACKGROUND-POSITION: 50% top; FONT-WEIGHT: normal; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/bg.gif); MARGIN: 0px; COLOR: #555555; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Tahoma, Arial, Verdana; BACKGROUND-COLOR: #fff1b8; TEXT-DECORATION: none
+}
+.txt_are {
+	BORDER-RIGHT: #a5acb2 1px solid; BORDER-TOP: #a5acb2 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 10px; BORDER-LEFT: #a5acb2 1px solid; BORDER-BOTTOM: #a5acb2 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana
+}
+.txt_submit {
+	BORDER-RIGHT: #333333 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #333333 1px solid; DISPLAY: block; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; BORDER-LEFT: #333333 1px solid; WIDTH: 165px; COLOR: #ffffff; BORDER-BOTTOM: #333333 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 20px; BACKGROUND-COLOR: #bc6500; TEXT-DECORATION: none
+}
+.table_border {
+	BORDER-RIGHT: #edb747 1px solid; BORDER-LEFT: #edb747 1px solid; BORDER-BOTTOM: #edb747 1px solid
+}
+.navigation_td {
+	PADDING-RIGHT: 9px; PADDING-LEFT: 9px
+}
+.fnt_navigation {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #bc6500; FONT-FAMILY: "Trebuchet MS", Tahoma, Arial; TEXT-DECORATION: none
+}
+.fnt_a:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #bc6500; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.fnt_a:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #bc6500; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.fnt_a:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #bc6500; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: underline
+}
+.fnt_a:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #bc6500; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: underline
+}
+.td_center {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; COLOR: #000000; PADDING-TOP: 2px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.fnt_brow {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #bc6500; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.border {
+	BORDER-RIGHT: #e8d9a4 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #e8d9a4 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #e8d9a4 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #e8d9a4 1px solid
+}
+.thoma_fnta:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #e87d01; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.thoma_fnta:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #e87d01; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.thoma_fnta:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #e87d01; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: underline
+}
+.thoma_fnta:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #e87d01; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: underline
+}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 19px; COLOR: #676767; FONT-FAMILY: "Trebuchet MS", Tahoma, Arial; TEXT-DECORATION: none
+}
+TABLE TD.body_outer {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc 1px solid
+}

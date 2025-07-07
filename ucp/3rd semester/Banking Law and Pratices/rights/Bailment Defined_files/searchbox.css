@@ -1,0 +1,12 @@
+#search_box {
+	CLEAR: both; BORDER-RIGHT: #800080 1px solid; BORDER-TOP: #800080 1px solid; FONT-WEIGHT: 700; FONT-SIZE: 12px; BACKGROUND: #000099; BORDER-LEFT: #800080 1px solid; WIDTH: 280px; COLOR: #ffd700; BORDER-BOTTOM: #800080 1px solid; FONT-FAMILY: serif; HEIGHT: 45px; TEXT-ALIGN: center; font-color: #FFD700
+}
+.center {
+	TEXT-ALIGN: center
+}
+.color_secondary {
+	COLOR: #800080
+}
+.inline {
+	DISPLAY: inline; FONT-WEIGHT: 700; FONT-SIZE: 11px; COLOR: #000080
+}

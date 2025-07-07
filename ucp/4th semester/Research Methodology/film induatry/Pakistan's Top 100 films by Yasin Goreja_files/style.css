@@ -1,0 +1,117 @@
+BODY {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: verdana, Arial, Helvetica bold
+}
+TD {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana, Arial, Helvetica bold
+}
+TH {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana, Arial, Helvetica bold
+}
+INPUT {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana,  Arial, Helvetica bold
+}
+TEXTAREA {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana, Arial, Helvetica bold
+}
+A:link {
+	COLOR: blue; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: darkblue; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red; TEXT-DECORATION: none
+}
+DIV {
+	FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: verdana, Arial, Helvetica bold
+}
+.frontpage {
+	FONT: bold 14px Arial, Helvetica, sans-serif; COLOR: red
+}
+.filmstars {
+	FONT: bold 14px Arial, Helvetica, sans-serif; COLOR: yellow
+}
+.filmstars12 {
+	FONT: bold 12px Arial, Helvetica, sans-serif; COLOR: yellow
+}
+.filmstars10 {
+	FONT: 10px Arial, Helvetica, sans-serif; COLOR: yellow
+}
+.filmstars8 {
+	FONT: bold 8px Arial, Helvetica, sans-serif; COLOR: yellow
+}
+.year_red {
+	FONT-WEIGHT: bold; FONT-SIZE: 32px; COLOR: #ff0000; FONT-FAMILY: "Times New Roman", Times, serif; TEXT-DECORATION: underline
+}
+.head_red {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; COLOR: #ff0000; FONT-STYLE: oblique; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.HeadRed {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; COLOR: #ff0000; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.HeadBlue {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; COLOR: blue; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.HeadBlack {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; COLOR: black; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.HeadWhite {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; COLOR: white; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.HeadGray {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; COLOR: gray; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.HeadYellow {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; COLOR: yellow; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.head_blue {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; COLOR: blue; FONT-STYLE: oblique; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.HeadBlue {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; COLOR: blue; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.HeadRed16 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: red; FONT-STYLE: oblique; FONT-FAMILY: "Times New Roman", Times, serif; TEXT-DECORATION: underline
+}
+.HeadBlue16 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: blue; FONT-STYLE: oblique; FONT-FAMILY: "Times New Roman", Times, serif; TEXT-DECORATION: underline
+}
+.style1 {
+	FONT-SIZE: 10px; COLOR: yellow; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.style2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.style3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #999999; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.style3a {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #999999; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.style4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: yellow; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.style5 {
+	FONT-SIZE: 10px; COLOR: #ff0000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.style6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.style6a {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.headVerdanaRed10 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: red; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.VerdanaRedBoldUnderline11 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.VerdanaRedBold13 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: red; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.headings {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: red; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.headings10 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: red; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}

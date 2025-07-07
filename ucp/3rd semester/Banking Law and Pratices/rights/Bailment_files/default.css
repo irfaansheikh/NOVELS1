@@ -1,0 +1,72 @@
+.SkinObject {
+	FONT-WEIGHT: 700
+}
+.Normal {
+	FONT-WEIGHT: 400
+}
+.NormalDisabled {
+	FONT-WEIGHT: 400
+}
+.NormalDisabled {
+	COLOR: silver
+}
+.NormalRed {
+	FONT-WEIGHT: 700; FONT-SIZE: 1em; COLOR: red
+}
+.Help {
+	BORDER-RIGHT: #000 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #000 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: 400; PADDING-BOTTOM: 2px; BORDER-LEFT: #000 1px solid; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #000 1px solid; BACKGROUND-COLOR: #ff9
+}
+.StandardButton {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: 400; BACKGROUND: #ddd; COLOR: #000
+}
+A.SkinObject:link {
+	TEXT-DECORATION: none
+}
+A.SkinObject:visited {
+	TEXT-DECORATION: none
+}
+A.SkinObject:active {
+	TEXT-DECORATION: none
+}
+A.SkinObject:hover {
+	TEXT-DECORATION: none
+}
+.NormalBold {
+	FONT-WEIGHT: 700
+}
+H5 {
+	FONT-WEIGHT: 700
+}
+DT {
+	FONT-WEIGHT: 700
+}
+H6 {
+	FONT-WEIGHT: 700
+}
+.NormalTextBox {
+	FONT-WEIGHT: 400; FONT-SIZE: 1em
+}
+H3 {
+	FONT-WEIGHT: 400; FONT-SIZE: 1em
+}
+H4 {
+	FONT-WEIGHT: 400; FONT-SIZE: 1em
+}
+.clearBoth {
+	CLEAR: both; LINE-HEIGHT: 0; HEIGHT: 0px
+}
+.imageLeft {
+	FLOAT: left; MARGIN: 0.5em 1em 0.5em 0px
+}
+.imageRight {
+	FLOAT: right; MARGIN: 0.5em 0px 0.5em 1em
+}
+.imageLeftBorder {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 1px solid; PADDING-LEFT: 2px; FLOAT: left; PADDING-BOTTOM: 2px; MARGIN: 0.5em 1em 0.5em 0px; BORDER-LEFT: 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: 1px solid
+}
+.imageRightBorder {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 1px solid; PADDING-LEFT: 2px; FLOAT: right; PADDING-BOTTOM: 2px; MARGIN: 0.5em 0px 0.5em 1em; BORDER-LEFT: 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: 1px solid
+}
+.Code {
+	FONT-FAMILY: "Courier New", Courier, monospace
+}

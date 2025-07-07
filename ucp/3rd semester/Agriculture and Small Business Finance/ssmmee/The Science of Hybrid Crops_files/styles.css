@@ -1,0 +1,72 @@
+BODY {
+	FONT-SIZE: 14px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+P {
+	MARGIN-TOP: 8px; FONT-SIZE: 14px; MARGIN-BOTTOM: 5px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+UL {
+	MARGIN-TOP: 0px; FONT-SIZE: 14px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+TD {
+	FONT-SIZE: 14px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+H1 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 36px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; COLOR: #000000; PADDING-TOP: 0px; FONT-STYLE: normal; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.caption {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif; TEXT-ALIGN: center
+}
+.beige {
+	COLOR: #ffffcc
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.beigeCaption {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffcc; FONT-FAMILY: Georgia, "Times New Roman", Times, serif; TEXT-ALIGN: center
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 22px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.smallerWhite {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; TEXT-DECORATION: blink
+}
+.black {
+	COLOR: #000000
+}
+.glossterm {
+	FONT-WEIGHT: bold; COLOR: #cc6600; TEXT-DECORATION: none
+}
+.header2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 22px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.header3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Georgia, "Times New Roman", Times, serif
+}
+.indent {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 15px
+}
+.red {
+	DISPLAY: none; COLOR: #ff0000
+}
+.sectionIndent {
+	MARGIN-TOP: 0px; LIST-STYLE-POSITION: outside; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 30px; TEXT-INDENT: -6pt; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.pNoSpacing {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+.attribution {
+	FONT-WEIGHT: bold; FONT-STYLE: italic
+}
+.definition {
+	FONT-SIZE: 12px; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+.writtenby {
+	FONT-SIZE: 9px; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+.email {
+	FONT-SIZE: 11px; MARGIN-LEFT: 30px; FONT-FAMILY: Geneva, Helvetica, Arial, sans-serif
+}
+.qtrequired {
+	FONT-SIZE: 11px
+}

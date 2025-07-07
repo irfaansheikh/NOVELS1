@@ -1,0 +1,51 @@
+.text {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: normal; FONT-FAMILY: verdana, Arial, Futura; TEXT-ALIGN: left
+}
+.sidelink {
+	PADDING-LEFT: 8px; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; COLOR: black; PADDING-TOP: 3px; FONT-FAMILY: verdana, arial; TEXT-ALIGN: left
+}
+.sidelinkdf {
+	PADDING-LEFT: 10px; FONT-SIZE: 11px; PADDING-BOTTOM: 10px; COLOR: black; PADDING-TOP: 10px; FONT-FAMILY: verdana, arial; TEXT-ALIGN: left
+}
+A.sidelink:visited {
+	FONT-WEIGHT: normal; COLOR: #333333
+}
+A.sidelink:hover {
+	COLOR: #987b3b
+}
+A {
+	TEXT-DECORATION: none
+}
+.copyrights {
+	FONT-SIZE: 10px; COLOR: #4a4a4a; FONT-FAMILY: verdana, arial; TEXT-ALIGN: right
+}
+.headings {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 14px; FONT-FAMILY: verdana, arial; TEXT-ALIGN: left
+}
+.LeftHeading {
+	PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 3px; COLOR: black; LINE-HEIGHT: 14px; PADDING-TOP: 3px; FONT-FAMILY: verdana, arial; TEXT-ALIGN: left
+}
+.companyname {
+	PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 20px; CURSOR: text; COLOR: #ffffff; LINE-HEIGHT: 25px; FONT-FAMILY: verdana, arial; TEXT-ALIGN: left
+}
+.companyname2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; CURSOR: text; COLOR: #666666; LINE-HEIGHT: 18px; FONT-FAMILY: verdana, arial; TEXT-ALIGN: left
+}
+.companyname3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; CURSOR: text; COLOR: #987b3b; LINE-HEIGHT: 18px; FONT-FAMILY: verdana, arial; TEXT-ALIGN: left
+}
+.toplinks {
+	COLOR: #ffffff
+}
+A:hover {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+.box {
+	BACKGROUND-COLOR: #666699
+}
+.textcolor {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #b872b8; LINE-HEIGHT: normal; FONT-FAMILY: verdana, Arial, Futura; TEXT-ALIGN: left
+}
+.centerhead {
+	PADDING-LEFT: 8px; PADDING-BOTTOM: 3px; FONT: 15px "Times New Roman", Times, serif; COLOR: black; PADDING-TOP: 3px; TEXT-ALIGN: left
+}

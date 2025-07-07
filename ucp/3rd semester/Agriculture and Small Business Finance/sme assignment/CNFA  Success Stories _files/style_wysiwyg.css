@@ -1,0 +1,360 @@
+IMG.leftAligned {
+	FLOAT: left; MARGIN: 20px 20px 20px 0px; editor-description: Image - Left-Aligned
+}
+IMG.rightAligned {
+	FLOAT: right; MARGIN: 20px 0px 20px 20px; editor-description: Image - Right-Aligned
+}
+IMG.leftAlignedTopFlush {
+	FLOAT: left; MARGIN: 0px 20px 20px 0px; editor-description: Image - Left-Aligned Top Flush
+}
+IMG.rightAlignedTopFlush {
+	FLOAT: right; MARGIN: 0px 0px 20px 20px; editor-description: Image - Right-Aligned Top Flush
+}
+P.bigtext {
+	FONT-SIZE: 18px! important; LINE-HEIGHT: 22px! important; editor-description: Size - Big Text
+}
+P.bigtext  {
+	FONT-SIZE: 18px! important; LINE-HEIGHT: 22px! important; editor-description: Size - Big Text
+}
+UL.bigtext {
+	FONT-SIZE: 18px! important; LINE-HEIGHT: 22px! important; editor-description: Size - Big Text
+}
+UL.bigtext  {
+	FONT-SIZE: 18px! important; LINE-HEIGHT: 22px! important; editor-description: Size - Big Text
+}
+P.mediumtext {
+	FONT-SIZE: 15px! important; LINE-HEIGHT: 19px! important; editor-description: Size - Medium Text
+}
+P.mediumtext  {
+	FONT-SIZE: 15px! important; LINE-HEIGHT: 19px! important; editor-description: Size - Medium Text
+}
+UL.mediumtext {
+	FONT-SIZE: 15px! important; LINE-HEIGHT: 19px! important; editor-description: Size - Medium Text
+}
+UL.mediumtext  {
+	FONT-SIZE: 15px! important; LINE-HEIGHT: 19px! important; editor-description: Size - Medium Text
+}
+P.blacktext {
+	COLOR: #000000! important; editor-description: Color - Black Text
+}
+P.blacktext  {
+	COLOR: #000000! important; editor-description: Color - Black Text
+}
+UL.blacktext {
+	COLOR: #000000! important; editor-description: Color - Black Text
+}
+UL.blacktext  {
+	COLOR: #000000! important; editor-description: Color - Black Text
+}
+SPAN.blacktext {
+	COLOR: #000000! important; editor-description: Color - Black Text
+}
+SPAN.blacktext  {
+	COLOR: #000000! important; editor-description: Color - Black Text
+}
+TD.blacktext {
+	COLOR: #000000! important; editor-description: Color - Black Text
+}
+TD.blacktext  {
+	COLOR: #000000! important; editor-description: Color - Black Text
+}
+P.darkgraytext {
+	COLOR: #333333! important; editor-description: Color - Dark Gray Text
+}
+P.darkgraytext  {
+	COLOR: #333333! important; editor-description: Color - Dark Gray Text
+}
+UL.darkgraytext {
+	COLOR: #333333! important; editor-description: Color - Dark Gray Text
+}
+UL.darkgraytext  {
+	COLOR: #333333! important; editor-description: Color - Dark Gray Text
+}
+SPAN.darkgraytext {
+	COLOR: #333333! important; editor-description: Color - Dark Gray Text
+}
+SPAN.darkgraytext  {
+	COLOR: #333333! important; editor-description: Color - Dark Gray Text
+}
+TD.darkgraytext {
+	COLOR: #333333! important; editor-description: Color - Dark Gray Text
+}
+TD.darkgraytext  {
+	COLOR: #333333! important; editor-description: Color - Dark Gray Text
+}
+P.graytext {
+	COLOR: #999999! important; editor-description: Color - Gray Text
+}
+P.graytext  {
+	COLOR: #999999! important; editor-description: Color - Gray Text
+}
+UL.graytext {
+	COLOR: #999999! important; editor-description: Color - Gray Text
+}
+UL.graytext  {
+	COLOR: #999999! important; editor-description: Color - Gray Text
+}
+SPAN.graytext {
+	COLOR: #999999! important; editor-description: Color - Gray Text
+}
+SPAN.graytext  {
+	COLOR: #999999! important; editor-description: Color - Gray Text
+}
+TD.graytext {
+	COLOR: #999999! important; editor-description: Color - Gray Text
+}
+TD.graytext  {
+	COLOR: #999999! important; editor-description: Color - Gray Text
+}
+P.whitetext {
+	COLOR: #ffffff! important; editor-description: Color - White Text
+}
+P.whitetext  {
+	COLOR: #ffffff! important; editor-description: Color - White Text
+}
+UL.whitetext {
+	COLOR: #ffffff! important; editor-description: Color - White Text
+}
+UL.whitetext  {
+	COLOR: #ffffff! important; editor-description: Color - White Text
+}
+SPAN.whitetext {
+	COLOR: #ffffff! important; editor-description: Color - White Text
+}
+SPAN.whitetext  {
+	COLOR: #ffffff! important; editor-description: Color - White Text
+}
+TD.whitetext {
+	COLOR: #ffffff! important; editor-description: Color - White Text
+}
+TD.whitetext  {
+	COLOR: #ffffff! important; editor-description: Color - White Text
+}
+P.lightbluetext {
+	COLOR: #ccccff! important; editor-description: Color - Light Blue Text
+}
+P.lightbluetext  {
+	COLOR: #ccccff! important; editor-description: Color - Light Blue Text
+}
+UL.lightbluetext {
+	COLOR: #ccccff! important; editor-description: Color - Light Blue Text
+}
+UL.lightbluetext  {
+	COLOR: #ccccff! important; editor-description: Color - Light Blue Text
+}
+SPAN.lightbluetext {
+	COLOR: #ccccff! important; editor-description: Color - Light Blue Text
+}
+SPAN.lightbluetext  {
+	COLOR: #ccccff! important; editor-description: Color - Light Blue Text
+}
+TD.lightbluetext {
+	COLOR: #ccccff! important; editor-description: Color - Light Blue Text
+}
+TD.lightbluetext  {
+	COLOR: #ccccff! important; editor-description: Color - Light Blue Text
+}
+P.bluetext {
+	COLOR: #336699! important; editor-description: Color - Blue Text
+}
+P.bluetext  {
+	COLOR: #336699! important; editor-description: Color - Blue Text
+}
+UL.bluetext {
+	COLOR: #336699! important; editor-description: Color - Blue Text
+}
+UL.bluetext  {
+	COLOR: #336699! important; editor-description: Color - Blue Text
+}
+SPAN.bluetext {
+	COLOR: #336699! important; editor-description: Color - Blue Text
+}
+SPAN.bluetext  {
+	COLOR: #336699! important; editor-description: Color - Blue Text
+}
+TD.bluetext {
+	COLOR: #336699! important; editor-description: Color - Blue Text
+}
+TD.bluetext  {
+	COLOR: #336699! important; editor-description: Color - Blue Text
+}
+P.darkbluetext {
+	COLOR: #004882! important; editor-description: Color - Dark Blue Text
+}
+P.darkbluetext  {
+	COLOR: #004882! important; editor-description: Color - Dark Blue Text
+}
+UL.darkbluetext {
+	COLOR: #004882! important; editor-description: Color - Dark Blue Text
+}
+UL.darkbluetext  {
+	COLOR: #004882! important; editor-description: Color - Dark Blue Text
+}
+SPAN.darkbluetext {
+	COLOR: #004882! important; editor-description: Color - Dark Blue Text
+}
+SPAN.darkbluetext  {
+	COLOR: #004882! important; editor-description: Color - Dark Blue Text
+}
+TD.darkbluetext {
+	COLOR: #004882! important; editor-description: Color - Dark Blue Text
+}
+TD.darkbluetext  {
+	COLOR: #004882! important; editor-description: Color - Dark Blue Text
+}
+P.greentext {
+	COLOR: #339933! important; editor-description: Color - Green Text
+}
+P.greentext  {
+	COLOR: #339933! important; editor-description: Color - Green Text
+}
+UL.greentext {
+	COLOR: #339933! important; editor-description: Color - Green Text
+}
+UL.greentext  {
+	COLOR: #339933! important; editor-description: Color - Green Text
+}
+SPAN.greentext {
+	COLOR: #339933! important; editor-description: Color - Green Text
+}
+SPAN.greentext  {
+	COLOR: #339933! important; editor-description: Color - Green Text
+}
+TD.greentext {
+	COLOR: #339933! important; editor-description: Color - Green Text
+}
+TD.greentext  {
+	COLOR: #339933! important; editor-description: Color - Green Text
+}
+P.green2text {
+	COLOR: #689c29! important; editor-description: Color - Green 2 Text
+}
+P.green2text  {
+	COLOR: #689c29! important; editor-description: Color - Green 2 Text
+}
+UL.green2text {
+	COLOR: #689c29! important; editor-description: Color - Green 2 Text
+}
+UL.green2text  {
+	COLOR: #689c29! important; editor-description: Color - Green 2 Text
+}
+SPAN.green2text {
+	COLOR: #689c29! important; editor-description: Color - Green 2 Text
+}
+SPAN.green2text  {
+	COLOR: #689c29! important; editor-description: Color - Green 2 Text
+}
+TD.green2text {
+	COLOR: #689c29! important; editor-description: Color - Green 2 Text
+}
+TD.green2text  {
+	COLOR: #689c29! important; editor-description: Color - Green 2 Text
+}
+P.Important {
+	FONT-WEIGHT: bold; COLOR: red! important; FONT-STYLE: italic; editor-description: Important Text
+}
+P.Important  {
+	FONT-WEIGHT: bold; COLOR: red! important; FONT-STYLE: italic; editor-description: Important Text
+}
+UL.Important {
+	FONT-WEIGHT: bold; COLOR: red! important; FONT-STYLE: italic; editor-description: Important Text
+}
+UL.Important  {
+	FONT-WEIGHT: bold; COLOR: red! important; FONT-STYLE: italic; editor-description: Important Text
+}
+P.featureBox {
+	BORDER-RIGHT: black 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: black 1px dotted; PADDING-LEFT: 10px; FLOAT: right; PADDING-BOTTOM: 10px; MARGIN: 10px; BORDER-LEFT: black 1px dotted; WIDTH: 250px; PADDING-TOP: 10px; BORDER-BOTTOM: black 1px dotted; FONT-STYLE: italic; editor-description: Feature Box - Right Aligned
+}
+DIV.featureBox {
+	BORDER-RIGHT: black 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: black 1px dotted; PADDING-LEFT: 10px; FLOAT: right; PADDING-BOTTOM: 10px; MARGIN: 10px; BORDER-LEFT: black 1px dotted; WIDTH: 250px; PADDING-TOP: 10px; BORDER-BOTTOM: black 1px dotted; FONT-STYLE: italic; editor-description: Feature Box - Right Aligned
+}
+P.featureBoxLeft {
+	BORDER-RIGHT: black 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: black 1px dotted; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN: 10px; BORDER-LEFT: black 1px dotted; WIDTH: 250px; PADDING-TOP: 10px; BORDER-BOTTOM: black 1px dotted; FONT-STYLE: italic; editor-description: Feature Box - Left Aligned
+}
+DIV.featureBoxLeft {
+	BORDER-RIGHT: black 1px dotted; PADDING-RIGHT: 10px; BORDER-TOP: black 1px dotted; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN: 10px; BORDER-LEFT: black 1px dotted; WIDTH: 250px; PADDING-TOP: 10px; BORDER-BOTTOM: black 1px dotted; FONT-STYLE: italic; editor-description: Feature Box - Left Aligned
+}
+P.arialtext {
+	FONT-FAMILY: Arial; editor-description: Font - Arial Text
+}
+P.arialtext  {
+	FONT-FAMILY: Arial; editor-description: Font - Arial Text
+}
+UL.arialtext {
+	FONT-FAMILY: Arial; editor-description: Font - Arial Text
+}
+UL.arialtext  {
+	FONT-FAMILY: Arial; editor-description: Font - Arial Text
+}
+SPAN.arialtext {
+	FONT-FAMILY: Arial; editor-description: Font - Arial Text
+}
+SPAN.arialtext  {
+	FONT-FAMILY: Arial; editor-description: Font - Arial Text
+}
+TD.arialtext {
+	FONT-FAMILY: Arial; editor-description: Font - Arial Text
+}
+TD.arialtext  {
+	FONT-FAMILY: Arial; editor-description: Font - Arial Text
+}
+P.verdanatext {
+	FONT-FAMILY: Verdana; editor-description: Font - Verdana Text
+}
+P.verdanatext  {
+	FONT-FAMILY: Verdana; editor-description: Font - Verdana Text
+}
+UL.verdanatext {
+	FONT-FAMILY: Verdana; editor-description: Font - Verdana Text
+}
+UL.verdanatext  {
+	FONT-FAMILY: Verdana; editor-description: Font - Verdana Text
+}
+SPAN.verdanatext {
+	FONT-FAMILY: Verdana; editor-description: Font - Verdana Text
+}
+SPAN.verdanatext  {
+	FONT-FAMILY: Verdana; editor-description: Font - Verdana Text
+}
+TD.verdanatext {
+	FONT-FAMILY: Verdana; editor-description: Font - Verdana Text
+}
+TD.verdanatext  {
+	FONT-FAMILY: Verdana; editor-description: Font - Verdana Text
+}
+P.timestext {
+	FONT-FAMILY: Times New Roman; editor-description: Font - Times New Roman Text
+}
+P.timestext  {
+	FONT-FAMILY: Times New Roman; editor-description: Font - Times New Roman Text
+}
+UL.timestext {
+	FONT-FAMILY: Times New Roman; editor-description: Font - Times New Roman Text
+}
+UL.timestext  {
+	FONT-FAMILY: Times New Roman; editor-description: Font - Times New Roman Text
+}
+SPAN.timestext {
+	FONT-FAMILY: Times New Roman; editor-description: Font - Times New Roman Text
+}
+SPAN.timestext  {
+	FONT-FAMILY: Times New Roman; editor-description: Font - Times New Roman Text
+}
+TD.timestext {
+	FONT-FAMILY: Times New Roman; editor-description: Font - Times New Roman Text
+}
+TD.timestext  {
+	FONT-FAMILY: Times New Roman; editor-description: Font - Times New Roman Text
+}
+TR.tableHeader {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #ccccff; editor-description: Table Header
+}
+TR.tableHeader  {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #ccccff; editor-description: Table Header
+}
+TD.tableHeader {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #ccccff; editor-description: Table Header
+}
+TD.tableHeader  {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #ccccff; editor-description: Table Header
+}

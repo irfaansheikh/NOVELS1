@@ -1,0 +1,111 @@
+BODY {
+	MARGIN-TOP: 1px
+}
+.home {
+	BACKGROUND: url(/images/center-for-strategic-relations-head.gif) no-repeat center top
+}
+FORM {
+	MARGIN-TOP: 1pt; MARGIN-BOTTOM: 1pt
+}
+P {
+	TEXT-INDENT: 1em
+}
+LI {
+	MARGIN-TOP: 6pt; MARGIN-BOTTOM: 6pt
+}
+INPUT {
+	FONT-SIZE: xx-small
+}
+SELECT {
+	FONT-SIZE: xx-small
+}
+.search {
+	FONT-SIZE: xx-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.required {
+	FONT-SIZE: xx-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.titleNav {
+	FONT-SIZE: x-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.recentPostWhen {
+	FONT-SIZE: x-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.recentPostTitle {
+	FONT-SIZE: x-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.EH_Table {
+	FONT-SIZE: x-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.EH_Form {
+	FONT-SIZE: x-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.EH_Table_TD_1 {
+	FONT-SIZE: x-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.EH_Table_TD_2 {
+	FONT-SIZE: x-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.EH_Form_Select {
+	FONT-SIZE: x-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.EH_Form_TextArea {
+	FONT-SIZE: x-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.EH_Form_Checkbox {
+	FONT-SIZE: x-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.EH_Form_Radio {
+	FONT-SIZE: x-small; FONT-FAMILY: verdana, helvetica, sans-serif
+}
+.slogan {
+	FONT: bold x-small verdana, helvetica, sans-serif; COLOR: #fff
+}
+.subNav {
+	FONT-SIZE: small; FONT-FAMILY: georgia, times, serif
+}
+.EH_Nav_Visitor {
+	FONT-SIZE: small; FONT-FAMILY: georgia, times, serif
+}
+.divBox {
+	BORDER-RIGHT: #6cf thin solid; BORDER-TOP: #6cf thin solid; BORDER-LEFT: #6cf thin solid; BORDER-BOTTOM: #6cf thin solid; BACKGROUND-COLOR: #ff9
+}
+.unicode {
+	FONT-FAMILY: "arial unicode ms"
+}
+.weblogItemTitle {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.toc {
+	FONT-SIZE: x-small; TEXT-INDENT: 0px; FONT-FAMILY: arial, helvetica, sans-serif
+}
+.ctoc {
+	TEXT-TRANSFORM: capitalize
+}
+H4 {
+	TEXT-TRANSFORM: capitalize
+}
+H1 {
+	TEXT-TRANSFORM: capitalize
+}
+H2 {
+	TEXT-TRANSFORM: capitalize
+}
+H3 {
+	TEXT-TRANSFORM: capitalize
+}
+H5 {
+	TEXT-TRANSFORM: capitalize
+}
+.title {
+	FONT-WEIGHT: 700; FONT-SIZE: larger; TEXT-TRANSFORM: capitalize
+}
+.coupon {
+	BORDER-RIGHT: dashed; BORDER-TOP: dashed; BORDER-LEFT: dashed; BORDER-BOTTOM: dashed
+}
+H1 {
+	TEXT-TRANSFORM: capitalize; TEXT-ALIGN: center
+}
+.qbox {
+	FONT-SIZE: xx-small; FLOAT: right; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}

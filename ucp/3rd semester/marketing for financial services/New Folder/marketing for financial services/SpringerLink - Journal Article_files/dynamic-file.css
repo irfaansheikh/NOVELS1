@@ -1,0 +1,981 @@
+.MetaPress_Products_Reader_Web_UI_Controls_RecognizedAsControlHeading {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0em
+}
+.MetaPress_Products_Reader_Web_UI_Controls_RecognizedAsControlBody {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; LINE-HEIGHT: 1.4em; PADDING-TOP: 0em
+}
+.MetaPress_Products_Reader_Web_UI_Controls_LoggedInAsControlHeading {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0em
+}
+.MetaPress_Products_Reader_Web_UI_Controls_LoggedInAsControlBody {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0em
+}
+.MetaPress_Products_Reader_Web_UI_Controls_LoggedInAsControlHeading {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0em
+}
+.MetaPress_Products_Reader_Web_UI_Controls_LoggedInAsControlBody {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; LINE-HEIGHT: 1.4em; PADDING-TOP: 0em
+}
+.MetaPress_Products_Reader_Web_UI_Controls_LogOutControlBody {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0em
+}
+.MetaPress_Products_Reader_Web_UI_Controls_FooterControl {
+	TEXT-ALIGN: left
+}
+.MetaPress_Products_Reader_Web_UI_Controls_FooterControlContactDetails {
+	FONT-SIZE: 85%
+}
+.MetaPress_Products_Reader_Web_UI_Controls_FooterControlCopyright {
+	PADDING-RIGHT: 0em; PADDING-LEFT: 0em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0em
+}
+.MetaPress_Products_Reader_Web_UI_Controls_FooterControlUserDetails {
+	FONT-SIZE: 75%; COLOR: #5a597b; PADDING-TOP: 0.5em
+}
+BODY {
+	FONT-SIZE: 75%; MARGIN: 0em; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+A {
+	FONT-SIZE: 1em
+}
+DIV {
+	FONT-SIZE: 1em
+}
+IMG {
+	FONT-SIZE: 1em
+}
+INPUT {
+	FONT-SIZE: 1em
+}
+P {
+	FONT-SIZE: 1em
+}
+SELECT {
+	FONT-SIZE: 1em
+}
+SPAN {
+	FONT-SIZE: 1em
+}
+TABLE {
+	FONT-SIZE: 1em
+}
+TD {
+	FONT-SIZE: 1em
+}
+TR {
+	FONT-SIZE: 1em
+}
+H1 {
+	FONT-SIZE: 1em
+}
+H2 {
+	FONT-SIZE: 1em
+}
+H3 {
+	FONT-SIZE: 1em
+}
+H4 {
+	FONT-SIZE: 1em
+}
+H5 {
+	FONT-SIZE: 1em
+}
+H6 {
+	FONT-SIZE: 1em
+}
+H2 {
+	MARGIN: 0px
+}
+H3 {
+	MARGIN: 0px
+}
+H2 {
+	FONT-WEIGHT: normal
+}
+H3 {
+	FONT-WEIGHT: normal
+}
+H3.listItemName {
+	PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; FONT-SIZE: 1.25em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-LEFT: 0px
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+TABLE {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+INPUT {
+	VERTICAL-ALIGN: middle
+}
+SELECT {
+	VERTICAL-ALIGN: middle
+}
+SUB {
+	VERTICAL-ALIGN: sub
+}
+SUP {
+	VERTICAL-ALIGN: super
+}
+TABLE {
+	WIDTH: 100%
+}
+THEAD TH {
+	FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+TBODY TH {
+	FONT-WEIGHT: normal; TEXT-ALIGN: left
+}
+TBODY TD {
+	VERTICAL-ALIGN: top
+}
+.floatRight {
+	FLOAT: right
+}
+.alignRight {
+	TEXT-ALIGN: right
+}
+.paragraphPadding {
+	PADDING-RIGHT: 2em; PADDING-BOTTOM: 1.4em; LINE-HEIGHT: 1.25em
+}
+.paragraphHeading {
+	FONT-WEIGHT: bold; PADDING-BOTTOM: 0.4em
+}
+.block {
+	WIDTH: 45em
+}
+.highlight0 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; BACKGROUND-COLOR: #ffff99
+}
+.hlDisabled0 {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px
+}
+.fontSmaller {
+	FONT-SIZE: 0.75em
+}
+.markedItemsHasItems {
+	FONT-WEIGHT: bold
+}
+.markedItemsNoItems {
+	
+}
+.noResults IMG {
+	CLEAR: left
+}
+#jsMath_Warning {
+	DISPLAY: none
+}
+#jsMath_button {
+	DISPLAY: none
+}
+.latex .typeset .error {
+	DISPLAY: none
+}
+A .latex {
+	TEXT-DECORATION: none
+}
+.latex .cs {
+	DISPLAY: none
+}
+.tabLast {
+	WIDTH: 100%
+}
+A.noLink {
+	COLOR: black
+}
+.exportButton {
+	WIDTH: 8em
+}
+.dialogHeading {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 1.4em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em
+}
+.dialogLabel {
+	PADDING-RIGHT: 0.4em; DISPLAY: inline-block; PADDING-LEFT: 1.4em; PADDING-BOTTOM: 0.4em; VERTICAL-ALIGN: middle; WIDTH: 12em; PADDING-TOP: 0.4em; BORDER-BOTTOM: #ffffff 0.2em solid; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #ececec; TEXT-ALIGN: right
+}
+.dialogSublabel {
+	PADDING-RIGHT: 0.4em; DISPLAY: inline; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; VERTICAL-ALIGN: middle; PADDING-TOP: 0.4em; BORDER-BOTTOM: #ffffff 0.2em solid; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #ececec
+}
+.dialogLabelSpacer {
+	PADDING-RIGHT: 0.4em; DISPLAY: inline; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; VERTICAL-ALIGN: middle; WIDTH: 12em; PADDING-TOP: 0.4em; BORDER-BOTTOM: #ffffff 0.2em solid; WHITE-SPACE: nowrap
+}
+.dialogValue {
+	DISPLAY: inline; PADDING-LEFT: 0.4em; WIDTH: auto
+}
+.dialogValueText {
+	PADDING-RIGHT: 0.4em; DISPLAY: inline; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; VERTICAL-ALIGN: middle; WIDTH: auto; PADDING-TOP: 0.4em; WHITE-SPACE: nowrap
+}
+.dialogValueTextBox {
+	WIDTH: 20em
+}
+DIV.registrationBlock {
+	MARGIN: 0.5em; WIDTH: 40em
+}
+.footnote {
+	FONT-SIZE: 0.8em; WIDTH: 40em
+}
+.footnotePadding {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 1.8em; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em
+}
+.defaultHeight {
+	HEIGHT: 12em
+}
+.defaultPadding {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em
+}
+.defaultPaddingBottom {
+	PADDING-BOTTOM: 0.4em
+}
+.defaultPaddingTop {
+	PADDING-TOP: 0.4em
+}
+.defaultPaddingRight {
+	PADDING-RIGHT: 0.4em
+}
+.backToHeader {
+	MARGIN-RIGHT: 0.5em
+}
+.divRow {
+	DISPLAY: block
+}
+.divColumn {
+	DISPLAY: inline
+}
+.autoWidth {
+	WIDTH: auto
+}
+.viewItem .selectedItemLinkButton {
+	FLOAT: right
+}
+.marginLeft14 {
+	MARGIN-LEFT: 1.4em
+}
+.refinementCell LI {
+	PADDING-BOTTOM: 0.3em; PADDING-TOP: 0.2em; BORDER-BOTTOM: #fff 0.1em solid
+}
+.refinementCell {
+	PADDING-LEFT: 0px; MARGIN: 0px
+}
+.snippets {
+	MARGIN: 0px 0px 0.2em 0em
+}
+.resourceLinks {
+	MARGIN: 0px 0px 0.8em 0em
+}
+BODY {
+	FONT-SIZE: 75%; MARGIN: 0px; COLOR: #000025; FONT-FAMILY: Verdana; HEIGHT: 100%
+}
+.contentlinks H2 {
+	FONT-WEIGHT: bold
+}
+A {
+	FONT-SIZE: 1em
+}
+DIV {
+	FONT-SIZE: 1em
+}
+IMG {
+	FONT-SIZE: 1em
+}
+INPUT {
+	FONT-SIZE: 1em
+}
+P {
+	FONT-SIZE: 1em
+}
+SELECT {
+	FONT-SIZE: 1em
+}
+SPAN {
+	FONT-SIZE: 1em
+}
+TABLE {
+	FONT-SIZE: 1em
+}
+TD {
+	FONT-SIZE: 1em
+}
+TR {
+	FONT-SIZE: 1em
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+TABLE {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.floatLeft {
+	FLOAT: left
+}
+.floatRight {
+	FLOAT: right
+}
+INPUT {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+SELECT {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+TABLE {
+	WIDTH: 100%
+}
+A {
+	COLOR: #5a597b; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #c74f2a; TEXT-DECORATION: underline
+}
+UNKNOWN {
+	
+}
+UNKNOWN {
+	
+}
+.autoWidth {
+	WIDTH: auto
+}
+.block {
+	WIDTH: 40em
+}
+.dialogHeading {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 1.4em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em
+}
+.dialogLabel {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 1.4em; PADDING-BOTTOM: 0.4em; VERTICAL-ALIGN: top; WIDTH: 12em; PADDING-TOP: 0.4em; BORDER-BOTTOM: #ffffff 0.2em solid; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #ececec; TEXT-ALIGN: right
+}
+.dialogSublabel {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; VERTICAL-ALIGN: middle; PADDING-TOP: 0.4em; BORDER-BOTTOM: #ffffff 0.2em solid; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #ececec
+}
+.dialogLabelSpacer {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; VERTICAL-ALIGN: middle; WIDTH: 12em; PADDING-TOP: 0.4em; BORDER-BOTTOM: #ffffff 0.2em solid; WHITE-SPACE: nowrap
+}
+.dialogValue {
+	PADDING-LEFT: 0.4em; WIDTH: auto
+}
+.dialogValueText {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; VERTICAL-ALIGN: middle; WIDTH: auto; PADDING-TOP: 0.4em; WHITE-SPACE: nowrap
+}
+.footnote {
+	FONT-SIZE: 0.8em; WIDTH: 40em
+}
+.footnotePadding {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 1.8em; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em
+}
+.menu {
+	WIDTH: 16em; BACKGROUND-COLOR: #ececec
+}
+.button {
+	BORDER-TOP-WIDTH: 0.1em; FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 0.1em; BORDER-LEFT-COLOR: #7f9db9; BACKGROUND: #ebebf5; BORDER-BOTTOM-WIDTH: 0.1em; BORDER-BOTTOM-COLOR: #7f9db9; COLOR: #404040; BORDER-TOP-COLOR: #7f9db9; BORDER-RIGHT-WIDTH: 0.1em; BORDER-RIGHT-COLOR: #7f9db9
+}
+.buttonHover {
+	BACKGROUND: #f4f3eb
+}
+.buttonContainer {
+	BORDER-TOP-WIDTH: 0.1em; PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 0.1em; BORDER-LEFT-COLOR: #7f9db9; BACKGROUND: #ffffff; BORDER-BOTTOM-WIDTH: 0.1em; BORDER-BOTTOM-COLOR: #7f9db9; PADDING-BOTTOM: 0.1em; COLOR: #404040; BORDER-TOP-COLOR: #7f9db9; PADDING-TOP: 0.1em; BORDER-RIGHT-WIDTH: 0.1em; BORDER-RIGHT-COLOR: #7f9db9
+}
+.buttonContainerHover {
+	BACKGROUND: #ebebf5
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+.highlight0 {
+	PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: #ffff99
+}
+.hlDisabled0 {
+	PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.blob {
+	FONT-SIZE: 1.2em
+}
+.blob TABLE {
+	WIDTH: auto
+}
+.blob .rubric {
+	DISPLAY: none
+}
+.blob .Heading1 {
+	DISPLAY: none
+}
+.blob H2 {
+	FONT-SIZE: 1.2em
+}
+.defaultButtonSpacing {
+	MARGIN-LEFT: 0.2em
+}
+.leftMainColumn {
+	WIDTH: 16em; HEIGHT: 100%; BACKGROUND-COLOR: #ececec
+}
+.outerTable {
+	HEIGHT: 100%
+}
+.contentArea {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+.logo {
+	PADDING-TOP: 1em
+}
+.headerBackground {
+	BACKGROUND-POSITION: right bottom; DISPLAY: block; BACKGROUND-IMAGE: url(/images/springerlink-background.jpg); WIDTH: 100%; BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #e6e9f3
+}
+.headerTop {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; FONT-WEIGHT: bold; FILTER: alpha(opacity=80); PADDING-BOTTOM: 0.4em; WIDTH: 100%; COLOR: #ffffff; PADDING-TOP: 0.4em; HEIGHT: 2.8em; BACKGROUND-COLOR: #404062; TEXT-ALIGN: right
+}
+UNKNOWN {
+	MARGIN: 0.4em
+}
+.headerTop  {
+	TEXT-ALIGN: left
+}
+.headerBottom {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; FILTER: alpha(opacity=60); PADDING-BOTTOM: 0.4em; WIDTH: 100%; PADDING-TOP: 0.4em; HEIGHT: 4.4em; BACKGROUND-COLOR: #404062; opacity: 0.6
+}
+.headerBottom TABLE {
+	FONT-WEIGHT: bold; COLOR: #ffffff
+}
+.pageHeading {
+	COLOR: #000000
+}
+.cultureList {
+	MARGIN: 0.4em
+}
+.searchPanel {
+	FLOAT: left
+}
+.fontSmaller {
+	FONT-SIZE: 0.8em
+}
+.fontLarger {
+	FONT-SIZE: 1.2em
+}
+.outdent {
+	PADDING-LEFT: 1.4em; TEXT-INDENT: -1.4em
+}
+.defaultHeight {
+	HEIGHT: 12em
+}
+.defaultPadding {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em
+}
+.defaultPaddingBottom {
+	PADDING-BOTTOM: 0.4em
+}
+.defaultPaddingTop {
+	PADDING-TOP: 0.4em
+}
+.defaultPaddingRight {
+	PADDING-RIGHT: 0.4em
+}
+.backToHeader {
+	MARGIN-RIGHT: 0.5em
+}
+A.backTo {
+	COLOR: #ffffff
+}
+A.backTo:hover {
+	COLOR: #ffffff
+}
+.backToSeperator {
+	MARGIN: 0em 0.25em
+}
+.sidebarHeading {
+	FONT-WEIGHT: bold; WIDTH: 18em; COLOR: #ffffff; BACKGROUND-COLOR: #5a597b
+}
+.sidebarBody {
+	WIDTH: 18em; BACKGROUND-COLOR: #ececec
+}
+.PersonalizationMenuItem {
+	PADDING-BOTTOM: 0.3em; PADDING-TOP: 0.2em; BORDER-BOTTOM: #ffffff 0.1em solid
+}
+.PersonalizationMenuHeader {
+	PADDING-RIGHT: 0.4em; BORDER-TOP: medium none; PADDING-LEFT: 0.4em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.4em; COLOR: #ffffff; PADDING-TOP: 0.4em; BACKGROUND-COLOR: #5a597b
+}
+.parentNavigation {
+	COLOR: #ffffff
+}
+UNKNOWN {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.parentNavigationDisabled {
+	CURSOR: default; COLOR: #a0a0a0
+}
+.selectedViewTab {
+	BORDER-RIGHT: #5a597b 0.1em solid; PADDING-RIGHT: 0.4em; BORDER-TOP: #5a597b 0.1em solid; PADDING-LEFT: 0.4em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.4em; BORDER-LEFT: #5a597b 0.1em solid; COLOR: #000000; PADDING-TOP: 0.4em; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #ffffff
+}
+.viewTab {
+	BORDER-RIGHT: #5a597b 0.1em solid; PADDING-RIGHT: 0.4em; BORDER-TOP: #5a597b 0.1em solid; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; BORDER-LEFT: #5a597b 0.1em solid; PADDING-TOP: 0.4em; BORDER-BOTTOM: #5a597b 0.1em solid; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #ececec
+}
+.viewTabSpacer {
+	BORDER-BOTTOM: #5a597b 0.1em solid
+}
+.paginationControl A {
+	COLOR: #5a597b
+}
+UNKNOWN {
+	COLOR: #5a597b; TEXT-DECORATION: underline
+}
+.paginationDisabled {
+	COLOR: #d0d0d0
+}
+TABLE.paginationControl {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; COLOR: #000000; PADDING-TOP: 0.4em; BACKGROUND-COLOR: #ffffff
+}
+TABLE.paginationControl TD {
+	WHITE-SPACE: nowrap
+}
+.contentType {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0em; PADDING-BOTTOM: 0.3em; COLOR: #808080; PADDING-TOP: 0.1em; WHITE-SPACE: nowrap
+}
+DIV.listItemName {
+	PADDING-RIGHT: 0.25em; MARGIN-TOP: 0em; PADDING-LEFT: 0em; FONT-SIZE: 1.25em; PADDING-BOTTOM: 0.25em; PADDING-TOP: 0em
+}
+.labelName {
+	BORDER-RIGHT: #ffffff 0.1em solid; PADDING-RIGHT: 0em; BORDER-TOP: 0px; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.2em; VERTICAL-ALIGN: top; BORDER-LEFT: 0px; WIDTH: 12em; PADDING-TOP: 0.1em; BORDER-BOTTOM: #ffffff 0.1em solid; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #ececec
+}
+.labelValue {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; VERTICAL-ALIGN: top; PADDING-TOP: 0.1em
+}
+.viewToolbarButtons {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; WIDTH: 100%; PADDING-TOP: 0.1em; BORDER-BOTTOM: #5a597b 0.1em solid
+}
+.viewItemIndex {
+	COLOR: #808080
+}
+.viewItem {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0.4em; BORDER-TOP: 0px; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; BORDER-LEFT: 0px; PADDING-TOP: 0.4em; BORDER-BOTTOM: #c0c0c0 0.1em solid
+}
+.viewGroup {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0.4em; BORDER-TOP: 0px; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; BORDER-LEFT: 0px; PADDING-TOP: 0.4em; BORDER-BOTTOM: #c0c0c0 0.2em solid
+}
+.refinementCell {
+	PADDING-BOTTOM: 0.3em; PADDING-TOP: 0.2em
+}
+.customLink {
+	VERTICAL-ALIGN: middle
+}
+.toolbar {
+	WIDTH: 8em; TEXT-ALIGN: right
+}
+.emailList {
+	WIDTH: 51em
+}
+.emailHeader {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em
+}
+.emailList UL {
+	LIST-STYLE-TYPE: disc
+}
+.emailList TEXTAREA {
+	WIDTH: 100%
+}
+.emailList .labelName {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; MARGIN: 0.2em; WIDTH: 15em; PADDING-TOP: 0.1em
+}
+.emailList .labelValue {
+	WIDTH: 35em
+}
+.emailErrorRow {
+	MARGIN: 0.5em; WIDTH: 100%
+}
+.emailSuccessLabel {
+	FONT-WEIGHT: bold; MARGIN-LEFT: 0.5em; COLOR: #188c18
+}
+.emailErrorLabel {
+	FONT-WEIGHT: bold; MARGIN-LEFT: 0.5em; COLOR: #ff0000
+}
+.emailFooter {
+	MARGIN: 0.25em; WIDTH: 100%; TEXT-ALIGN: right
+}
+.emailFooter INPUT {
+	WIDTH: 8em
+}
+.highlighting {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; FLOAT: right; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em; WHITE-SPACE: nowrap
+}
+.criteriaValues {
+	
+}
+.criteriaValues UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0.2em 0px 0.5em; PADDING-TOP: 0px
+}
+.searchMoreOptions {
+	VERTICAL-ALIGN: bottom
+}
+.searchMoreOptions A {
+	FONT-WEIGHT: normal; FONT-SIZE: 0.8em; COLOR: white
+}
+UNKNOWN {
+	COLOR: white
+}
+.tab {
+	BORDER-RIGHT: #5a597b 0.1em solid; PADDING-RIGHT: 0.4em; BORDER-TOP: #5a597b 0.1em solid; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; BORDER-LEFT: #5a597b 0.1em solid; PADDING-TOP: 0.4em; BORDER-BOTTOM: #5a597b 0.1em solid; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #ececec
+}
+.tabSelected {
+	BORDER-RIGHT: #5a597b 0.1em solid; PADDING-RIGHT: 0.4em; BORDER-TOP: #5a597b 0.1em solid; PADDING-LEFT: 0.4em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.4em; BORDER-LEFT: #5a597b 0.1em solid; COLOR: #000000; PADDING-TOP: 0.4em; BORDER-BOTTOM: 0em; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #ffffff
+}
+.tabContents {
+	PADDING-RIGHT: 0.7em; PADDING-LEFT: 0.7em; PADDING-BOTTOM: 0.7em; WIDTH: 100%; PADDING-TOP: 0.7em
+}
+.tabSpacer {
+	BORDER-BOTTOM: #5a597b 0.1em solid
+}
+.tabLast {
+	WIDTH: 100%; BORDER-BOTTOM: #5a597b 0.1em solid
+}
+.primitiveControl .subtitle {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0px
+}
+.dropDownMenu {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 10; PADDING-BOTTOM: 0px; MARGIN: 0.3em 0px 0px; PADDING-TOP: 0px
+}
+.dropDownMenu UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 10; LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: 1.5em
+}
+.dropDownMenu LI.Collapsed {
+	MARGIN-RIGHT: 0.4em
+}
+.dropDownMenu LI.Expanded {
+	MARGIN-RIGHT: 0.4em
+}
+.dropDownMenu LI.Expanded UL {
+	PADDING-LEFT: 0em; VISIBILITY: visible; PADDING-TOP: 0em
+}
+.dropDownMenu LI.Collapsed UL {
+	VISIBILITY: hidden
+}
+.dropDownMenu LI {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; FLOAT: left; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0em; POSITION: relative
+}
+.dropDownMenu LI LI {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #ececec 0.1em solid; WHITE-SPACE: nowrap; BACKGROUND-COLOR: #60617e
+}
+.dropDownMenu LI LI A {
+	PADDING-RIGHT: 1.4em; DISPLAY: block; PADDING-LEFT: 1.4em; FONT-WEIGHT: normal; PADDING-BOTTOM: 0.4em; MARGIN: 0px; WIDTH: 100%; COLOR: #fff; PADDING-TOP: 0.2em; HEIGHT: 100%
+}
+.dropDownMenu LI:hover {
+	COLOR: #ffffff; BACKGROUND-COLOR: #787b94; TEXT-DECORATION: none
+}
+.dropDownMenu LI A:hover {
+	COLOR: #ffffff; BACKGROUND-COLOR: #787b94; TEXT-DECORATION: none
+}
+.dropDownMenu A.noScriptLink {
+	COLOR: white; BACKGROUND-COLOR: transparent
+}
+.dropDownMenu A.noScriptLink:hover {
+	COLOR: white; BACKGROUND-COLOR: transparent
+}
+.childVertical LI {
+	FLOAT: none
+}
+#ContentTypesMenuItem LI {
+	WIDTH: 12em
+}
+#ContentTypesMenuItem UL {
+	WIDTH: 12em
+}
+#SubjectCollectionsMenuItem LI {
+	WIDTH: 25em
+}
+DIV.brandingImage {
+	WIDTH: 100%; TEXT-ALIGN: center
+}
+DIV.advertisementControl {
+	WIDTH: 100%; TEXT-ALIGN: center
+}
+IFRAME.advertisementFrame {
+	BORDER-TOP-WIDTH: 0em; BORDER-LEFT-WIDTH: 0em; BORDER-BOTTOM-WIDTH: 0em; MARGIN: 0em; WIDTH: 468px; HEIGHT: 60px; BORDER-RIGHT-WIDTH: 0em
+}
+.labelWarning {
+	FONT-SIZE: 0.8em; COLOR: #ff0000
+}
+.buttonStrip {
+	PADDING-RIGHT: 0em; PADDING-LEFT: 0em; PADDING-BOTTOM: 0.5em; WIDTH: 35em; PADDING-TOP: 1em; TEXT-ALIGN: right
+}
+H3.listItemName {
+	MARGIN-TOP: 0em; MARGIN-LEFT: 0.2em
+}
+.listAuthors {
+	MARGIN-TOP: 0.15em; MARGIN-BOTTOM: 0.3em; MARGIN-LEFT: 0em
+}
+.listEditors {
+	MARGIN-TOP: 0.15em; MARGIN-BOTTOM: 0.3em; MARGIN-LEFT: 0.2em
+}
+.listParents {
+	MARGIN-TOP: 0.35em; MARGIN-BOTTOM: 0.1em; MARGIN-LEFT: 0.2em; FONT-STYLE: italic
+}
+.listCopyright {
+	MARGIN-TOP: 0.15em; MARGIN-BOTTOM: 0.3em; MARGIN-LEFT: 0.2em
+}
+SPAN.OpenAccess {
+	MARGIN: -0.2em 0.2em 0.2em 0.5em; VERTICAL-ALIGN: middle; BACKGROUND-COLOR: lime
+}
+TABLE.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControl {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em; BACKGROUND-COLOR: #ffffff
+}
+DIV.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControl {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; FONT-WEIGHT: normal; PADDING-BOTTOM: 0.1em; PADDING-TOP: 0.1em
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlName {
+	PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; FONT-SIZE: 1.25em; PADDING-BOTTOM: 0.25em; PADDING-TOP: 0em
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlSecondaryLinks {
+	WIDTH: 17.5em
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlSecondaryLinks DIV {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; PADDING-TOP: 0.1em; BORDER-BOTTOM: #ececec 0.1em solid
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlMarkedItemLink {
+	FONT-WEIGHT: bold
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlCoverImage {
+	WIDTH: 1%
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlOpenAccess {
+	PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.35em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em
+}
+TABLE.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControl {
+	CLEAR: both; PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em; BACKGROUND-COLOR: #ececec
+}
+DIV.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControl {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; FONT-WEIGHT: normal; PADDING-BOTTOM: 0.1em; PADDING-TOP: 0.1em
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlName {
+	PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; FONT-SIZE: 1.25em; PADDING-BOTTOM: 0.25em; PADDING-TOP: 0em
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlSecondaryLinks {
+	WIDTH: 17.5em
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlSecondaryLinks DIV {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; PADDING-TOP: 0.1em; BORDER-BOTTOM: #ffffff 0.1em solid
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlMarkedItemLink {
+	FONT-WEIGHT: bold
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlCoverImage {
+	WIDTH: 1%
+}
+.MPReader_Profiles_SpringerLink_Content_PrimitiveHeadingControlOpenAccess {
+	BORDER-RIGHT: green thick solid; PADDING-RIGHT: 0.25em; BORDER-TOP: green thick solid; PADDING-LEFT: 0.35em; PADDING-BOTTOM: 0.5em; BORDER-LEFT: green thick solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: green thick solid
+}
+.MetaPress_Products_Reader_Web_UI_Controls_IconHyperlink {
+	MARGIN: 0.1em 0.5em 0.1em 0px
+}
+.MetaPress_Products_Reader_Web_UI_Controls_IconHyperlink IMG {
+	Z-INDEX: 9; MARGIN: 0px; TOP: 0.3em
+}
+.Keyword {
+	FONT-SIZE: 1em
+}
+BODY.for-print {
+	FONT-SIZE: 12pt; BACKGROUND: white; MARGIN: 1.5em
+}
+DIV.Abstract {
+	MARGIN-TOP: 1em
+}
+DIV.Acknowledgments {
+	MARGIN-TOP: 1em
+}
+DIV.AbstractSection {
+	MARGIN-TOP: 0.3em
+}
+P.AuthorGroup {
+	FONT-WEIGHT: bold
+}
+.Contact {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.Affiliation {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.Citation {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+DIV.Capt {
+	MARGIN-TOP: 1.5em; FONT-SIZE: 10pt; MARGIN-BOTTOM: 1.5em; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+SPAN.CaptCont {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TBODY.CaptCont {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+DIV.CaptCont {
+	MARGIN-TOP: 0.3em; FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.AbstractHeading {
+	FONT-WEIGHT: bold
+}
+.KeywordHeading {
+	FONT-WEIGHT: bold
+}
+.ArticleNoteHeading {
+	FONT-WEIGHT: bold
+}
+.Acknowledgmentsheading {
+	FONT-WEIGHT: bold
+}
+.CaptNr {
+	FONT-WEIGHT: bold
+}
+DIV.SbLexicon {
+	FONT-WEIGHT: bold
+}
+TABLE.Sidebar {
+	BACKGROUND: #d6d6d6; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.Term {
+	FONT-STYLE: italic
+}
+.AbstractSectionHeading {
+	FONT-STYLE: italic
+}
+TABLE.OrderedList {
+	PADDING-RIGHT: 0.3em; MARGIN-TOP: 1em; PADDING-LEFT: 0.3em; FONT-SIZE: 12pt; MARGIN-BOTTOM: 1em; PADDING-BOTTOM: 0.3em; MARGIN-LEFT: 17pt; PADDING-TOP: 0.3em
+}
+UNKNOWN {
+	MARGIN-TOP: 0.3em
+}
+DIV.GlossaryDefSimplePara {
+	MARGIN-TOP: 0.3em; MARGIN-LEFT: 1.5em
+}
+DIV.Para {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em
+}
+DIV.FormalPara {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em
+}
+DIV.ArticleNote {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em
+}
+DIV.Motto {
+	MARGIN-TOP: 1em; MARGIN-BOTTOM: 1em; TEXT-ALIGN: right
+}
+DIV.Figure {
+	MARGIN-TOP: 1.5em; MARGIN-BOTTOM: 1em
+}
+.PCode {
+	FONT-FAMILY: 'Courier New'
+}
+.Box {
+	BORDER-RIGHT: black 2px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: black 2px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; BORDER-LEFT: black 2px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: black 2px solid
+}
+.Important {
+	BORDER-RIGHT: black 2px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: black 2px solid; PADDING-LEFT: 0.5em; BACKGROUND: #d6d6d6; PADDING-BOTTOM: 0.5em; BORDER-LEFT: black 2px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: black 2px solid
+}
+.Example {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; BORDER-LEFT: black 4px solid; PADDING-TOP: 0.5em
+}
+.Trailer {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em
+}
+DIV.GlossaryEntry {
+	MARGIN-LEFT: 1.5em; TEXT-INDENT: -1.5em
+}
+TABLE.Stack {
+	FONT-SIZE: 0.5em
+}
+.MPReader_Content_FindSidebarItem .advancedTextBox {
+	WIDTH: 13.5em
+}
+.MetaPress_Web_UI_Controls_AdvancedTextBox {
+	WHITE-SPACE: nowrap
+}
+.MetaPress_Web_UI_Controls_AdvancedTextBox INPUT {
+	HEIGHT: 1.75em
+}
+.MetaPress_Web_UI_Controls_AdvancedTextBox .advancedTextBoxExpandButton {
+	PADDING-RIGHT: 1px; DISPLAY: none; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; MARGIN-LEFT: -1px; PADDING-TOP: 1px; LETTER-SPACING: 0.1em; HEIGHT: 1.75em
+}
+.MetaPress_Web_UI_Controls_AdvancedTextBox .advancedTextBoxGoButton {
+	MARGIN-LEFT: 0.2em; HEIGHT: 1.75em
+}
+.MetaPress_Web_UI_Controls_AdvancedTextBox .advancedTextBoxContents {
+	DISPLAY: none; POSITION: absolute
+}
+.MPReader_Content_ReferrerSidebarControlReferrersDiv {
+	PADDING-RIGHT: 0em; PADDING-LEFT: 0em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em
+}
+.MPReader_Content_ReferrerSidebarControlReferrersTitle {
+	FONT-SIZE: 1em
+}
+.MPReader_Content_ReferrerSidebarControlReferrersListSingle {
+	LIST-STYLE-POSITION: outside; MARGIN: 0em 0.4em 0.4em 2em
+}
+.MPReader_Content_ReferrerSidebarControlReferrersListDouble {
+	LIST-STYLE-POSITION: outside; MARGIN: 0em 0.4em 0.4em 2.5em
+}
+.MPReader_Content_ReferrerSidebarControlReferrersListTriple {
+	LIST-STYLE-POSITION: outside; MARGIN: 0em 0.4em 0.4em 3.2em
+}
+.MPReader_Content_ReferrerSidebarControlReferrersListQuad {
+	LIST-STYLE-POSITION: outside; MARGIN: 0em 0.4em 0.4em 3.75em
+}
+.MPReader_Content_ReferrerSidebarControlReferrerItem {
+	FONT-SIZE: 1em; LEFT: -0.75em; MARGIN: 0em; POSITION: relative
+}
+.MPReader_Content_ReferrerSidebarControlReferrerItemLink {
+	
+}
+.MPReader_Content_ReferrerSidebarControlReferrersDiv {
+	
+}
+.MPReader_Content_ReferrerSidebarControlReferrerPagination {
+	TEXT-ALIGN: center
+}
+.MPReader_Content_ReferrerSidebarControlReferrerPagination A {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.findTextBox .advancedTextBox {
+	WIDTH: 25em
+}
+.queryBuilder {
+	BORDER-RIGHT: #62627e 0.1em solid; BORDER-TOP: #62627e 0.1em solid; FONT-WEIGHT: normal; BORDER-LEFT: #62627e 0.1em solid; WIDTH: 28.5em; COLOR: black; BORDER-BOTTOM: #62627e 0.1em solid
+}
+DIV.queryBuilder DIV.list {
+	FLOAT: left; WIDTH: 50%; HEIGHT: auto
+}
+DIV.queryBuilder DIV.title {
+	PADDING-RIGHT: 0.4em; DISPLAY: block; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; WIDTH: 100%; COLOR: white; PADDING-TOP: 0.4em; HEIGHT: auto; BACKGROUND-COLOR: #62627e
+}
+DIV.queryBuilder DIV.title SPAN {
+	FONT-WEIGHT: bold; FLOAT: left
+}
+DIV.queryBuilder DIV.title SPAN.rightLink {
+	FONT-WEIGHT: normal; FLOAT: right; CURSOR: hand
+}
+DIV.queryBuilder DIV.title SPAN.rightLinkSeperator {
+	FONT-WEIGHT: normal; FLOAT: right; CURSOR: hand
+}
+DIV.queryBuilder DIV.title SPAN.rightLinkSeperator {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+DIV.queryBuilder DIV.list DIV {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em; BACKGROUND-COLOR: #ececec
+}
+DIV.queryBuilder DIV.list UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.queryBuilder DIV.list UL LI {
+	BORDER-RIGHT: white 0px solid; PADDING-RIGHT: 0.8em; BORDER-TOP: white 1px solid; PADDING-LEFT: 0.8em; PADDING-BOTTOM: 0.2em; BORDER-LEFT: white 1px solid; WIDTH: 100%; CURSOR: hand; PADDING-TOP: 0.2em; BORDER-BOTTOM: white 0px solid; BACKGROUND-COLOR: #ececec
+}
+DIV.queryBuilder DIV.list UL LI.empty {
+	CURSOR: default
+}
+DIV.queryBuilder DIV.list UL LI.hover {
+	BACKGROUND-COLOR: #787b94
+}
+DIV.queryBuilder DIV.list UL LI A {
+	COLOR: black; TEXT-DECORATION: none
+}
+DIV.queryBuilder DIV.list UL LI.hover A {
+	COLOR: white
+}
+DIV.queryBuilder DIV.list UL LI .hotKey {
+	FLOAT: right
+}
+DIV.queryBuilder DIV.list UL LI.hover .hotKey {
+	COLOR: white
+}

@@ -1,0 +1,48 @@
+BODY {
+	
+}
+#navigation {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; MARGIN-TOP: 0px; BORDER-LEFT: #333333 0px solid; BORDER-BOTTOM: #333333 1px solid
+}
+#navigation TD.cap {
+	BACKGROUND-COLOR: #333333
+}
+TD.tab-bkgd {
+	BACKGROUND-IMAGE: url(../imagesweb/2007/graf-mbar.jpg); BACKGROUND-REPEAT: repeat-x
+}
+#tabs {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+#tabs A {
+	BORDER-RIGHT: #333333 1px solid; PADDING-RIGHT: 12px; DISPLAY: block; PADDING-LEFT: 12px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../imagesweb/2007/tabs07_up.jpg); PADDING-BOTTOM: 7px; COLOR: #cccccc; LINE-HEIGHT: 1; PADDING-TOP: 7px; BACKGROUND-REPEAT: repeat-x; TEXT-DECORATION: none
+}
+#tabs A.contact {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#tabs A:hover {
+	COLOR: #ffffff
+}
+#home-nav A.home {
+	COLOR: #ffffff
+}
+#services-nav A.services {
+	COLOR: #ffffff
+}
+#industry-nav A.industry {
+	COLOR: #ffffff
+}
+#data-nav A.data {
+	COLOR: #ffffff
+}
+#about-nav A.about {
+	COLOR: #ffffff
+}
+#news-nav A.news {
+	COLOR: #ffffff
+}
+#resources-nav A.resources {
+	COLOR: #ffffff
+}
+#contact-nav A.contact {
+	COLOR: #ffffff
+}

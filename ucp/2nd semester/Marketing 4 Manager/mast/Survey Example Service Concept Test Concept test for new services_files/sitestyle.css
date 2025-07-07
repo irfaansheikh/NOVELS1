@@ -1,0 +1,96 @@
+BODY {
+	BACKGROUND: #ffffff
+}
+BODY {
+	FONT-SIZE: 8.5pt; COLOR: #413f3f; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 8.5pt; COLOR: #413f3f; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TH {
+	FONT-SIZE: 8.5pt; COLOR: #413f3f; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+DIV {
+	FONT-SIZE: 8.5pt; COLOR: #413f3f; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+LI {
+	FONT-SIZE: 8.5pt; COLOR: #413f3f; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+P {
+	FONT-SIZE: 8.5pt; COLOR: #413f3f; LINE-HEIGHT: 14px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A {
+	COLOR: #413f3f; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #413f3f; TEXT-DECORATION: underline
+}
+A:link {
+	COLOR: #413f3f; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #413f3f; TEXT-DECORATION: underline
+}
+#menubox {
+	FONT-WEIGHT: bold; COLOR: #ffffff; FONT-FAMILY: Tahoma; HEIGHT: 17px; BACKGROUND-COLOR: #003366; TEXT-ALIGN: center
+}
+#menubox UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 1px; LIST-STYLE-TYPE: none
+}
+#menubox UL LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 1px; MARGIN: 0px; PADDING-TOP: 1px; HEIGHT: 5px; BACKGROUND-COLOR: #003366
+}
+#menubox UL LI A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; BACKGROUND: #003366; FLOAT: left; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; POSITION: relative; HEIGHT: 5px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+#menubox UL LI A:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; BACKGROUND: #003366; FLOAT: left; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; POSITION: relative; HEIGHT: 5px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+#menubox UL LI A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; BACKGROUND: #003366; FLOAT: left; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; POSITION: relative; HEIGHT: 5px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.tabHeader {
+	FONT-WEIGHT: bold; BACKGROUND: #003366; PADDING-BOTTOM: 2px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-ALIGN: center
+}
+A.tabHeader:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.tabHeader:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.selectedTabHeader {
+	FONT-WEIGHT: bold; BACKGROUND: #b2cbea; PADDING-BOTTOM: 2px; COLOR: #003366; FONT-FAMILY: Tahoma; TEXT-ALIGN: center
+}
+A.selectedTabHeader:link {
+	COLOR: #003366; TEXT-DECORATION: none
+}
+A.selectedTabHeader:visited {
+	COLOR: #003366; TEXT-DECORATION: none
+}
+.tabHeaderBorder {
+	BACKGROUND: #003366
+}
+.selectedTabHeaderBorder {
+	BACKGROUND: #b2cbea
+}
+.subHeader {
+	BACKGROUND-IMAGE: url(/images/nav.gif); BACKGROUND-REPEAT: repeat-x; HEIGHT: 10px
+}
+.insideLeftNav {
+	BACKGROUND: url(/images/leftInsideNav.gif) #003366 no-repeat
+}
+.insideContent {
+	BORDER-RIGHT: #003366 2px solid; PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+#lady {
+	BACKGROUND-IMAGE: url(/images/homepage-woman480-square.jpg); WIDTH: 430px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 286px
+}
+#leftGutter {
+	BACKGROUND-POSITION: 50% top; BACKGROUND-IMAGE: url(/images/qp_gutter_left.gif); WIDTH: 10px; BACKGROUND-REPEAT: repeat-y; HEIGHT: 100%
+}
+#rightGutter {
+	BACKGROUND-IMAGE: url(/images/qp_gutter_right.gif); WIDTH: 10px; BACKGROUND-REPEAT: repeat-y; HEIGHT: 100%
+}
+#topStripe {
+	BORDER-BOTTOM: #dedede 4px solid
+}

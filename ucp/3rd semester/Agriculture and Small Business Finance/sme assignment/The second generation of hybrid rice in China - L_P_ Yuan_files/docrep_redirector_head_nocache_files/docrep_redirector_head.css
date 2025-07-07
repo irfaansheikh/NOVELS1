@@ -1,0 +1,177 @@
+BODY {
+	MARGIN-LEFT: 2%
+}
+LI {
+	FONT-SIZE: 9pt; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.doctitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Tahoma; HEIGHT: 13pt; BACKGROUND-COLOR: #cccc99
+}
+.docdetail {
+	FONT-SIZE: 8pt; PADDING-BOTTOM: 3px; COLOR: #333333; PADDING-TOP: 3px; FONT-FAMILY: Tahoma
+}
+.docdetailarab {
+	FONT-SIZE: 10pt; COLOR: #990000; FONT-FAMILY: Simplified Arabic; TEXT-ALIGN: right
+}
+.doctopic {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Tahoma
+}
+.docdetailcenter {
+	FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Tahoma
+}
+.doctab {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Tahoma; HEIGHT: 13pt; BACKGROUND-COLOR: #cccc99
+}
+.error {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Tahoma; TEXT-ALIGN: left
+}
+.dlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Tahoma
+}
+.dlinkarab {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Tahoma
+}
+.dlink:hover {
+	COLOR: #333333
+}
+.dlinkarab:hover {
+	COLOR: #333333
+}
+.a {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #990000
+}
+A {
+	FONT-SIZE: 11px; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 11px; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.b {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #990000; TEXT-DECORATION: none
+}
+.b:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #990000
+}
+.c {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #cccc99; TEXT-DECORATION: none
+}
+.c:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #cccc99
+}
+TABLE.menu {
+	Z-INDEX: 1; VISIBILITY: hidden; POSITION: absolute; BACKGROUND-COLOR: #990000
+}
+.globutton {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #deddbc
+}
+.pixel {
+	FONT-SIZE: 1px
+}
+.pixel_1 {
+	BORDER-TOP: #cc0000 1px solid; FONT-SIZE: 1px
+}
+.pixel_grey {
+	BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 1px
+}
+.glonumrec {
+	FONT-SIZE: 8pt; COLOR: #990000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.glodetailcenter {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Tahoma; HEIGHT: 13pt; BACKGROUND-COLOR: #cccc99
+}
+.glotab {
+	FONT-SIZE: 8pt; BACKGROUND-IMAGE: none; COLOR: #333333; BACKGROUND-REPEAT: repeat; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #f0f0f0
+}
+.glotabarab {
+	FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f0f0f0; TEXT-ALIGN: right
+}
+.glink {
+	FONT-SIZE: 8pt; COLOR: #990000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.glink:hover {
+	COLOR: #990000
+}
+.globody {
+	FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.glonumrec {
+	FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.glonumrecArab {
+	FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Simplified Arabic; TEXT-ALIGN: right
+}
+.tiptitle {
+	PADDING-LEFT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; BACKGROUND: #cccccc; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 18px
+}
+.tiptitlearab {
+	PADDING-RIGHT: 4px; FONT-WEIGHT: bold; FONT-SIZE: 12pt; BACKGROUND: #cccccc; COLOR: #000000; FONT-FAMILY: Simplified Arabic; HEIGHT: 20px
+}
+.tiptab {
+	PADDING-LEFT: 4px; FONT-SIZE: 8pt; BACKGROUND-IMAGE: none; COLOR: #333333; BACKGROUND-REPEAT: repeat; FONT-FAMILY: Verdana; HEIGHT: 20px; BACKGROUND-COLOR: #f0f0f0
+}
+.tiptabarab {
+	FONT-SIZE: 12pt; COLOR: #333333; FONT-FAMILY: Simplified Srabic; BACKGROUND-COLOR: #f0f0f0; TEXT-ALIGN: right
+}
+.tipdetail {
+	PADDING-LEFT: 4px; FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tipdetailarab {
+	PADDING-RIGHT: 4px; FONT-SIZE: 13pt; COLOR: #666666; FONT-FAMILY: Simplified Srabic; TEXT-ALIGN: right
+}
+.showtitle {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.showtext {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.showheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: right
+}
+.showlink {
+	FONT-SIZE: 11px; COLOR: #6699ff; FONT-FAMILY: Tahoma
+}
+.helpheader {
+	FONT-WEIGHT: bold; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.helptitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.helplink {
+	FONT-SIZE: 8pt; COLOR: #990000; FONT-FAMILY: Tahoma
+}
+.helptext {
+	FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.helptab {
+	FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.actionhome {
+	PADDING-RIGHT: 2pt; PADDING-LEFT: 2pt; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma
+}
+.titlerelease {
+	PADDING-RIGHT: 2pt; FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #990000; FONT-FAMILY: Verdana
+}
+.titlereleasearab {
+	PADDING-RIGHT: 2pt; FONT-WEIGHT: bold; FONT-SIZE: 15pt; COLOR: #990000; FONT-FAMILY: Simplified Arabic
+}
+.titlepubrelease {
+	PADDING-RIGHT: 2pt; PADDING-LEFT: 2pt; FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #333333; BORDER-BOTTOM: #cc0000 1px solid; FONT-FAMILY: Tahoma
+}
+.titlebox {
+	PADDING-RIGHT: 2pt; PADDING-LEFT: 2pt; FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Tahoma; HEIGHT: 20px
+}
+.alink {
+	FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.alink:hover {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+.boxborder {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid
+}
+.titlebrowse {
+	PADDING-RIGHT: 2pt; PADDING-LEFT: 5pt; FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #999966; BORDER-BOTTOM: #cc0000 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.inputbox {
+	FONT-SIZE: 8pt; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}

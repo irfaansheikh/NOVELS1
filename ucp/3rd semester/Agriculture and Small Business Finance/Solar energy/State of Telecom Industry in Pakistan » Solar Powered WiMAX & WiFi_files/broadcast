@@ -1,0 +1,193 @@
+// This is a Javascript file
+
+GRC_p({c:"khaki",t:"The Reading List",s:"false",b:"false"});new GRC({
+ "id": "user/12186281406328770355/state/com.google/broadcast",
+ "title": "Babar\u0027s shared items in Google Reader",
+ "continuation": "CMbc_ciI_JIC",
+ "author": "Babar",
+ "updated": 1210888915,
+ "items": [
+  {
+   "id": "tag:google.com,2005:reader/item/0875ef315fe4fc62",
+   "categories": [
+   ],
+   "title": "The power of the interface",
+   "published": 1210419166,
+   "updated": 1210419273,
+   "alternate": {
+    "href": "http://feeds.feedburner.com/~r/typepad/sethsmainblog/~3/287451032/the-power-of-th.html",
+    "type": "text/html"
+   },
+   "content": "\n\nHere\u0027s what happens when you rearrange YouTube to make it work.\n\nArchitecture matters.\n   ",
+   "author": "Seth Godin",
+   "annotations": [
+   ],
+   "origin": {
+    "streamId": "feed/http://sethgodin.typepad.com/seths_blog/atom.xml",
+    "title": "Seth\u0026#39;s Blog",
+    "htmlUrl": "http://sethgodin.typepad.com/seths_blog/"
+   }
+  },
+  {
+   "id": "tag:google.com,2005:reader/item/42f1dcadf66a5e3a",
+   "categories": [
+    "Mobile",
+    "Android",
+    "GOOG",
+    "google",
+    "LiMo",
+    "Mobile Linux",
+    "Mozilla",
+    "sk telecom",
+    "Verizon"
+   ],
+   "title": "Verizon, SK Telecom Bet on LiMo Mobile Linux",
+   "published": 1210778318,
+   "updated": 1210778318,
+   "alternate": {
+    "href": "http://feeds.feedburner.com/~r/OmMalik/~3/290216874/",
+    "type": "text/html"
+   },
+   "content": "\n\nGoogle continues to rev up its plans for Android, spending liberally on \ndevelopers, but the other mobile Linux platform effort, LiMo, isn\u2019t keeping \nquiet and is aggressively adding bulk to what is an unenviable line-up. \nToday, the foundation got ...",
+   "author": "Om Malik",
+   "annotations": [
+   ],
+   "origin": {
+    "streamId": "feed/http://gigaom.com/feed/",
+    "title": "GigaOM",
+    "htmlUrl": "http://gigaom.com"
+   }
+  },
+  {
+   "id": "tag:google.com,2005:reader/item/783e12fce1ca3b9c",
+   "categories": [
+    "PakStartup"
+   ],
+   "title": "SHIFAA PK - a healthcare support portal",
+   "published": 1209713639,
+   "updated": 1209713639,
+   "alternate": {
+    "href": "http://greenwhite.org/2008/05/02/shifaa-pakistan/",
+    "type": "text/html"
+   },
+   "content": "\n\nSHIFAA Pakistan (no relation to Shifa Intl Hospital) is a good example on \nhow technology can assist the people of Pakistan with the most basic of \nrequirements which are currently not adequately provided. They have created \na portal through which the ...",
+   "author": "Osama A.",
+   "annotations": [
+   ],
+   "origin": {
+    "streamId": "feed/http://greenwhite.org/feed/",
+    "title": "Green \u0026amp; White",
+    "htmlUrl": "http://greenwhite.org"
+   }
+  },
+  {
+   "id": "tag:google.com,2005:reader/item/ca819976a4012493",
+   "categories": [
+    "startups",
+    "contextual design",
+    "design",
+    "entrepreneurship",
+    "IDEO",
+    "Nantucket Conference",
+    "Tim Brown"
+   ],
+   "title": "Top Five Suggestions For Entrepreneurs From IDEO",
+   "published": 1209710017,
+   "updated": 1209710017,
+   "alternate": {
+    "href": "http://simeons.wordpress.com/2008/05/02/top-five-suggestions-for-entrepreneurs-from-ideo/",
+    "type": "text/html"
+   },
+   "content": "\n\nThe 2008 Nantucket Conference opened up with a session led by world-class \ndesign firm IDEO. The session title was *Design Thinking for Entrepreneurs: \nIdentifying New Markets and Developing the Winning Product or Service*. \nAlthough they could have ...",
+   "author": "Simeon Simeonov",
+   "annotations": [
+   ],
+   "origin": {
+    "streamId": "feed/http://simeons.wordpress.com/feed/",
+    "title": "HighContrast",
+    "htmlUrl": "http://simeons.wordpress.com"
+   }
+  },
+  {
+   "id": "tag:google.com,2005:reader/item/83c1763fbe80ecd3",
+   "categories": [
+    "featured",
+    "java",
+    "javafx mobile",
+    "JavafxMobile",
+    "jonathan schwartz",
+    "JonathanSchwartz",
+    "sun"
+   ],
+   "title": "Interview with Sun CEO Jonathan Schwartz on Engadget Mobile",
+   "published": 1209755340,
+   "updated": 1209755340,
+   "alternate": {
+    "href": "http://feeds.engadget.com/~r/weblogsinc/engadget/~3/282271195/",
+    "type": "text/html"
+   },
+   "summary": "\n\nFiled under: Cellphones, Interviews\n\nWe recently got a chance to briefly sit down with Sun CEO Jonathan Schwartz, \nwho definitely ranks among the geekier and more sincere CEOs we\u0027ve had the \nprivilege to meet. We discussed the long-missing JavaFX Mobile ...",
+   "author": "Ryan Block",
+   "annotations": [
+   ],
+   "origin": {
+    "streamId": "feed/http://www.engadget.com/rss.xml",
+    "title": "Engadget",
+    "htmlUrl": "http://www.engadget.com"
+   }
+  },
+  {
+   "id": "tag:google.com,2005:reader/item/96c5510941854a03",
+   "categories": [
+   ],
+   "title": "Hire family people",
+   "published": 1209069900,
+   "updated": 1209069900,
+   "alternate": {
+    "href": "http://www.37signals.com/svn/posts/996-hire-family-people",
+    "type": "text/html"
+   },
+   "summary": "\n\nThe stereotypical startup dream hire is a 20-something with as little life \nas possible outside of computers. The one that\u2019ll be happy working 14-hour \ncrunch days for weeks on end sprinting for an ever-shifting target that \nkeeps being 90% done for 90% ...",
+   "author": "David",
+   "annotations": [
+   ],
+   "origin": {
+    "streamId": "feed/http://37signals.com/svn/index_full.rdf",
+    "title": "Signal vs. Noise",
+    "htmlUrl": "http://www.37signals.com/svn/posts"
+   }
+  },
+  {
+   "id": "tag:google.com,2005:reader/item/7bd672793b64e221",
+   "categories": [
+    "Startups",
+    "Web",
+    "Benchmark Capital",
+    "GOOG",
+    "google",
+    "IBM",
+    "Java",
+    "Lew Cime",
+    "New Relic",
+    "Sun Microsystems"
+   ],
+   "title": "Ruby Gets Some Enterprise-level Support",
+   "published": 1209736437,
+   "updated": 1209736437,
+   "alternate": {
+    "href": "http://feeds.feedburner.com/~r/OmMalik/~3/281233721/",
+    "type": "text/html"
+   },
+   "content": "\n\nAs Ruby on Rails rose to prominence in the last few years, the platform has \nfaced derision from some programmers over its inability to scale for \nenterprise applications. Ruby on Rails might be good for making interactive \nweb pages, but it was no C or ...",
+   "author": "Stacey Higginbotham",
+   "annotations": [
+   ],
+   "origin": {
+    "streamId": "feed/http://gigaom.com/feed/",
+    "title": "GigaOM",
+    "htmlUrl": "http://gigaom.com"
+   }
+  }
+ ]
+}
+);

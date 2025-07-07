@@ -1,0 +1,9 @@
+.article_bod {
+	FONT-SIZE: 14px
+}
+.newsletter_fontsize .article_bod_simple {
+	FONT-SIZE: 14px
+}
+.font_size A.larger {
+	BORDER-RIGHT: #666 1px dotted; BORDER-TOP: #666 1px dotted; BORDER-LEFT: #666 1px dotted; COLOR: #666; BORDER-BOTTOM: #666 1px dotted
+}

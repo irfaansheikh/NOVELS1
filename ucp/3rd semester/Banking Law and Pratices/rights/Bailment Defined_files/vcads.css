@@ -1,0 +1,153 @@
+A:link {
+	TEXT-DECORATION: underline
+}
+A:visited {
+	
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A:active {
+	TEXT-DECORATION: underline
+}
+PRE {
+	FONT-WEIGHT: 500; FONT-SIZE: 13px; FONT-FAMILY: sans-serif
+}
+B {
+	FONT-WEIGHT: 900
+}
+IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.center {
+	TEXT-ALIGN: center
+}
+.inline {
+	DISPLAY: inline; FONT-WEIGHT: 900; FONT-SIZE: 11px; COLOR: #000080
+}
+.inline A {
+	COLOR: #000080; TEXT-DECORATION: none
+}
+.justify {
+	FONT-WEIGHT: 500; FONT-SIZE: small; COLOR: #800080; TEXT-ALIGN: justify
+}
+.cite {
+	FONT-WEIGHT: 700; COLOR: #800080; FONT-STYLE: italic
+}
+.color_secondary {
+	COLOR: #800080
+}
+.top_ads {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 15px; VERTICAL-ALIGN: bottom; PADDING-TOP: 0px
+}
+.vc_table {
+	BORDER-RIGHT: silver 0px solid; BORDER-TOP: silver 0px solid; BORDER-LEFT: silver 0px solid; WIDTH: 100%; BORDER-BOTTOM: silver 0px solid
+}
+.vc_tr {
+	
+}
+.vc_td {
+	BORDER-RIGHT: silver 0px dotted; PADDING-RIGHT: 0.3em! important; BORDER-TOP: 0px; PADDING-LEFT: 0.3em! important; PADDING-BOTTOM: 0.3em! important; BORDER-LEFT: 0px; WIDTH: 100%; CURSOR: hand! important; LINE-HEIGHT: 0.7; PADDING-TOP: 0.3em! important; BORDER-BOTTOM: silver 0px dotted; BACKGROUND-COLOR: white! important
+}
+.vc_desc {
+	FONT-WEIGHT: 500; FONT-SIZE: 10px! important; VERTICAL-ALIGN: bottom; COLOR: #800080! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana, arial, sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_desc A:link {
+	FONT-WEIGHT: 500; FONT-SIZE: 10px! important; VERTICAL-ALIGN: bottom; COLOR: #800080! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana, arial, sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_desc A:visited {
+	FONT-WEIGHT: 500; FONT-SIZE: 10px! important; VERTICAL-ALIGN: bottom; COLOR: #800080! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana, arial, sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_desc A:active {
+	FONT-WEIGHT: 500; FONT-SIZE: 10px! important; VERTICAL-ALIGN: bottom; COLOR: #800080! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana, arial, sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_desc A:hover {
+	FONT-WEIGHT: 500; FONT-SIZE: 10px! important; VERTICAL-ALIGN: bottom; COLOR: #800080! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana, arial, sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_title {
+	FONT-SIZE: 12px! important; VERTICAL-ALIGN: bottom; COLOR: #0000ff! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana, arial, sans-serif! important
+}
+.vc_title A:link {
+	FONT-SIZE: 12px! important; VERTICAL-ALIGN: bottom; COLOR: #0000ff! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana, arial, sans-serif! important
+}
+.vc_title A:visited {
+	FONT-SIZE: 12px! important; VERTICAL-ALIGN: bottom; COLOR: #0000ff! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana, arial, sans-serif! important
+}
+.vc_title A:active {
+	FONT-SIZE: 12px! important; VERTICAL-ALIGN: bottom; COLOR: #0000ff! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana, arial, sans-serif! important
+}
+.vc_title A:hover {
+	FONT-SIZE: 12px! important; VERTICAL-ALIGN: bottom; COLOR: #0000ff! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana, arial, sans-serif! important
+}
+.vc_sitehost {
+	FONT-SIZE: 10px! important; VERTICAL-ALIGN: bottom; COLOR: #0000ff! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana,arial,sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_sitehost A:link {
+	FONT-SIZE: 10px! important; VERTICAL-ALIGN: bottom; COLOR: #0000ff! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana,arial,sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_sitehost A:visited {
+	FONT-SIZE: 10px! important; VERTICAL-ALIGN: bottom; COLOR: #0000ff! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana,arial,sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_sitehost A:active {
+	FONT-SIZE: 10px! important; VERTICAL-ALIGN: bottom; COLOR: #0000ff! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana,arial,sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_sitehost A:hover {
+	FONT-SIZE: 10px! important; VERTICAL-ALIGN: bottom; COLOR: #0000ff! important; LINE-HEIGHT: 0.9; FONT-FAMILY: verdana,arial,sans-serif! important; TEXT-DECORATION: none! important
+}
+.horizontal_ads {
+	MARGIN-BOTTOM: 20px; WIDTH: 735px; HEIGHT: 90px
+}
+.horizontal_ads .vc_table {
+	BORDER-RIGHT: #000099 0px solid; BORDER-TOP: #000099 0px solid; BORDER-LEFT: #000099 0px solid; WIDTH: 735px; BORDER-BOTTOM: #000099 0px solid; HEIGHT: 95px
+}
+.horizontal_ads .vc_tr {
+	
+}
+.horizontal_ads .vc_td {
+	BORDER-RIGHT: silver 0px dotted; PADDING-RIGHT: 0.2em! important; BORDER-TOP: 0px; PADDING-LEFT: 0.2em! important; PADDING-BOTTOM: 0.2em! important; BORDER-LEFT: 0px; WIDTH: 25%; CURSOR: hand! important; PADDING-TOP: 0.2em! important; BORDER-BOTTOM: silver 0px dotted
+}
+.horizontal_ads .vc_desc {
+	FONT-WEIGHT: 500; FONT-SIZE: 11px! important; COLOR: #800080! important; LINE-HEIGHT: 11px! important; FONT-FAMILY: sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_desc A:link {
+	FONT-WEIGHT: 500; FONT-SIZE: 11px! important; COLOR: #800080! important; LINE-HEIGHT: 11px! important; FONT-FAMILY: sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_desc A:visited {
+	FONT-WEIGHT: 500; FONT-SIZE: 11px! important; COLOR: #800080! important; LINE-HEIGHT: 11px! important; FONT-FAMILY: sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_desc A:active {
+	FONT-WEIGHT: 500; FONT-SIZE: 11px! important; COLOR: #800080! important; LINE-HEIGHT: 11px! important; FONT-FAMILY: sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_desc A:hover {
+	FONT-WEIGHT: 500; FONT-SIZE: 11px! important; COLOR: #800080! important; LINE-HEIGHT: 11px! important; FONT-FAMILY: sans-serif! important; TEXT-DECORATION: none! important
+}
+.horizontal_ads .vc_title {
+	FONT-SIZE: 12px! important; COLOR: #0000ff! important; LINE-HEIGHT: 14px! important; FONT-FAMILY: sans-serif! important
+}
+.vc_title A:link {
+	FONT-SIZE: 12px! important; COLOR: #0000ff! important; LINE-HEIGHT: 14px! important; FONT-FAMILY: sans-serif! important
+}
+.vc_title A:visited {
+	FONT-SIZE: 12px! important; COLOR: #0000ff! important; LINE-HEIGHT: 14px! important; FONT-FAMILY: sans-serif! important
+}
+.vc_title A:active {
+	FONT-SIZE: 12px! important; COLOR: #0000ff! important; LINE-HEIGHT: 14px! important; FONT-FAMILY: sans-serif! important
+}
+.vc_title A:hover {
+	FONT-SIZE: 12px! important; COLOR: #0000ff! important; LINE-HEIGHT: 14px! important; FONT-FAMILY: sans-serif! important
+}
+.horizontal_ads .vc_sitehost {
+	FONT-SIZE: 10px! important; COLOR: #0000ff! important; FONT-FAMILY: verdana,arial,sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_sitehost A:link {
+	FONT-SIZE: 10px! important; COLOR: #0000ff! important; FONT-FAMILY: verdana,arial,sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_sitehost A:visited {
+	FONT-SIZE: 10px! important; COLOR: #0000ff! important; FONT-FAMILY: verdana,arial,sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_sitehost A:active {
+	FONT-SIZE: 10px! important; COLOR: #0000ff! important; FONT-FAMILY: verdana,arial,sans-serif! important; TEXT-DECORATION: none! important
+}
+.vc_sitehost A:hover {
+	FONT-SIZE: 10px! important; COLOR: #0000ff! important; FONT-FAMILY: verdana,arial,sans-serif! important; TEXT-DECORATION: none! important
+}

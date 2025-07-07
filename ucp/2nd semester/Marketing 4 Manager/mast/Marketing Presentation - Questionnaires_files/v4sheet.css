@@ -1,0 +1,111 @@
+.daddyTbl {
+	BACKGROUND-COLOR: #666666; layer-background-color: #666666
+}
+.childTbl {
+	TEXT-INDENT: 10px; BACKGROUND-COLOR: #d4d0c8
+}
+.childTbl A {
+	FONT: 14px Arial, Helvetica, sans-serif; COLOR: #666666; TEXT-DECORATION: none
+}
+.childTbl A:hover {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+.childTxt {
+	FONT: 14px Arial, Helvetica, sans-serif; COLOR: #666666; BACKGROUND-COLOR: #eadaab
+}
+.imgCaptionshd {
+	FONT: bold 16px Verdana, Arial, Helvetica, sans-serif; COLOR: #d4d0c8
+}
+.imgCaptions {
+	FONT: 14px "Trebuchet MS", "Comic Sans MS", Arial, sans-serif; MARGIN-LEFT: 6px; COLOR: #d4d0c8
+}
+.imgCaptionsbg {
+	BACKGROUND-IMAGE: url(http://www.mysite.com/assets/img_main/loading.gif); FONT: 12px "Trebuchet MS", "Comic Sans MS", Arial, sans-serif; COLOR: #d4d0c8; BACKGROUND-REPEAT: no-repeat
+}
+.imgCaptions A:link {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+.imgCaptions A:visited {
+	COLOR: #cccccc; TEXT-DECORATION: underline
+}
+.imgCaptions A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.maintext {
+	FONT: 13px "Trebuchet MS", "Comic Sans MS", Arial, sans-serif; COLOR: #333333; TEXT-ALIGN: justify
+}
+.maintext A:link {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+.maintext A:visited {
+	COLOR: #999999; TEXT-DECORATION: underline
+}
+.maintext A:hover {
+	COLOR: #ecbc91; TEXT-DECORATION: underline
+}
+.maintext H1 {
+	FONT: bold 14px Verdana, Arial, Helvetica, sans-serif; COLOR: #333333
+}
+P.mnlinkbar {
+	MARGIN: 24px 0px 12px; FONT: 12px "Trebuchet MS", "Comic Sans MS", Arial, sans-serif; TEXT-ALIGN: left
+}
+.sidebar {
+	FONT: 13px "Trebuchet MS", "Comic Sans MS", Arial, sans-serif; COLOR: #333333
+}
+.sidebar P {
+	MARGIN-LEFT: 12px
+}
+.sidebar H2 {
+	MARGIN: 0px 0px 0px 12px; FONT: bold 16px Verdana, Arial, Helvetica, sans-serif; COLOR: #666666
+}
+H3 {
+	MARGIN: 0px 0px 0px 12px; FONT: bold 16px Verdana, Arial, Helvetica, sans-serif; COLOR: #666666
+}
+.sidebar A:link {
+	COLOR: #666666
+}
+.sidebar A:visited {
+	COLOR: #666666
+}
+.sidebar A:hover {
+	COLOR: #000000
+}
+P.navSubs {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 2px; COLOR: #333333
+}
+.navSubs A {
+	COLOR: #333333
+}
+.navSubs A:hover {
+	COLOR: #999999
+}
+P.linkbar {
+	MARGIN: 16px 0px 6px 6px; FONT: 11px Arial, Helvetica, sans-serif; COLOR: #666666
+}
+.linkbar A:link {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.linkbar A:visited {
+	COLOR: #666666; TEXT-DECORATION: underline
+}
+.linkbar A:hover {
+	COLOR: #d4d0c8; TEXT-DECORATION: underline
+}
+.popupDaddy {
+	BACKGROUND-COLOR: #666666; layer-background-color: #666666
+}
+.popupChild {
+	BACKGROUND-COLOR: #d4d0c8
+}
+.popupChild P {
+	MARGIN: 0px 12px 6px; FONT: 12px Arial, Helvetica, sans-serif; COLOR: #666666
+}
+.popupChild H1 {
+	MARGIN: 12px 12px 0px; FONT: bold 16px Verdana, Arial, Helvetica, sans-serif; COLOR: #ffffff
+}
+#LayerSubmenu {
+	Z-INDEX: 102; LEFT: 0px; WIDTH: 200px; POSITION: absolute; TOP: 0px
+}
+.maintext H2 {
+	FONT: bold 13px Verdana, Arial, Helvetica, sans-serif; COLOR: #006666
+}

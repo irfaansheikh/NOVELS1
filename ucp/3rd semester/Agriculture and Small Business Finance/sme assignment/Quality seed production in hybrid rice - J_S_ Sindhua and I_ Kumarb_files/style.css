@@ -1,0 +1,87 @@
+BODY {
+	FONT-SIZE: 10pt; BACKGROUND: #ffffff; MARGIN-LEFT: 5%; MARGIN-RIGHT: 15%; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+H1 {
+	DISPLAY: block; FONT-SIZE: 16pt; COLOR: #339900; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+H2 {
+	DISPLAY: block; FONT-SIZE: 14pt; COLOR: #339900; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H3 {
+	DISPLAY: block; FONT-SIZE: 13pt; COLOR: #339900; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H4 {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; COLOR: #339900; MARGIN-RIGHT: 1%; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H5 {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; MARGIN-RIGHT: 1%; TEXT-ALIGN: center
+}
+H6 {
+	MARGIN-TOP: 0px; FONT-SIZE: 10pt; MARGIN-BOTTOM: 0px; MARGIN-RIGHT: 5%
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+UL {
+	LIST-STYLE-TYPE: disc
+}
+SUP {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: #336600
+}
+A:active {
+	COLOR: #336600
+}
+A {
+	COLOR: #339900
+}
+.h1x {
+	BORDER-TOP: #ff9900 thin solid; MARGIN-TOP: 2%; DISPLAY: block; FONT-SIZE: 16pt; BORDER-LEFT-COLOR: black; COLOR: #ff9900; BORDER-BOTTOM: #ff9900 thin solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BORDER-RIGHT-COLOR: black
+}
+.h1_top {
+	BORDER-TOP: #000000 thin solid; MARGIN-TOP: 2%; DISPLAY: block; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: #000000; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; BORDER-RIGHT-COLOR: black
+}
+.h1_bottom {
+	DISPLAY: block; BORDER-LEFT-COLOR: black; MARGIN-BOTTOM: 2%; COLOR: #000000; BORDER-TOP-COLOR: #000000; BORDER-BOTTOM: #000000 thin solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BORDER-RIGHT-COLOR: black
+}
+.h1_top_down {
+	BORDER-TOP: #339900 thin solid; MARGIN-TOP: 2%; DISPLAY: block; BORDER-LEFT-COLOR: black; COLOR: #000000; BORDER-BOTTOM: #339900 thin solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BORDER-RIGHT-COLOR: black
+}
+.h1_top_left {
+	BORDER-TOP: #000000 thin solid; MARGIN-TOP: 2%; DISPLAY: block; BORDER-BOTTOM-COLOR: #000000; BORDER-LEFT: black thin solid; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; BORDER-RIGHT-COLOR: black
+}
+.h1_top_left_bottom {
+	BORDER-TOP: #000000 thin solid; MARGIN-TOP: 2%; DISPLAY: block; MARGIN-BOTTOM: 2%; MARGIN-LEFT: 2%; BORDER-LEFT: black thin solid; COLOR: #000000; BORDER-BOTTOM: #000000 thin solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BORDER-RIGHT-COLOR: black
+}
+.h1_top_right_bottom {
+	BORDER-RIGHT: black thin solid; BORDER-TOP: #000000 thin solid; MARGIN-TOP: 2%; DISPLAY: block; BORDER-LEFT-COLOR: black; MARGIN-BOTTOM: 2%; COLOR: #000000; MARGIN-RIGHT: 2%; BORDER-BOTTOM: #000000 thin solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.h1_top_right_left {
+	BORDER-RIGHT: black thin solid; BORDER-TOP: #000000 thin solid; MARGIN-TOP: 2%; DISPLAY: block; BORDER-BOTTOM-COLOR: #000000; MARGIN-LEFT: 2%; BORDER-LEFT: black thin solid; COLOR: #000000; MARGIN-RIGHT: 2%; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.h1_top_right_left_bottom {
+	BORDER-RIGHT: black thin solid; BORDER-TOP: #000000 thin solid; DISPLAY: block; MARGIN: 2%; BORDER-LEFT: black thin solid; COLOR: #000000; BORDER-BOTTOM: #000000 thin solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.h1_right_left_bottom {
+	BORDER-RIGHT: black thin solid; DISPLAY: block; MARGIN-BOTTOM: 2%; MARGIN-LEFT: 2%; BORDER-LEFT: black thin solid; COLOR: #000000; BORDER-TOP-COLOR: #000000; MARGIN-RIGHT: 2%; BORDER-BOTTOM: #000000 thin solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.h1_left {
+	DISPLAY: block; BORDER-BOTTOM-COLOR: #000000; MARGIN-LEFT: 2%; BORDER-LEFT: black thin solid; COLOR: #000000; BORDER-TOP-COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; BORDER-RIGHT-COLOR: black
+}
+.h1_right {
+	BORDER-RIGHT: black thin solid; DISPLAY: block; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: #000000; COLOR: #000000; BORDER-TOP-COLOR: #000000; MARGIN-RIGHT: 2%; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.h1_top_right {
+	BORDER-RIGHT: black thin solid; BORDER-TOP: #000000 thin solid; MARGIN-TOP: 2%; DISPLAY: block; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: #000000; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.h1_bottom_right {
+	BORDER-RIGHT: black thin solid; DISPLAY: block; BORDER-LEFT-COLOR: black; MARGIN-BOTTOM: 2%; COLOR: #000000; BORDER-TOP-COLOR: #000000; BORDER-BOTTOM: #000000 thin solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.h1_bottom_left {
+	DISPLAY: block; MARGIN-BOTTOM: 2%; BORDER-LEFT: black thin solid; COLOR: #000000; BORDER-TOP-COLOR: #000000; BORDER-BOTTOM: #000000 thin solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BORDER-RIGHT-COLOR: black
+}
+.h1_right_left {
+	BORDER-RIGHT: black thin solid; DISPLAY: block; BORDER-BOTTOM-COLOR: #000000; BORDER-LEFT: black thin solid; COLOR: #000000; BORDER-TOP-COLOR: #000000; MARGIN-RIGHT: 2%; FONT-FAMILY: Arial, Helvetica, sans-serif
+}

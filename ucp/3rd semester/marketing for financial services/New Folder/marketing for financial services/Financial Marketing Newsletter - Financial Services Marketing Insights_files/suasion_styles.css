@@ -1,0 +1,84 @@
+.bgBlue {
+	BACKGROUND-COLOR: #4b6dab
+}
+.bgMaroon {
+	BACKGROUND-COLOR: #6e2623
+}
+.bgPink {
+	BACKGROUND-COLOR: #b68271
+}
+.bgGray {
+	BACKGROUND-COLOR: #414141
+}
+.definition {
+	FONT-WEIGHT: lighter; FONT-SIZE: 11px; COLOR: #173576; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.definition A:link {
+	FONT-WEIGHT: lighter; FONT-SIZE: 11px; COLOR: #173576; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.definition A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #173576; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.definition A:visited {
+	FONT-WEIGHT: lighter; FONT-SIZE: 11px; COLOR: #173576; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.bgBody {
+	BACKGROUND-COLOR: #f9fafb
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000033; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	FONT-SIZE: 12px; COLOR: #000033; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.leftNav {
+	FONT-SIZE: 11px; COLOR: #173576; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.leftNav A:link {
+	FONT-SIZE: 11px; COLOR: #173576; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.leftNav A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #173576; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.leftNav A:visited {
+	FONT-SIZE: 11px; COLOR: #173576; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.pageTtl {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #990000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bgTopBanner {
+	BACKGROUND-COLOR: #e9edf2
+}
+.leftNavBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #173576; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textBold {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000033; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.copyright {
+	FONT-SIZE: 10px; COLOR: #91a1c6; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.copyright A:link {
+	FONT-SIZE: 10px; COLOR: #91a1c6; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.copyright A:hover {
+	FONT-SIZE: 10px; COLOR: #6d0606; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.copyright A:visited {
+	FONT-SIZE: 10px; COLOR: #91a1c6; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.topNav {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; BACKGROUND-IMAGE: url(../images/top_nav_bg.gif); COLOR: #f5d8ce; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.topNav A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #f5d8ce; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.topNav A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #f5d8ce; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.topNav A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #f5d8ce; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.topNav A:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #f5d8ce; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}

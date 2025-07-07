@@ -1,0 +1,102 @@
+LI {
+	DISPLAY: list-item; FONT-SIZE: 9pt; LIST-STYLE-IMAGE: url(../imagesweb/common/bulletGreen.gif); MARGIN-BOTTOM: 0.1em; LINE-HEIGHT: 125%
+}
+LI .2 {
+	DISPLAY: list-item; FONT-SIZE: 9pt; LIST-STYLE-IMAGE: url(../imagesweb/common/bulletTerra.gif); MARGIN-BOTTOM: 0.1em
+}
+LI .3 {
+	DISPLAY: list-item; FONT-SIZE: 9pt; LIST-STYLE-IMAGE: url(../imagesweb/common/bulletGray.gif); MARGIN-BOTTOM: 0.1em
+}
+LI .4 {
+	DISPLAY: list-item; FONT-SIZE: 9pt; LIST-STYLE-IMAGE: url(../imagesweb/common/bulletGrayBox.gif); MARGIN-BOTTOM: 0.1em
+}
+LI .5 {
+	DISPLAY: list-item; FONT-SIZE: 9pt; LIST-STYLE-IMAGE: url(../imagesweb/common/bulletGreenLine.gif); MARGIN-BOTTOM: 0.1em
+}
+LI.alt {
+	MARGIN-TOP: 0px; DISPLAY: list-item; FONT-SIZE: 8pt; LIST-STYLE-IMAGE: url(../imagesweb/common/bulletGreen.gif); MARGIN-BOTTOM: 0px; MARGIN-LEFT: 0.1em
+}
+P.red {
+	MARGIN-TOP: 0px; FONT-WEIGHT: normal; MARGIN-BOTTOM: 6px; COLOR: #990000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+P.byline {
+	COLOR: #336633; FONT-STYLE: italic
+}
+H4.insight {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #606e41
+}
+A.insight {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; MARGIN-BOTTOM: 0.1em; COLOR: #606e41; TEXT-DECORATION: underline
+}
+A.insight:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; TEXT-DECORATION: underline
+}
+A.index {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; MARGIN-BOTTOM: 0px; COLOR: #606e41; TEXT-DECORATION: underline
+}
+A.index:hover {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: underline
+}
+A.red {
+	COLOR: #990000; TEXT-DECORATION: underline
+}
+A.red:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+TD.toc {
+	BORDER-BOTTOM: #738252 1px solid
+}
+TD.library {
+	BORDER-BOTTOM: #606e41 1px dashed
+}
+#index P {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 2px
+}
+#toc {
+	BORDER-RIGHT: #808080 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #808080 1px solid; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; BORDER-LEFT: #808080 1px solid; PADDING-TOP: 6px; BORDER-BOTTOM: #808080 1px solid; BACKGROUND-COLOR: #ffffff
+}
+#toc H2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #ffffff; PADDING-TOP: 5px; FONT-FAMILY: Arial, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #738252
+}
+#toc A:link {
+	PADDING-RIGHT: 7px; DISPLAY: block; PADDING-LEFT: 7px; FONT-SIZE: 10px; PADDING-BOTTOM: 6px; COLOR: #000066; PADDING-TOP: 6px; BORDER-BOTTOM: #738252 1px solid; BACKGROUND-COLOR: #d4d0c8; TEXT-DECORATION: underline
+}
+#toc A:visited {
+	PADDING-RIGHT: 7px; DISPLAY: block; PADDING-LEFT: 7px; FONT-SIZE: 10px; PADDING-BOTTOM: 6px; COLOR: #000066; PADDING-TOP: 6px; BORDER-BOTTOM: #738252 1px solid; BACKGROUND-COLOR: #d4d0c8; TEXT-DECORATION: underline
+}
+#tocside {
+	BORDER-RIGHT: #808080 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #808080 1px solid; PADDING-LEFT: 6px; MARGIN-BOTTOM: 12px; PADDING-BOTTOM: 6px; BORDER-LEFT: #808080 1px solid; PADDING-TOP: 6px; BORDER-BOTTOM: #808080 1px solid; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: left
+}
+#tocside H2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 5px; MARGIN: 0px; COLOR: #ffffff; PADDING-TOP: 5px; FONT-FAMILY: Arial, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #738252; TEXT-ALIGN: center
+}
+#tocside A:link {
+	DISPLAY: list-item; FONT-SIZE: 10px; LIST-STYLE-IMAGE: url(../imagesweb/common/bulletGreen.gif); MARGIN-LEFT: 24px; COLOR: #000066; FONT-FAMILY: Arial, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+#tocside A:visited {
+	DISPLAY: list-item; FONT-SIZE: 10px; LIST-STYLE-IMAGE: url(../imagesweb/common/bulletGreen.gif); MARGIN-LEFT: 24px; COLOR: #000066; FONT-FAMILY: Arial, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+#tocside A:hover {
+	COLOR: #000099; TEXT-DECORATION: underline
+}
+#tocside H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Arial, "Trebuchet MS", sans-serif; TEXT-ALIGN: left
+}
+#glossary {
+	FONT-SIZE: 10px; MARGIN: 11px; FONT-FAMILY: Arial, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #ffffff
+}
+#glossary H2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 13px; PADDING-BOTTOM: 5px; MARGIN-LEFT: -11px; COLOR: #ffffff; MARGIN-RIGHT: -11px; PADDING-TOP: 5px; BACKGROUND-COLOR: #996633
+}
+#glossary H3 {
+	MARGIN-TOP: 3px; FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+#glossary H4 {
+	MARGIN-TOP: 3px; FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN-BOTTOM: 0px
+}
+#survey {
+	MARGIN-TOP: 2px; FONT-SIZE: 10px; MARGIN-BOTTOM: 2px; FONT-FAMILY: Arial, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #ffffff
+}
+#survey H4 {
+	MARGIN-TOP: 12px; FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN-BOTTOM: 0px; FONT-FAMILY: Arial, "Trebuchet MS", sans-serif
+}

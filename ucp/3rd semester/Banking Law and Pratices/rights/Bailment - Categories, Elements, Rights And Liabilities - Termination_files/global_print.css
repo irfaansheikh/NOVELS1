@@ -1,0 +1,33 @@
+DIV#container {
+	MARGIN: 1em; WIDTH: 100%
+}
+DIV#parent_nav {
+	DISPLAY: none
+}
+DIV#sibling_nav {
+	DISPLAY: none
+}
+DIV#content {
+	BORDER-TOP: medium none
+}
+DIV#collection_links {
+	BORDER-TOP: medium none
+}
+DIV#page_links {
+	BORDER-TOP: medium none
+}
+DIV#description {
+	BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 45px
+}
+DIV#description DIV {
+	POSITION: static
+}
+DIV#content DIV.google_ad {
+	DISPLAY: none
+}
+DIV#content DIV.google_ad_float {
+	DISPLAY: none
+}
+DIV.form_container {
+	DISPLAY: none
+}

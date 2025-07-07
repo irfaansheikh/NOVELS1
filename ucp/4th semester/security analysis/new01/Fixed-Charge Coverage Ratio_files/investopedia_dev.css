@@ -1,0 +1,934 @@
+@import url( http://images.forbes.com/css/newfoot_partner.css );
+BODY {
+	BACKGROUND: url(http://i.investopedia.com/inv/general/template/bg/body_blue.jpg) repeat-x; MARGIN: 0px 0px 5px
+}
+TR {
+	FONT: 12px arial
+}
+TD {
+	FONT: 12px arial
+}
+P {
+	FONT: 12px arial
+}
+DIV {
+	FONT: 12px arial
+}
+A:link {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #cc0000; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #800080; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #cc0000; TEXT-DECORATION: underline
+}
+#capsul {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/general/template/bg.gif)
+}
+.capsul {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/general/template/bg.gif)
+}
+#home_link {
+	WIDTH: 53px
+}
+#dictionary_link {
+	WIDTH: 77px
+}
+#articles_link {
+	WIDTH: 64px
+}
+#tutorials_link {
+	WIDTH: 70px
+}
+#exam_link {
+	WIDTH: 83px
+}
+#ask_link {
+	WIDTH: 60px
+}
+#simulator_link {
+	WIDTH: 111px
+}
+#community_link {
+	WIDTH: 120px
+}
+#ideas_link {
+	WIDTH: 87px
+}
+#tools_link {
+	WIDTH: 91px; COLOR: #ffff00
+}
+.nav {
+	FONT-SIZE: 12px; Z-INDEX: 100; BACKGROUND-IMAGE: url(http://i2.investopedia.com/inv/general/template/nonhover.gif); WIDTH: 994px; POSITION: relative; HEIGHT: 28px
+}
+.nav UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.nav LI {
+	FLOAT: left; POSITION: relative
+}
+.nav A {
+	BORDER-RIGHT: #000 0px solid; BORDER-TOP: #000 1px solid; DISPLAY: block; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/general/template/nonhover.gif); BORDER-LEFT: #000 1px solid; COLOR: #fff; LINE-HEIGHT: 25px; BORDER-BOTTOM: #000 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 26px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.nav A:visited {
+	BORDER-RIGHT: #000 0px solid; BORDER-TOP: #000 1px solid; DISPLAY: block; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/general/template/nonhover.gif); BORDER-LEFT: #000 1px solid; COLOR: #fff; LINE-HEIGHT: 25px; BORDER-BOTTOM: #000 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 26px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.nav UL UL {
+	BORDER-TOP: #000 1px solid; LEFT: 0px; VISIBILITY: hidden; POSITION: absolute; TOP: 27px; HEIGHT: 0px
+}
+.nav UL LI:hover UL {
+	VISIBILITY: visible
+}
+.nav UL A:hover UL {
+	VISIBILITY: visible
+}
+.nav TABLE {
+	LEFT: 0px; POSITION: absolute; TOP: 0px; BORDER-COLLAPSE: collapse
+}
+.nav UL UL A {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: normal; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 11px; BACKGROUND: #363637; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 5px; WIDTH: 120px; COLOR: #fff; LINE-HEIGHT: 1em; PADDING-TOP: 5px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: auto; TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 1px
+}
+.nav UL UL A:visited {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: normal; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 11px; BACKGROUND: #363637; BORDER-BOTTOM-WIDTH: 1px; PADDING-BOTTOM: 5px; WIDTH: 120px; COLOR: #fff; LINE-HEIGHT: 1em; PADDING-TOP: 5px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: auto; TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 1px
+}
+.nav A:hover {
+	BACKGROUND: #18191a; COLOR: #fff; TEXT-DECORATION: underline
+}
+UNKNOWN {
+	BACKGROUND: #18191a; COLOR: #fff; TEXT-DECORATION: underline
+}
+.nav UL UL A:hover {
+	BACKGROUND: #363637; COLOR: #f5fc88; TEXT-DECORATION: underline
+}
+UNKNOWN {
+	BACKGROUND: #363637; COLOR: #f5fc88; TEXT-DECORATION: underline
+}
+#navigationt {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/general/template/nonhover.gif); VERTICAL-ALIGN: middle; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 28px
+}
+.chromestyle {
+	FONT-WEIGHT: bold; VERTICAL-ALIGN: middle; WIDTH: 99%
+}
+.chromestyle:unknown {
+	CLEAR: both; DISPLAY: block; VISIBILITY: hidden; HEIGHT: 0px; content: "."
+}
+.chromestyle UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 4px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 4px; TEXT-ALIGN: left
+}
+.chromestyle UL LI A:visited {
+	TEXT-DECORATION: none
+}
+.chromestyle UL LI {
+	DISPLAY: inline; BACKGROUND: url(http://i.investopedia.com/inv/general/template/but.gif) no-repeat; VERTICAL-ALIGN: middle
+}
+.chromestyle UL LI A {
+	PADDING-RIGHT: 14px; PADDING-LEFT: 14px; PADDING-BOTTOM: 4px; MARGIN: 0px; COLOR: #ffffff; PADDING-TOP: 4px; TEXT-DECORATION: none
+}
+.chromestyle UL LI A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.chromestyle UL LI A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.chromestyle UL LI A:hover {
+	TEXT-DECORATION: underline
+}
+UNKNOWN {
+	content: ""
+}
+.home_todsearch {
+	FONT: 11px arial; COLOR: #fff
+}
+.home_todsearch A:link {
+	FONT: 11px arial; COLOR: #fff; TEXT-DECORATION: underline
+}
+.home_todsearch A:hover {
+	FONT: 11px arial; COLOR: #f5fc88; TEXT-DECORATION: underline
+}
+.home_todsearch A:visited {
+	FONT: 11px arial; COLOR: #fff; TEXT-DECORATION: underline
+}
+.home_todsearch A:hover {
+	FONT: 11px arial; COLOR: #f5fc88; TEXT-DECORATION: underline
+}
+.home_articleboxtitle {
+	MARGIN: 10px 0px 0px 15px; FONT: bold 12px arial
+}
+.dropmenudiv {
+	Z-INDEX: 100; VISIBILITY: hidden; BORDER-BOTTOM-WIDTH: 0px; FONT: 11px/14px arial; POSITION: absolute; TOP: 0px
+}
+.dropmenudiv A {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 5px; FONT-WEIGHT: normal; PADDING-BOTTOM: 5px; BORDER-LEFT: #000000 1px solid; COLOR: #ffffff; TEXT-INDENT: 3px; PADDING-TOP: 5px; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #363637; TEXT-DECORATION: none
+}
+.dropmenudiv A:hover {
+	COLOR: #f5fc88; TEXT-DECORATION: underline
+}
+.dropmenudiv A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.dropmenudiv A:hover {
+	COLOR: #f5fc88; TEXT-DECORATION: underline
+}
+#navigationl {
+	BACKGROUND: #363637
+}
+#navigationl P {
+	MARGIN: 0px
+}
+#navigationl A:link {
+	FONT-SIZE: 11px; MARGIN: 0px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+#navigationl A:visited {
+	FONT-SIZE: 11px; MARGIN: 0px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+#navigationl A:hover {
+	FONT-SIZE: 11px; MARGIN: 0px; COLOR: #f5fc88; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+#navigationl A:hover:unknown {
+	FONT-SIZE: 11px; MARGIN: 0px; COLOR: #f5fc88; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+#navigationl #searches {
+	FONT-SIZE: 11px; PADDING-BOTTOM: 5px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#navigationl #searches A:link {
+	FONT-SIZE: 11px; MARGIN: 0px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+#navigationl #searches A:visited {
+	FONT-SIZE: 11px; MARGIN: 0px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.dot {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 12px; PADDING-TOP: 3px; BORDER-BOTTOM: #bfc0c0 1px dotted; HEIGHT: 18px
+}
+.dot_double {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 12px; PADDING-TOP: 3px; BORDER-BOTTOM: #bfc0c0 1px dotted; HEIGHT: 32px
+}
+.dotlast {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 12px; PADDING-TOP: 3px; HEIGHT: 18px
+}
+#leader {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BACKGROUND-COLOR: #eeeeee
+}
+#header {
+	BORDER-TOP: #ffffff 1px solid; BACKGROUND-REPEAT: no-repeat; HEIGHT: 74px; BACKGROUND-COLOR: #114376
+}
+#footer {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% bottom; PADDING-LEFT: 0px; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/general/template/footer.gif); PADDING-BOTTOM: 0px; COLOR: #333333; PADDING-TOP: 0px; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#footer A {
+	FONT-SIZE: 10px
+}
+#footer_ads {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: right 50%; PADDING-LEFT: 0px; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/general/template/footeredge.gif); PADDING-BOTTOM: 0px; COLOR: #333333; PADDING-TOP: 0px; BACKGROUND-REPEAT: repeat-y; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#footer_ads A {
+	FONT-SIZE: 10px
+}
+.ads A:link {
+	COLOR: #356a9e; TEXT-DECORATION: none
+}
+.ads A:visited {
+	COLOR: #356a9e; TEXT-DECORATION: none
+}
+.ads A:hover {
+	COLOR: #356a9e; TEXT-DECORATION: underline
+}
+H1 {
+	FONT-SIZE: 22px
+}
+#body {
+	FONT-SIZE: 13px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.articles_mainbody {
+	FONT: 13px arial; PADDING-TOP: 5px
+}
+.articlesbio_footer {
+	FONT-STYLE: italic
+}
+.articleauthorcontact {
+	FONT: 11px arial
+}
+.cat_title {
+	FONT: bold 22px arial; COLOR: #000000; PADDING-TOP: 10px
+}
+.cat_titledic {
+	FONT: bold 18px arial; COLOR: #000000
+}
+.tutorials_maintitle {
+	FONT: bold 22px arial; COLOR: #000
+}
+.tutorials_topauthor {
+	FONT: 13px arial; COLOR: #000
+}
+.tutorials_printerfriendly {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; FONT: 11px arial; PADDING-TOP: 1px; TEXT-ALIGN: center
+}
+.tutorials_mainbody {
+	FONT: 12px arial
+}
+.articles_maintitle {
+	FONT: bold 22px arial; COLOR: #000
+}
+.articles_topauthor {
+	FONT: 13px arial; COLOR: #000
+}
+.articles_printerfriendly {
+	FONT: 11px arial; TEXT-ALIGN: center
+}
+.articlestoolbox_icons {
+	
+}
+.articlestoolbox_links {
+	FONT: 11px arial
+}
+.articlestoolbox_border {
+	BORDER-TOP: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+.articlestoolbox_border_bottom {
+	BORDER-TOP: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+.articlestb_container {
+	BACKGROUND: url(http://i.investopedia.com/inv/articles/icons/toolbg.gif); MARGIN: 15px 0px; WIDTH: 100%; HEIGHT: 27px
+}
+.articlestb_pec {
+	FLOAT: left; WIDTH: 250px; HEIGHT: 27px
+}
+.articlestb_pic {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 5px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 7px
+}
+.articlestb_txt {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; FLOAT: left; PADDING-BOTTOM: 5px; PADDING-TOP: 6px
+}
+.articles_bookmarks {
+	FLOAT: right; WIDTH: 350px; HEIGHT: 27px
+}
+.articlestb_rssicon {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; FLOAT: right; PADDING-BOTTOM: 0px; WIDTH: 15px; PADDING-TOP: 6px
+}
+.articlestb_stumbleicon {
+	FLOAT: right; WIDTH: 18px; PADDING-TOP: 6px
+}
+.articlestb_icons {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FLOAT: right; PADDING-BOTTOM: 5px; WIDTH: 18px; PADDING-TOP: 5px
+}
+.articlestb_googicon {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FLOAT: right; PADDING-BOTTOM: 0px; WIDTH: 17px; PADDING-TOP: 6px
+}
+#articles_hmpg {
+	WIDTH: 100%
+}
+#articles_maintitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; FLOAT: left; WIDTH: 125px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#articles_dropdown {
+	FLOAT: left; WIDTH: 385px
+}
+#articles_category {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.articles_box {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/articles_boxbg.gif); MARGIN-BOTTOM: 20px; WIDTH: 511px; BACKGROUND-REPEAT: no-repeat
+}
+.articles_hdrbg {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/articles_headerbg.gif); WIDTH: 511px; HEIGHT: 30px
+}
+.tutorials_hdrbg {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/tutorials/template/tutorials_hd_bg.gif); WIDTH: 535px; HEIGHT: 30px
+}
+.articles_hdr {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 15px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 280px; PADDING-TOP: 7px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.articles_t_viewall {
+	PADDING-RIGHT: 5px; DISPLAY: inline; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 10px; TEXT-ALIGN: right
+}
+.articles_t_viewall A {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.articles_viewall {
+	PADDING-RIGHT: 5px; DISPLAY: inline; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 215px; PADDING-TOP: 10px; TEXT-ALIGN: right
+}
+.articles_viewall A {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.articles_icon {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 43px; PADDING-TOP: 15px
+}
+.articles_title {
+	FONT-SIZE: 14px; FLOAT: left; MARGIN-BOTTOM: 15px; WIDTH: 420px; LINE-HEIGHT: 20px; PADDING-TOP: 10px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.articles_title A {
+	FONT-SIZE: 15px
+}
+.articles_more {
+	PADDING-LEFT: 20px; FONT-WEIGHT: bold; FONT-SIZE: 12px; LINE-HEIGHT: 18px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.articles_more A {
+	FONT-WEIGHT: normal
+}
+#right {
+	PADDING-RIGHT: 5px
+}
+#right A:link {
+	PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#right A:visited {
+	PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.rightbox {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 2px; PADDING-BOTTOM: 5px; BORDER-LEFT: #aaaaaa 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #aaaaaa 1px solid; TEXT-ALIGN: left
+}
+.askus_mainquestion {
+	FONT: bold 13px arial; COLOR: #000
+}
+.askus_whiteheadertxt {
+	FONT: bold 13px arial; COLOR: #fff; BACKGROUND-COLOR: #333366
+}
+.askus_promo {
+	BORDER-RIGHT: #333366 1px solid; BORDER-TOP: #333366 1px solid; MARGIN-TOP: 20px; FONT: bold 13px arial; BORDER-LEFT: #333366 1px solid; WIDTH: 300px; COLOR: #000; BORDER-BOTTOM: #333366 1px solid; BACKGROUND-COLOR: #eeeeee; TEXT-ALIGN: center
+}
+.askus_askbottom {
+	BORDER-RIGHT: #000 1px dotted; BORDER-TOP: #000 1px dotted; BORDER-LEFT: #000 1px dotted; WIDTH: 220px; BORDER-BOTTOM: #000 1px dotted; HEIGHT: 50px; BACKGROUND-COLOR: #fff
+}
+.askus_askbottomtext {
+	FONT: bold 16px arial
+}
+.askus_mainbody {
+	FONT: 13px arial
+}
+.eightthreeone {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(http://i.investopedia.com/simulator_ui/8831bg.gif); PADDING-BOTTOM: 0px; WIDTH: 100px; PADDING-TOP: 2px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 32px
+}
+.iTt {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: black 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; BORDER-LEFT: black 1px solid; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: black 1px solid; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica; BACKGROUND-COLOR: lightyellow
+}
+.author_list {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+.author_list_item {
+	MARGIN-BOTTOM: 10px
+}
+.contribute_alt TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BORDER-BOTTOM: rgb(202,210,194) 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: rgb(240,239,239)
+}
+.contribute_row TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BORDER-BOTTOM: rgb(202,210,194) 1px solid; HEIGHT: 20px
+}
+.contribute_row A {
+	FONT-WEIGHT: bold
+}
+.contribute_alt A {
+	FONT-WEIGHT: bold
+}
+.contribute_head TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BORDER-BOTTOM: rgb(202,210,194) 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: rgb(240,239,239)
+}
+.write_title {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 15px; FONT: bold 16px arial; PADDING-TOP: 10px; font-size-adjust: none; font-stretch: normal
+}
+.home_termod {
+	FONT: bold 22px arial; TEXT-ALIGN: center
+}
+.home_termod A:link {
+	FONT: bold 22px arial; COLOR: #0000ff; TEXT-ALIGN: center; TEXT-DECORATION: underline
+}
+.home_termod A:hover {
+	FONT: bold 22px arial; COLOR: #cc0000; TEXT-ALIGN: center; TEXT-DECORATION: underline
+}
+.home_termod A:visited {
+	FONT: bold 22px arial; COLOR: #800080; TEXT-ALIGN: center; TEXT-DECORATION: underline
+}
+.home_termod A:hover {
+	FONT: bold 22px arial; COLOR: #cc0000; TEXT-ALIGN: center; TEXT-DECORATION: underline
+}
+.bycategory A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.bycategory A:visited {
+	FONT-WEIGHT: bold
+}
+.rightlinks A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #0000ff
+}
+.rightlinks A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #0000ff
+}
+.rightlinks A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.righttxt {
+	FONT-SIZE: 11px
+}
+.spdescription {
+	FONT-SIZE: 12px
+}
+.sponsor {
+	BORDER-RIGHT: #cbcbcb 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; BORDER-LEFT: #cbcbcb 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #cbcbcb 1px solid
+}
+.sponsor A:link {
+	TEXT-DECORATION: none
+}
+.home_smlinksarticle A:link {
+	FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.home_smlinksarticle A:visited {
+	FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.home_smlinksarticle A:hover {
+	FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.home_smlinksarticle A:visited {
+	FONT-SIZE: 10px; TEXT-DECORATION: none
+}
+.beg_mainlinks A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.beg_mainlinks A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.beg_mainlinks A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.beg_mainlinks A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.secthead {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 8px
+}
+.secthead A:link {
+	FONT-SIZE: 10px; COLOR: #666666
+}
+.secthead A:visited {
+	FONT-SIZE: 10px; COLOR: #666666
+}
+.ap_authornametitle {
+	FONT: bold 18px arial; COLOR: #0b394b
+}
+.ap_bg {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BACKGROUND-COLOR: #e9eef2
+}
+.ap_mostrecent {
+	PADDING-RIGHT: 5px; BORDER-TOP: #0b394b 3px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 15px; PADDING-TOP: 5px
+}
+.ap_authorpic {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.toc {
+	BORDER-TOP: #aaaaaa 1px solid; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/general/tile.gif); BORDER-BOTTOM: #aaaaaa 1px solid; HEIGHT: 15px
+}
+.exam_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px
+}
+.note {
+	FONT-SIZE: 10px
+}
+.title {
+	MARGIN-TOP: 30px; MARGIN-BOTTOM: 16px; PADDING-BOTTOM: 2px; BORDER-BOTTOM: #d9d9d9 2px solid
+}
+.title_main {
+	MARGIN-TOP: 15px; MARGIN-BOTTOM: 16px; PADDING-BOTTOM: 2px; BORDER-BOTTOM: #d9d9d9 2px solid
+}
+.clear {
+	CLEAR: both
+}
+.breaker {
+	MARGIN: 10px 0px; BORDER-BOTTOM: #dddddd 1px solid
+}
+.idea_container {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.idea_featured_image {
+	FLOAT: left; WIDTH: 55px; MARGIN-RIGHT: 10px
+}
+.idea_featured_content {
+	FLOAT: left; WIDTH: 435px; MARGIN-RIGHT: 10px
+}
+.idea_featured_button {
+	MARGIN-TOP: 18px; FLOAT: left; WIDTH: 99px
+}
+.idea_more_image {
+	FLOAT: left; WIDTH: 33px; MARGIN-RIGHT: 10px
+}
+.idea_more_content {
+	FLOAT: left; WIDTH: 500px; MARGIN-RIGHT: 10px; PADDING-TOP: 5px
+}
+.idea_free_image {
+	FLOAT: left; WIDTH: 75px; MARGIN-RIGHT: 10px
+}
+.idea_free_content {
+	FLOAT: left; WIDTH: 500px; MARGIN-RIGHT: 10px
+}
+.style1 {
+	COLOR: #ff0000
+}
+.free_txt {
+	FONT-SIZE: 13px
+}
+.free_bg_hdr {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 7px; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/freetools/freetools_hdrbgr1.gif); MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 0px; WIDTH: 405px; COLOR: #5c7544; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 26px
+}
+.replace {
+	DISPLAY: none
+}
+.articles_container {
+	PADDING-RIGHT: 6px; BACKGROUND-POSITION: left 50%; PADDING-LEFT: 6px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/containerTile.jpg); PADDING-BOTTOM: 6px; WIDTH: 469px; PADDING-TOP: 6px
+}
+.commentary_container {
+	PADDING-RIGHT: 6px; BACKGROUND-POSITION: left 50%; PADDING-LEFT: 6px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/commentaryTile.jpg); PADDING-BOTTOM: 6px; PADDING-TOP: 6px; BACKGROUND-REPEAT: repeat-y; HEIGHT: 227px
+}
+.links A {
+	COLOR: #3d6c99; TEXT-DECORATION: none
+}
+.links A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.links LI {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px 4px; PADDING-LEFT: 12px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/listBullet.jpg); PADDING-BOTTOM: 0px; MARGIN: 0px 0px 5px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat; LIST-STYLE-TYPE: none
+}
+.links UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 10px 0px 0px; PADDING-TOP: 0px
+}
+.container_top {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/containertop.jpg); WIDTH: 481px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 10px
+}
+.featured {
+	PADDING-RIGHT: 110px; BACKGROUND-POSITION: right 50%; BORDER-TOP: #515151 1px dotted; PADDING-LEFT: 9px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/featuredBg.jpg); PADDING-BOTTOM: 9px; PADDING-TOP: 9px; BORDER-BOTTOM: #515151 1px dotted; BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #f7f7f7
+}
+.featured_link {
+	BACKGROUND-POSITION: left center; PADDING-LEFT: 15px; FONT-SIZE: 13px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/listBullet.jpg); MARGIN-BOTTOM: 5px; BACKGROUND-REPEAT: no-repeat
+}
+.container_bottom {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/containerbottom.jpg); WIDTH: 481px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 10px
+}
+.commentary_bottom {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/commentaryBottom.jpg); BACKGROUND-REPEAT: no-repeat; HEIGHT: 14px
+}
+.large_top {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/largeTop.jpg); BACKGROUND-REPEAT: no-repeat; HEIGHT: 11px
+}
+.large_tile {
+	PADDING-RIGHT: 12px; PADDING-LEFT: 12px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/largeTile.jpg); PADDING-BOTTOM: 12px; WIDTH: 644px; PADDING-TOP: 12px
+}
+.large_bottom {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/largeBottom.jpg); BACKGROUND-REPEAT: no-repeat; HEIGHT: 11px
+}
+.valid {
+	COLOR: #02540a
+}
+.invalid {
+	COLOR: #ed2024
+}
+.feature_table A:hover {
+	
+}
+.featured_article {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 5px; PADDING-TOP: 0px
+}
+.featured_article_box {
+	PADDING-RIGHT: 0px; BORDER-TOP: #000000 1px dotted; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 10px; OVERFLOW: hidden; WIDTH: 100%; LINE-HEIGHT: 17px; PADDING-TOP: 10px; BORDER-BOTTOM: #000000 1px dotted; BACKGROUND-COLOR: #f7f7f7
+}
+.featured_article_box A {
+	COLOR: #3d6c99; TEXT-DECORATION: none
+}
+.featured_article_title {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 5px; COLOR: #3d6c99; PADDING-TOP: 0px; TEXT-DECORATION: underline
+}
+.featured_article_title A {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #3d6c99; TEXT-DECORATION: underline
+}
+.featured_article_title2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 5px; COLOR: #3d6c99; PADDING-TOP: 5px; TEXT-DECORATION: underline
+}
+.featured_article_title2 A {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #3d6c99; TEXT-DECORATION: underline
+}
+.feature_sideborder {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/featureboxbg.gif); WIDTH: 357px; BACKGROUND-REPEAT: repeat-y
+}
+.specialfeature_bg {
+	BACKGROUND: url(http://i.investopedia.com/inv/articles/features/specialfeature_bg.gif) no-repeat; MARGIN: 0px 0px 10px 5px; OVERFLOW: hidden; WIDTH: 671px; HEIGHT: 71px
+}
+#feature_lcol {
+	FLOAT: left; OVERFLOW: hidden; WIDTH: 365px
+}
+.feature_lcolbox {
+	MARGIN-LEFT: 10px; OVERFLOW: hidden; WIDTH: 343px
+}
+.feature_lbox {
+	MARGIN-TOP: 10px; OVERFLOW: hidden; WIDTH: 100%
+}
+.feature_tradingstrat {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/tradingstrategies.jpg); MARGIN-LEFT: -1px; OVERFLOW: hidden; WIDTH: 361px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 35px
+}
+.feature_hdr_text {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 0px; COLOR: #ffffff; PADDING-TOP: 13px
+}
+#feature_rcol {
+	FLOAT: left; MARGIN-LEFT: 10px; OVERFLOW: hidden; WIDTH: 300px
+}
+.feature_rsideborder {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/featureboxr_bg2.gif); OVERFLOW: hidden; WIDTH: 296px; BACKGROUND-REPEAT: repeat-y
+}
+#feature_basicsbg {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/forex_bg_hd1.jpg); MARGIN-LEFT: 2px; OVERFLOW: hidden; WIDTH: 293px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 34px
+}
+.feature_btn_text {
+	FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; TEXT-ALIGN: center
+}
+#feature_theory {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/theory_trades.jpg); MARGIN-LEFT: -1px; OVERFLOW: hidden; WIDTH: 361px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 35px
+}
+.feature_links {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 7px; WIDTH: 100%; PADDING-TOP: 10px; BORDER-BOTTOM: #000000 1px dotted
+}
+.feature_links A {
+	COLOR: #3d6c99; TEXT-DECORATION: none
+}
+.feature_links A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.feature_links LI {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px 4px; PADDING-LEFT: 12px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/home/listBullet.jpg); PADDING-BOTTOM: 0px; MARGIN: 0px 0px 5px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat; LIST-STYLE-TYPE: none
+}
+.feature_links UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 10px 0px 0px; PADDING-TOP: 0px
+}
+.feature_askus {
+	FLOAT: left; WIDTH: 21px
+}
+.feature_askus_txt {
+	FLOAT: left; WIDTH: 100px
+}
+.feature_sideborder_etf {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/featureboxbg_etfs.gif); MARGIN-LEFT: 3px; WIDTH: 461px; BACKGROUND-REPEAT: repeat-y
+}
+#feature_lcol_etf {
+	FLOAT: left; MARGIN-LEFT: 2px; OVERFLOW: hidden; WIDTH: 465px
+}
+.feature_lcolbox_etf {
+	MARGIN-LEFT: 10px; OVERFLOW: hidden; WIDTH: 443px
+}
+#feature_rcol_etf {
+	FLOAT: left; MARGIN-LEFT: 2px; OVERFLOW: hidden; WIDTH: 202px
+}
+.feature_rsideborder_etf {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/etfs_rbg.gif); MARGIN-LEFT: 2px; OVERFLOW: hidden; WIDTH: 198px; BACKGROUND-REPEAT: repeat-y
+}
+#feature_faqsbg_etfs {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/etfs_bg_hd1.gif); MARGIN-LEFT: 2px; OVERFLOW: hidden; WIDTH: 198px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 33px
+}
+#feature_leftbg {
+	BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/etfs_bghdr.gif); OVERFLOW: hidden; WIDTH: 362px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 33px
+}
+.feature_hdr_text2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 16px; PADDING-BOTTOM: 0px; COLOR: #ffffff; PADDING-TOP: 11px
+}
+.quicklink {
+	FLOAT: left; WIDTH: 276px; COLOR: #747474
+}
+.quicklink A {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+.quicklink2 {
+	FLOAT: left; WIDTH: 278px; COLOR: #747474
+}
+.quicklink2 A {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+.current_feature {
+	CLEAR: both; MARGIN-TOP: 25px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/monthlyfeature_bg.gif); MARGIN-BOTTOM: 20px; OVERFLOW: hidden; WIDTH: 638px; BACKGROUND-REPEAT: no-repeat
+}
+.feature_tab {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 16px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/feature_tab.gif); MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; WIDTH: 119px; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px
+}
+.feature_tab1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 16px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/feature_tab1.gif); MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; WIDTH: 87px; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px
+}
+.feature_tab2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 16px; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/articles/features/feature_tab2.gif); MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; WIDTH: 148px; COLOR: #114376; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px
+}
+.category_cont {
+	BORDER-RIGHT: #ececec 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #ececec 1px solid; PADDING-LEFT: 15px; PADDING-BOTTOM: 15px; OVERFLOW: hidden; BORDER-LEFT: #ececec 1px solid; WIDTH: 608px; PADDING-TOP: 15px; BORDER-BOTTOM: #ececec 1px solid
+}
+.topic_cont {
+	MARGIN-BOTTOM: 5px; PADDING-BOTTOM: 5px; OVERFLOW: hidden; WIDTH: 100%; BORDER-BOTTOM: #ececec 1px dotted
+}
+.topic_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; PADDING-BOTTOM: 5px
+}
+.topic_icon {
+	FLOAT: left; WIDTH: 35px
+}
+.topic_desc {
+	PADDING-LEFT: 10px; FLOAT: left; WIDTH: 560px
+}
+.quicklink_hdr {
+	FONT-SIZE: 11px; PADDING-BOTTOM: 5px
+}
+.quicklinks_left {
+	PADDING-RIGHT: 15px; FLOAT: left; WIDTH: 297px
+}
+.quicklinks_right {
+	FLOAT: left; WIDTH: 296px
+}
+.quicklink_line {
+	PADDING-BOTTOM: 3px; OVERFLOW: hidden
+}
+.quicklink_article {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 3px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 10px; PADDING-TOP: 4px
+}
+.quicklink_faq {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 13px; PADDING-TOP: 0px
+}
+.quicklink_tutorial {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 3px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 12px; PADDING-TOP: 4px
+}
+.quicklink_pdf {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 14px; PADDING-TOP: 0px
+}
+.landing_btn {
+	PADDING-TOP: 10px; TEXT-ALIGN: center
+}
+UNKNOWN {
+	PADDING-BOTTOM: 10px; WIDTH: 778px; BORDER-BOTTOM: #e6e6e6 1px solid
+}
+.slideshow_subheader {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; OVERFLOW: hidden; WIDTH: 778px; PADDING-TOP: 6px
+}
+.email_text {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 11px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.email_text A {
+	COLOR: #868686; TEXT-DECORATION: none
+}
+.floatleft {
+	FLOAT: left
+}
+.speed_text {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 11px; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #868686; PADDING-TOP: 4px
+}
+.slideshow_cont {
+	CLEAR: both; BORDER-RIGHT: #cecece 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #cecece 1px solid; PADDING-LEFT: 15px; PADDING-BOTTOM: 20px; OVERFLOW: hidden; BORDER-LEFT: #cecece 1px solid; WIDTH: 743px; PADDING-TOP: 15px; BORDER-BOTTOM: #cecece 1px solid; BACKGROUND-COLOR: #f4f4f4
+}
+.slideshow_image {
+	FLOAT: left; MARGIN: 0px 15px 5px 0px; WIDTH: 387px; PADDING-TOP: 6px; HEIGHT: 233px; BACKGROUND-COLOR: #c4c4c4; TEXT-ALIGN: center
+}
+.slideshow_content {
+	PADDING-LEFT: 15px; FLOAT: left; WIDTH: 340px
+}
+.slideshow_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN-BOTTOM: 8px
+}
+.slideshow_footer {
+	BORDER-RIGHT: #cecece 1px solid; PADDING-RIGHT: 15px; PADDING-LEFT: 15px; PADDING-BOTTOM: 5px; OVERFLOW: hidden; BORDER-LEFT: #cecece 1px solid; WIDTH: 748px; PADDING-TOP: 5px; BORDER-BOTTOM: #cecece 1px solid; BACKGROUND-COLOR: #ebebeb
+}
+.slideshow_sml_img {
+	BORDER-RIGHT: #c9c9c9 1px solid; BORDER-TOP: #c9c9c9 1px solid; FLOAT: left; BORDER-LEFT: #c9c9c9 1px solid; WIDTH: 50px; BORDER-BOTTOM: #c9c9c9 1px solid
+}
+.slideshow_sml_text {
+	PADDING-RIGHT: 50px; PADDING-LEFT: 15px; FONT-SIZE: 11px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 12px
+}
+.slideshow_today {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 20px; PADDING-TOP: 35px
+}
+.slideshow_today_text {
+	PADDING-BOTTOM: 20px
+}
+.yahooBuzzBadge-form A {
+	PADDING-LEFT: 2px! important; FONT-WEIGHT: normal! important; TEXT-INDENT: 0px! important
+}
+.exam_ls {
+	FLOAT: left; MARGIN: 0px 25px 0px 7px; OVERFLOW: hidden; WIDTH: 555px
+}
+.exam_ls A {
+	COLOR: #114376; TEXT-DECORATION: none
+}
+.tableofcontents {
+	BORDER-RIGHT: #cfcfcf 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #cfcfcf 1px solid; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 13px; FLOAT: left; PADDING-BOTTOM: 0px; OVERFLOW: hidden; BORDER-LEFT: #cfcfcf 1px solid; WIDTH: 154px; COLOR: #2f2f2f; PADDING-TOP: 1px; BORDER-BOTTOM: #cfcfcf 1px solid
+}
+.tableofcontents A {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #114376; LINE-HEIGHT: 19px; TEXT-DECORATION: none
+}
+.tableofcontents A:visited {
+	FONT-SIZE: 13px; COLOR: #114376; LINE-HEIGHT: 19px; TEXT-DECORATION: none
+}
+.tableofcontents_hd {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 16px; FLOAT: left; BACKGROUND-IMAGE: url(http://i.investopedia.com/inv/professionals/tbchd.gif); MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 0px; WIDTH: 173px; PADDING-TOP: 10px; BACKGROUND-REPEAT: repeat-x
+}
+.studytoolbox {
+	BORDER-RIGHT: #cfcfcf 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #cfcfcf 1px solid; PADDING-LEFT: 0px; FONT-SIZE: 12px; FLOAT: left; PADDING-BOTTOM: 10px; OVERFLOW: hidden; BORDER-LEFT: #cfcfcf 1px solid; WIDTH: 154px; COLOR: #2f2f2f; LINE-HEIGHT: 18px; PADDING-TOP: 1px; BORDER-BOTTOM: #cfcfcf 1px solid
+}
+.studytoolbox A {
+	COLOR: #114376; TEXT-DECORATION: none
+}
+.exam_tutorial_ft {
+	PADDING-RIGHT: 0px; BORDER-TOP: #e6e6e6 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; OVERFLOW: hidden; WIDTH: 455px; PADDING-TOP: 10px; BORDER-BOTTOM: #e6e6e6 1px solid
+}
+.exam_tutorial_links A {
+	FONT-WEIGHT: bold; COLOR: #0000ff; TEXT-DECORATION: none
+}
+.sub_contents {
+	MARGIN-LEFT: 10px
+}
+.subcontenttitle A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000; TEXT-DECORATION: none
+}
+.SectionTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000; TEXT-DECORATION: none
+}
+.sub_contents A {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px
+}
+.pageBoldLink A {
+	FONT-WEIGHT: bold; COLOR: #000; TEXT-DECORATION: none
+}
+.pageBoldLink A:visited {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.tips_user {
+	PADDING-LEFT: 230px; FONT-SIZE: 11px; FLOAT: left
+}
+.rdr_recm {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-SIZE: 24px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 7px
+}
+.studytoolbox_content {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; WIDTH: 160px; PADDING-TOP: 5px
+}
+.online_quiz {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 4px; FONT-WEIGHT: normal; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 2px
+}
+.exm_tut_hd {
+	PADDING-BOTTOM: 3px; OVERFLOW: hidden; WIDTH: 555px; BORDER-BOTTOM: #e6e6e6 1px solid
+}
+.exm_tut_hdr {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; FLOAT: left; MARGIN-RIGHT: 35px
+}
+.quizr_img {
+	FLOAT: left; WIDTH: 22px; MARGIN-RIGHT: 5px
+}
+.quizr_txt {
+	FONT-WEIGHT: bold; FLOAT: left
+}
+.tips_img {
+	FLOAT: left; MARGIN: 0px 5px 0px 10px; WIDTH: 25px
+}
+.exm_tut_ftr {
+	PADDING-BOTTOM: 15px; OVERFLOW: hidden; WIDTH: 210px
+}
+.tut_ftr_txt {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; FLOAT: left; MARGIN-LEFT: 10px
+}
+.tut_ftr_text {
+	CLEAR: both; FONT-SIZE: 12px
+}
+.exam_MasterTOC {
+	FLOAT: left; MARGIN: 0px 25px 0px 7px; OVERFLOW: hidden; WIDTH: 775px
+}
+.exam_MasterTOC A {
+	COLOR: #114376; TEXT-DECORATION: none
+}
+.exam_MasterTOC HR {
+	COLOR: #114376; HEIGHT: 3px
+}

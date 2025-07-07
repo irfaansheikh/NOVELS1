@@ -1,0 +1,48 @@
+UL.DHTMLMENU {
+	BORDER-RIGHT: #becdde 2px outset; PADDING-RIGHT: 0px; BORDER-TOP: #becdde 2px outset; PADDING-LEFT: 0px; FILTER: alpha(opacity=90); PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #becdde 2px outset; PADDING-TOP: 0px; BORDER-BOTTOM: #becdde 2px outset; LIST-STYLE-TYPE: none; BACKGROUND-COLOR: #becdde; opacity: 0.9
+}
+UL.DHTMLMENU  {
+	FONT-SIZE: 11px! important
+}
+UL.DHTMLMENU LI {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; BACKGROUND-IMAGE: none; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+UL.DHTMLMENU  {
+	CURSOR: pointer; COLOR: black! important; WHITE-SPACE: nowrap; BACKGROUND-COLOR: transparent
+}
+LI.ITEMHOVER {
+	BACKGROUND-IMAGE: none; COLOR: black! important; BACKGROUND-COLOR: #efefef
+}
+A.ITEMHOVER {
+	BACKGROUND-IMAGE: none; COLOR: black! important; BACKGROUND-COLOR: #efefef
+}
+LABEL.ITEMHOVER {
+	BACKGROUND-IMAGE: none; COLOR: black! important; BACKGROUND-COLOR: #efefef
+}
+UL.DHTMLMENU IMG {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 5px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; VERTICAL-ALIGN: middle; BORDER-RIGHT-WIDTH: 0px
+}
+UL.DHTMLMENU INPUT {
+	PADDING-RIGHT: 5px; VERTICAL-ALIGN: middle
+}
+UL.DHTMLMENU A {
+	TEXT-DECORATION: none
+}
+TABLE.showborders {
+	BORDER-RIGHT: #cccccc 1px dashed; BORDER-TOP: #cccccc 1px dashed; BORDER-LEFT: #cccccc 1px dashed; BORDER-BOTTOM: #cccccc 1px dashed
+}
+TABLE.showborders TD {
+	BORDER-RIGHT: #cccccc 1px dashed; BORDER-TOP: #cccccc 1px dashed; BORDER-LEFT: #cccccc 1px dashed; BORDER-BOTTOM: #cccccc 1px dashed
+}
+DIV.editable {
+	BORDER-RIGHT: #999999 1px dashed; BORDER-TOP: #999999 1px dashed; BORDER-LEFT: #999999 1px dashed; CURSOR: auto; BORDER-BOTTOM: #999999 1px dashed
+}
+IFRAME.editable {
+	BORDER-RIGHT: #999999 1px dashed; BORDER-TOP: #999999 1px dashed; BORDER-LEFT: #999999 1px dashed; WIDTH: 100%; CURSOR: auto; MARGIN-RIGHT: 5px; BORDER-BOTTOM: #999999 1px dashed; HEIGHT: 17px
+}
+BODY.wysiwyg {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BACKGROUND-IMAGE: none; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: transparent; BORDER-RIGHT-WIDTH: 0px
+}
+UNKNOWN {
+	MARGIN-TOP: 0px
+}

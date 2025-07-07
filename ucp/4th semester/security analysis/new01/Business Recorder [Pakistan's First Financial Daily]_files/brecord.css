@@ -1,0 +1,201 @@
+BODY {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 9pt; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: medium none; COLOR: #000000; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; FONT-STYLE: normal; FONT-FAMILY: Arial; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: left
+}
+A {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.tipover {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+CENTER {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; TEXT-ALIGN: center
+}
+.byline {
+	FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px
+}
+.indexLinks {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: 500; FONT-SIZE: 11px; LEFT: 1px; FLOAT: none; PADDING-BOTTOM: 1px; MARGIN: 2px 1px; VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1px solid; WIDTH: auto; CLIP: rect(auto auto auto auto); COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; POSITION: relative; TOP: 1px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.register1 {
+	FONT-SIZE: 12px; VERTICAL-ALIGN: top; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: right; TEXT-DECORATION: none
+}
+.register3 {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: top; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.register2 {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.pagestotal {
+	FONT-WEIGHT: 500; FONT-SIZE: 11px; COLOR: #000000; TEXT-ALIGN: left
+}
+.pages {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-ALIGN: center
+}
+.pages1 {
+	FONT-SIZE: 11px; TEXT-ALIGN: left
+}
+.page {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: white; TEXT-ALIGN: center
+}
+.story {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Arial; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.banner {
+	TEXT-ALIGN: center
+}
+.tip1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: maroon; TEXT-INDENT: 2px; TEXT-ALIGN: left
+}
+.sm2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: Arial; BACKGROUND-COLOR: #00ffff; TEXT-ALIGN: center
+}
+.space {
+	FONT-SIZE: 2px
+}
+.indexHeading {
+	FONT-WEIGHT: bolder; FONT-SIZE: 13px; COLOR: white; FONT-FAMILY: Arial; LETTER-SPACING: 0px; BACKGROUND-COLOR: #4e856c
+}
+.features {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: 600; FONT-SIZE: 10px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.storyBorder {
+	BORDER-RIGHT: 1px; PADDING-RIGHT: 4px; BORDER-TOP: 1px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; BORDER-LEFT: 1px; PADDING-TOP: 4px; BORDER-BOTTOM: 1px
+}
+.para {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 12px; PADDING-BOTTOM: 8px; PADDING-TOP: 8px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: justify
+}
+.checkbox {
+	BORDER-RIGHT: #666666 1px groove; PADDING-RIGHT: 1px; BORDER-TOP: #666666 1px groove; PADDING-LEFT: 1px; FONT-SIZE: 9px; PADDING-BOTTOM: 1px; BORDER-LEFT: #666666 1px groove; PADDING-TOP: 1px; BORDER-BOTTOM: #666666 1px groove; FONT-FAMILY: Verdana
+}
+INPUT {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 11px; MARGIN-LEFT: 4px; BORDER-LEFT: #000000 1px solid; WIDTH: 250px; COLOR: #000000; TEXT-INDENT: 3px; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+SELECT {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; Z-INDEX: -200; MARGIN-LEFT: 4px; BORDER-LEFT: #000000 1px solid; WIDTH: 250px; BORDER-BOTTOM: #000000 1px solid
+}
+TEXTAREA {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; MARGIN-LEFT: 4px; BORDER-LEFT: #000000 1px solid; WIDTH: 250px; COLOR: #000000; TEXT-INDENT: 3pt; BORDER-BOTTOM: #000000 1px solid
+}
+OPTION {
+	COLOR: #000000
+}
+P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.fullStory {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; MARGIN: 4px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.fStoryBorder {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #000000 1px solid
+}
+PRE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.storyBanner {
+	MARGIN-BOTTOM: 7px; MARGIN-RIGHT: 5px; TEXT-ALIGN: right
+}
+.sindexHeading {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; PADDING-BOTTOM: 6px; FONT-FAMILY: "Arial Black"; LETTER-SPACING: 1px
+}
+.fullStoryHeadline {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 18px; PADDING-BOTTOM: 0px; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.subIndex {
+	FONT-WEIGHT: 900; FONT-SIZE: 11px; COLOR: maroon; FONT-FAMILY: Arial; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.subIndexCurr {
+	FONT-WEIGHT: 900; FONT-SIZE: 11px; COLOR: #339933; FONT-FAMILY: Arial; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.talkBack {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; FONT-WEIGHT: 800; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; VERTICAL-ALIGN: middle; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+.inputRadio {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; MARGIN-LEFT: 0px; BORDER-LEFT: medium none; WIDTH: 11px; MARGIN-RIGHT: 0px; BORDER-BOTTOM: medium none; HEIGHT: 11px
+}
+.input1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; VERTICAL-ALIGN: top; COLOR: #000000; HEIGHT: 16px; BACKGROUND-COLOR: #ffffff
+}
+.space1 {
+	FONT-SIZE: 3px
+}
+.menuLink {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; FONT-SIZE: 15px; PADDING-BOTTOM: 1px; COLOR: #cccccc; PADDING-TOP: 1px; BACKGROUND-COLOR: #000000; TEXT-DECORATION: none
+}
+.online {
+	FONT-SIZE: 10px; COLOR: #ff0000
+}
+.input2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; VERTICAL-ALIGN: top; COLOR: #000000; HEIGHT: 16px; BACKGROUND-COLOR: #dddddd
+}
+.stocksMenu {
+	FONT-WEIGHT: 600; FONT-SIZE: 11px; CURSOR: pointer; COLOR: #ccffff; BACKGROUND-COLOR: #000000; TEXT-ALIGN: center
+}
+.stocksData {
+	DISPLAY: none; FONT-SIZE: 11px; BACKGROUND-COLOR: #ffffe2; TEXT-DECORATION: none
+}
+#kse {
+	COLOR: #0000ff
+}
+#lse {
+	COLOR: #00ff00
+}
+#ise {
+	COLOR: #ff0000
+}
+.charts {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 130px; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+.chartsHead {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-WEIGHT: 600; FONT-SIZE: 11px; BORDER-LEFT: #ffffff 1px solid; CURSOR: pointer; COLOR: #ffff99; BORDER-BOTTOM: #ffffff 1px solid; BACKGROUND-COLOR: #000000; TEXT-ALIGN: left
+}
+CAPTION {
+	FONT-WEIGHT: 700; FONT-SIZE: 16px; PADDING-TOP: 10px
+}
+UL {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 10px; MARGIN-RIGHT: 20px
+}
+LI {
+	DISPLAY: list-item; FONT-SIZE: 11px; MARGIN-BOTTOM: 5px; TEXT-ALIGN: justify
+}
+.answer {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; DISPLAY: none; FONT-SIZE: 11px; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; TEXT-ALIGN: justify
+}
+.tip {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 3px; Z-INDEX: 100; LEFT: 0px; VISIBILITY: hidden; PADDING-BOTTOM: 1px; FONT: 11px Arial; BORDER-LEFT: #000000 1px solid; WIDTH: 350px; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #000000 1px solid; POSITION: absolute; TOP: 0px; BACKGROUND-COLOR: #f4f4f4; TEXT-ALIGN: justify; layer-background-color: #000000
+}
+.path {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-COLOR: white; TEXT-ALIGN: center
+}
+.patd {
+	FONT-SIZE: 11px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.pacap {
+	FONT-SIZE: 11px; COLOR: white; BACKGROUND-COLOR: #008834; TEXT-ALIGN: center
+}
+.search {
+	FONT-SIZE: 11px; BACKGROUND-COLOR: #ffffff
+}
+.searched {
+	TEXT-TRANSFORM: uppercase; COLOR: #3300ff
+}
+.header1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; VERTICAL-ALIGN: middle; COLOR: yellow; FONT-FAMILY: Arial; BACKGROUND-COLOR: #000000; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.hided {
+	DISPLAY: none
+}
+.indexLinks1 {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: 500; FONT-SIZE: 11px; LEFT: 1px; FLOAT: none; PADDING-BOTTOM: 1px; MARGIN: 2px 1px; VERTICAL-ALIGN: middle; BORDER-LEFT: #000000 1px solid; WIDTH: 100px; CLIP: rect(auto auto auto auto); COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; POSITION: relative; TOP: 1px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center
+}
+.headline {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Arial; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.headline2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+.liveButton {
+	BORDER-RIGHT: #000000 2px outset; BORDER-TOP: #ffffff 1px outset; FONT-WEIGHT: 600; FONT-SIZE: 11px; BORDER-LEFT: #ffffff 2px outset; CURSOR: pointer; COLOR: #000000; BORDER-BOTTOM: #000000 2px outset; FONT-FAMILY: Arial; BACKGROUND-COLOR: #e6e6e6; TEXT-ALIGN: center
+}

@@ -1,0 +1,60 @@
+A {
+	FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+A.link_blue {
+	FONT-SIZE: 8pt; COLOR: #1b82cf; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.link_blue:hover {
+	FONT-SIZE: 8pt; COLOR: #1b82cf; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.link_dark_blue {
+	FONT-SIZE: 9pt; COLOR: #030268; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.link_dark_blue:hover {
+	FONT-SIZE: 9pt; COLOR: #030268; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.link_black {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.link_black:hover {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.link_header {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.link_header:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+A.link_white2 {
+	FONT-SIZE: 20pt; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: none
+}
+A.link_white2:hover {
+	FONT-SIZE: 20pt; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: underline
+}
+A.left_link {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #5b5b5b; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+A.left_link:hover {
+	FONT-SIZE: 8pt; COLOR: #5b5b5b; FONT-FAMILY: Tahoma; TEXT-DECORATION: underline
+}
+.heading_txt {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial
+}
+.small_txt {
+	FONT-SIZE: 9pt; FONT-FAMILY: Tahoma
+}
+.ticker {
+	FONT-SIZE: 8pt; FONT-FAMILY: verdana
+}
+.textbox {
+	BORDER-RIGHT: #efefef 1px outset; BORDER-TOP: #efefef 1px outset; FONT-WEIGHT: normal; FONT-SIZE: 8pt; BORDER-LEFT: #efefef 1px outset; COLOR: #000000; BORDER-BOTTOM: #efefef 1px outset; FONT-STYLE: normal; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #ffffff; FONT-VARIANT: normal
+}
+.button {
+	BORDER-RIGHT: #f9f9f9 1px outset; BORDER-TOP: #f9f9f9 1px outset; FONT-WEIGHT: normal; FONT-SIZE: 8pt; BORDER-LEFT: #f9f9f9 1px outset; COLOR: #000000; BORDER-BOTTOM: #f9f9f9 1px outset; FONT-STYLE: normal; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #efefef; FONT-VARIANT: normal
+}
+.heading_txtCopy {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial
+}
+.li {
+	LIST-STYLE: none url(li.gif) outside; FONT-SIZE: xx-small; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}

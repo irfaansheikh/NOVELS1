@@ -1,0 +1,117 @@
+.halfBoxFloatingLeft {
+	FLOAT: left; MARGIN: 0px 0px 1em; WIDTH: 49.5%; BORDER-COLLAPSE: collapse
+}
+.halfBoxFloatingLeft H2 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.halfBoxFloatingLeft H3 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.halfBoxFloatingLeft P {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0.5em
+}
+.halfBoxFloatingLeft DIV.boxhead {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px; PADDING-TOP: 0px
+}
+.halfBoxFloatingLeft DIV.boxcontent {
+	MARGIN: 2px; BACKGROUND-COLOR: #fff
+}
+.halfBoxFloatingRight {
+	FLOAT: right; MARGIN-BOTTOM: 1em; WIDTH: 49.5%; BORDER-COLLAPSE: collapse
+}
+.halfBoxFloatingRight H2 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.halfBoxFloatingRight H3 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.halfBoxFloatingRight P {
+	PADDING-RIGHT: 0.3em; PADDING-LEFT: 0.3em; PADDING-BOTTOM: 0.2em; MARGIN: 0px; PADDING-TOP: 0.2em
+}
+.halfBoxFloatingRight DIV.boxhead {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px; PADDING-TOP: 0px
+}
+.halfBoxFloatingRight DIV.boxcontent {
+	MARGIN: 2px; BACKGROUND-COLOR: #fff
+}
+.BoxFloatingLeft {
+	FLOAT: left; MARGIN: 0px 0px 1em; BORDER-COLLAPSE: collapse; BACKGROUND-COLOR: #dee2e5
+}
+.BoxFloatingLeft H2 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.BoxFloatingLeft H3 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.BoxFloatingLeft P {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0.5em
+}
+.BoxFloatingLeft DIV.boxhead {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px; PADDING-TOP: 0px
+}
+.BoxFloatingLeft DIV.boxcontent {
+	MARGIN: 2px; BACKGROUND-COLOR: #fff
+}
+.BoxFloatingRight {
+	BORDER-RIGHT: #dee2e5 1px solid; BORDER-TOP: #dee2e5 1px solid; FLOAT: right; MARGIN: 0px 0px 1em; BORDER-LEFT: #dee2e5 1px solid; BORDER-BOTTOM: #dee2e5 1px solid
+}
+.BoxFloatingRight H3 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: #dee2e5
+}
+.BoxFloatingRight P {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0.5em
+}
+.Box {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #fff 1px solid; MARGIN: 0px 0px 1em; BORDER-LEFT: #fff 1px solid; BORDER-BOTTOM: #fff 1px solid; BORDER-COLLAPSE: collapse
+}
+.Box H2 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.Box H3 {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.Box P {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0.5em
+}
+.Box DIV.boxhead {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px; PADDING-TOP: 0px
+}
+.Box DIV.boxcontent {
+	MARGIN: 2px; BACKGROUND-COLOR: #fff
+}
+DIV.boxcontent P IMG {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+DIV.boxcontent UL.linkList {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.2em; MARGIN: 0px; PADDING-TOP: 0.2em
+}
+DIV.boxcontent UL.linkList LI {
+	BORDER-TOP-WIDTH: 0px; PADDING-LEFT: 1.1em; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(/shared/img/ico_arrow_right.gif) no-repeat left 0.3em; BORDER-BOTTOM-WIDTH: 0px; LIST-STYLE-TYPE: none; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.boxcontent UL.dataList {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.boxcontent UL.dataList LI {
+	PADDING-RIGHT: 1em; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em; LIST-STYLE-TYPE: none; BORDER-COLLAPSE: collapse
+}
+DIV.boxcontent UL.dataList LI:unknown {
+	BORDER-TOP-WIDTH: 0px
+}
+.collapsable {
+	
+}
+.collapsableListTitle {
+	PADDING-RIGHT: 0.5em; DISPLAY: block; PADDING-LEFT: 0.5em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.1em
+}
+.collapsableBlock {
+	MARGIN: 1px 0px
+}
+UL.collapsableList {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL.collapsableList LI {
+	PADDING-RIGHT: 1em; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.4em; PADDING-TOP: 0.4em; LIST-STYLE-TYPE: none; BORDER-COLLAPSE: collapse
+}
+UL.collapsableList LI:unknown {
+	BORDER-BOTTOM: #ddd 1px solid
+}

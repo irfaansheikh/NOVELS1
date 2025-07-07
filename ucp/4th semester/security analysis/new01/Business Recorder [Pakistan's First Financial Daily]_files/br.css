@@ -1,0 +1,165 @@
+A {
+	FONT-SIZE: 10px; COLOR: #000066; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: none
+}
+BODY {
+	FONT-SIZE: 11px; MARGIN: 0px; FONT-FAMILY: verdana
+}
+TABLE {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana
+}
+TD {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana
+}
+TR {
+	FONT-SIZE: 11px; FONT-FAMILY: verdana
+}
+.wscroll {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; SCROLLBAR-FACE-COLOR: #ffffff; FONT-SIZE: 11px; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; BORDER-LEFT: 0px; WIDTH: 350px; SCROLLBAR-SHADOW-COLOR: #ffffff; SCROLLBAR-3DLIGHT-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #000000; SCROLLBAR-TRACK-COLOR: #ffffff; BORDER-BOTTOM: 0px; FONT-FAMILY: courier new; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: #ffffff
+}
+.image_caption {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: Arial
+}
+INPUT {
+	FONT-SIZE: 10px; FONT-FAMILY: verdana
+}
+SELECT {
+	FONT-SIZE: 10px; FONT-FAMILY: verdana
+}
+OPTION {
+	FONT-SIZE: 10px; FONT-FAMILY: verdana
+}
+.small_footer {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.latest_ticker_font {
+	FONT-SIZE: 11px; COLOR: #e1fca7; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.white_ticker_font {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.black_ticker_font {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.small_footer {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.menu_option {
+	FONT-SIZE: 11px; COLOR: #0f019e; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.anchor {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.FontText {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Arial
+}
+.TextBox {
+	BORDER-RIGHT: #999999 1px groove; BORDER-TOP: #999999 1px groove; FONT-SIZE: 10px; BORDER-LEFT: #999999 1px groove; WIDTH: auto; COLOR: black; BORDER-BOTTOM: #999999 1px groove; FONT-FAMILY: arial; BACKGROUND-COLOR: white
+}
+.SelectBox {
+	BORDER-RIGHT: #999999 1px groove; BORDER-TOP: #999999 1px groove; FONT-SIZE: 10px; BORDER-LEFT: #999999 1px groove; WIDTH: 100px; COLOR: black; BORDER-BOTTOM: #999999 1px groove; FONT-FAMILY: verdana,arial; BACKGROUND-COLOR: white
+}
+.scrollbar {
+	MARGIN: 0px; BACKGROUND-COLOR: #ffffff
+}
+.Boxlook1 {
+	BORDER-RIGHT: #000099 1px; BORDER-TOP: #000099 1px; FONT-SIZE: 10px; BORDER-LEFT: #000099 1px; COLOR: #000099; BORDER-BOTTOM: #000099 1px; FONT-FAMILY: Verdana; BACKGROUND-COLOR: white
+}
+FORM {
+	LIST-STYLE-POSITION: inside; FONT-SIZE: 10px; FONT-FAMILY: Verdana; LIST-STYLE-TYPE: square
+}
+SELECT {
+	BORDER-RIGHT: #999999 thin groove; BORDER-TOP: #999999 thin groove; Z-INDEX: 1; BACKGROUND-ATTACHMENT: scroll; BORDER-LEFT: #999999 thin groove; WIDTH: auto; CURSOR: crosshair; BORDER-BOTTOM: #999999 thin groove; HEIGHT: auto; BACKGROUND-COLOR: #fbfbfb
+}
+TEXTAREA {
+	BORDER-RIGHT: #666666 1px groove; BORDER-TOP: #666666 1px groove; FONT-SIZE: 9px; BORDER-LEFT: #666666 1px groove; WIDTH: auto; BORDER-BOTTOM: #666666 1px groove; FONT-FAMILY: Verdana; HEIGHT: auto
+}
+.button_green {
+	BORDER-RIGHT: #082216 1px solid; BORDER-TOP: #082216 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #082216 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #082216 1px solid; FONT-FAMILY: Arial; HEIGHT: 18px; BACKGROUND-COLOR: #4e856c; TEXT-ALIGN: center
+}
+.button_maroon {
+	BORDER-RIGHT: #d1a19f 1px solid; BORDER-TOP: #d1a19f 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #d1a19f 1px solid; COLOR: #d1a19f; BORDER-BOTTOM: #d1a19f 1px solid; FONT-FAMILY: Arial; HEIGHT: 18px; BACKGROUND-COLOR: #580203; TEXT-ALIGN: center
+}
+.button {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #000000 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Arial; HEIGHT: 18px; BACKGROUND-COLOR: #0b335d; TEXT-ALIGN: center
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.checkbox0 {
+	BORDER-RIGHT: #ffffff 0px groove; PADDING-RIGHT: 0px; BORDER-TOP: #ffffff 0px groove; PADDING-LEFT: 0px; FONT-SIZE: 9px; PADDING-BOTTOM: 0px; BORDER-LEFT: #ffffff 0px groove; PADDING-TOP: 0px; BORDER-BOTTOM: #ffffff 0px groove; FONT-FAMILY: Verdana
+}
+.whitelinks {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial; FONT-VARIANT: normal; TEXT-DECORATION: none
+}
+.HeadingText {
+	FONT-SIZE: 15px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.HeadingText_maroon {
+	FONT-SIZE: 12px; COLOR: maroon; FONT-FAMILY: Arial
+}
+.NormalText_maroon {
+	FONT-SIZE: 11px; COLOR: maroon; FONT-FAMILY: Arial
+}
+.HeadingText_Green {
+	FONT-SIZE: 12px; COLOR: green; FONT-FAMILY: Arial
+}
+.HeadingText_16 {
+	FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.HeadingText_blue {
+	FONT-WEIGHT: 600; FONT-SIZE: 13px; COLOR: #000066; FONT-FAMILY: Arial
+}
+.EnterText {
+	FONT-SIZE: 16px; COLOR: #b70c04; FONT-FAMILY: Arial
+}
+.TitleText {
+	FONT-WEIGHT: 100; FONT-SIZE: 20px; COLOR: #53739a; FONT-FAMILY: Arial
+}
+.NormalText {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.RightTables {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.RightTablesHeading {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial
+}
+.small {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial
+}
+.NormalText_Blue {
+	FONT-SIZE: 11px; COLOR: #290ba4; FONT-FAMILY: Arial
+}
+.NormalText_DarkMaroon {
+	FONT-WEIGHT: 500; FONT-SIZE: 11px; COLOR: #8e0303; FONT-FAMILY: Arial
+}
+.NormalText_White {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.NormalText_Black {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #001111; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.White_12 {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.heading_White {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial
+}
+.heading_White_verdana {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Verdana
+}
+.Button_new {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 1px; BACKGROUND-POSITION: center center; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; BORDER-LEFT: #000000 1px solid; COLOR: #ffffff; PADDING-TOP: 0px; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Arial; WHITE-SPACE: normal; HEIGHT: 18px; BACKGROUND-COLOR: #0b335d; TEXT-ALIGN: center
+}
+.banner {
+	TEXT-ALIGN: center
+}
+.StoryTextArea {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: medium none; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; FONT-FAMILY: Courier; TEXT-DECORATION: none
+}
+.browsebox {
+	BORDER-RIGHT: #000000 1px groove; BORDER-TOP: #cccccc 1px groove; FONT-SIZE: 11px; BORDER-LEFT: #cccccc 1px groove; COLOR: black; BORDER-BOTTOM: #000000 1px groove; FONT-FAMILY: verdana; background-color-textbox: white; background-color-Button: #000000
+}

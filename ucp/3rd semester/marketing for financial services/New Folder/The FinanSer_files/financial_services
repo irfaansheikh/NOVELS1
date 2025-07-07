@@ -1,0 +1,19 @@
+(function(){ var ts={"accountability":4,"applications":1,"ATM":1,"bank":3,"banking":8,"banks":10,"basel":3,"basel2":3,"blog":3,"chris":3,"compliance":14,"data_protection":5,"finacial":3,"financial":16,"government":2,"mifid":10,"mobile":2,"network":2,"news":3,"payments":6,"podcast":3,"regulation":4,"regulations":6,"scandal":2,"security":10,"services":21,"skinner":7,"stabaility":2}
+var ta=0,tz=21
+function s(a,b,i,x){if(a>b){var m=(a-b)/Math.log(x),v=a-Math.floor(Math.log(i)*m)}else{var m=(b-a)/Math.log(x),v=Math.floor(Math.log(i)*m+a)};return v}
+document.write('<style type="text/css">.delicious-tags{font-family:arial,sans-serif}.delicious-tags a img{border:0;display:inline;margin:0 0 0 3px;padding:0}.delicious-tags a{text-decoration:none}.delicious-tags a:hover{text-decoration:underline}.delicious-tags ul{list-style-type:none;margin:0;padding:0; text-align:justify}.delicious-cloud li{display:inline;text-align:justify;background-image:none !important;padding:0;margin:0}.delicious-cloud .delicious-tag-count{padding-left:0.2em;font-size:14px}.delicious-cloud li:before{content:"" !important}</style>')
+var ca=[0,153,153],cz=[0,153,0],c=[]
+document.write('<div class="delicious-tags" id="delicious-tags-Financial_Services"><h2 class="delicious-banner sidebar-title"><a href="http://del.icio.us"><img src="http://images.del.icio.us/static/img/delicious.med.gif" width="16" height="16" alt="del.icio.us"/></a> <a href="http://del.icio.us/Financial_Services">FinanSer Tags</a></h2><ul class="delicious-cloud">')
+for(var t in ts){
+ for (var i=0;i<3;i++) c[i]=s(ca[i],cz[i],ts[t]-ta,tz)
+var fs = s(14,18,ts[t]-ta,tz)
+document.write('<li style="font-size:'+fs+'px;line-height:1;"><a style="color:rgb('+c[0]+','+c[1]+','+c[2]+')" href="http://del.icio.us/Financial_Services/'+encodeURIComponent(t).replace('%2F','/')+'">'+t+'</a> </li>');
+}
+
+document.write('</ul><br/>');
+
+document.write('<span class="delicious-network-add"><a href="http://del.icio.us/network?add=financial_services"><img src="http://images.del.icio.us/static/img/add.small.gif" alt="del.icio.us" border="0" /></a> ')
+document.write('<a href="http://del.icio.us/network?add=financial_services">Add me to your del.icio.us network</a></span><br/>')
+
+document.write('</div>') })()
+

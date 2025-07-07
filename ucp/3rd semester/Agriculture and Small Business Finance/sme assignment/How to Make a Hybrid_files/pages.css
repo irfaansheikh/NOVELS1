@@ -1,0 +1,435 @@
+#product #content {
+	LINE-HEIGHT: 18px
+}
+.content {
+	MARGIN-TOP: 30px
+}
+.news {
+	OVERFLOW: hidden
+}
+H1#welcomehead {
+	MARGIN-BOTTOM: 15px
+}
+P#welcome {
+	LINE-HEIGHT: 1.5em
+}
+#ctl00_contentBody_bayerPromotions_datalist {
+	BACKGROUND: #e5e5e5; MARGIN-BOTTOM: 25px
+}
+#ctl00_contentBody_bayerPromotions_datalist TBODY TD {
+	BORDER-RIGHT: #9f9f9f 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #9f9f9f 1px solid; PADDING-LEFT: 12px; BACKGROUND: #fff; PADDING-BOTTOM: 12px; VERTICAL-ALIGN: middle; BORDER-LEFT: #9f9f9f 1px solid; WIDTH: 229px; PADDING-TOP: 12px; BORDER-BOTTOM: #9f9f9f 1px solid
+}
+#hpfeatures TD {
+	BORDER-RIGHT: #9f9f9f 1px solid; PADDING-RIGHT: 12px; BORDER-TOP: #9f9f9f 1px solid; PADDING-LEFT: 12px; BACKGROUND: #fff; PADDING-BOTTOM: 12px; VERTICAL-ALIGN: middle; BORDER-LEFT: #9f9f9f 1px solid; WIDTH: 217px; PADDING-TOP: 12px; BORDER-BOTTOM: #9f9f9f 1px solid
+}
+.hpfeature {
+	LIST-STYLE-TYPE: none
+}
+.hpfeature LI {
+	MIN-HEIGHT: 74px; FLOAT: left; LIST-STYLE-TYPE: none
+}
+.hpfeature .feature_img {
+	FLOAT: left
+}
+.hpfeature .feature_txt {
+	FLOAT: right; MARGIN-LEFT: 10px; WIDTH: 105px; MARGIN-RIGHT: 10px
+}
+.feature_txt H3 {
+	FONT-SIZE: small; COLOR: #339933
+}
+.hpfeature P {
+	MARGIN-BOTTOM: 0px
+}
+H1#latestnews {
+	MARGIN-BOTTOM: 20px
+}
+.news_left {
+	FLOAT: left; WIDTH: 236px
+}
+#news_right {
+	FLOAT: left; MARGIN-LEFT: 35px; WIDTH: 240px
+}
+.news_item {
+	MARGIN-BOTTOM: 22px
+}
+.news_item DD.news_date {
+	FONT-SIZE: 80%
+}
+.news_item DT {
+	FONT-WEIGHT: bold; COLOR: #339933
+}
+.news_item DD {
+	FONT-SIZE: 90%
+}
+.news_item DD {
+	LINE-HEIGHT: 155%
+}
+.news_item A {
+	COLOR: #0398ff; TEXT-DECORATION: underline
+}
+.news_item A.news_title {
+	FONT-WEIGHT: bold; COLOR: #339933; TEXT-DECORATION: none
+}
+.news_item A.news_summary P {
+	FONT-SIZE: 90%; MARGIN-BOTTOM: 0px; COLOR: #666666; TEXT-DECORATION: none
+}
+.news_item A.news_title:hover {
+	TEXT-DECORATION: underline
+}
+.news_item A.news_summary P:hover {
+	TEXT-DECORATION: underline
+}
+#brands {
+	MARGIN-TOP: 40px; LINE-HEIGHT: 1.5em
+}
+#homerside {
+	MARGIN-LEFT: 20px; COLOR: #333
+}
+#homerside INPUT {
+	WIDTH: 170px
+}
+#homerside SELECT {
+	WIDTH: 170px
+}
+#homerside INPUT.button-go {
+	WIDTH: 45px; MARGIN-RIGHT: 15px
+}
+#homerside DL {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 30px; FONT-SIZE: 90%; BACKGROUND: url(images/rside_div.gif) repeat-x left bottom; PADDING-BOTTOM: 7px; WIDTH: 170px; PADDING-TOP: 7px
+}
+#homerside P {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 30px; FONT-SIZE: 90%; BACKGROUND: url(images/rside_div.gif) repeat-x left bottom; PADDING-BOTTOM: 7px; WIDTH: 170px; PADDING-TOP: 7px
+}
+#homerside DL.last {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#homerside #mylogin {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#homerside P {
+	BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px
+}
+#homerside DT {
+	FONT-WEIGHT: bold; MARGIN-BOTTOM: 11px
+}
+#homerside A {
+	COLOR: #333
+}
+.career-box {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 90%; PADDING-BOTTOM: 25px; PADDING-TOP: 20px
+}
+.career-box IMG {
+	DISPLAY: block; MARGIN: 15px auto 10px
+}
+.career-box P {
+	DISPLAY: block; MARGIN-LEFT: auto; WIDTH: 115px; MARGIN-RIGHT: auto; TEXT-ALIGN: center
+}
+H1#productshead {
+	MARGIN-BOTTOM: 15px
+}
+#products #content {
+	PADDING-RIGHT: 14px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 539px; PADDING-TOP: 0px
+}
+#products #content H1 {
+	MARGIN-LEFT: 14px
+}
+#productlist {
+	BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none
+}
+#productlist TH {
+	FONT-SIZE: 90%; VERTICAL-ALIGN: bottom; LETTER-SPACING: 0.08em; TEXT-ALIGN: center
+}
+#productlist TD {
+	BORDER-RIGHT: #85c285 1px solid; BORDER-TOP: #85c285 1px solid; FONT-SIZE: 85%; VERTICAL-ALIGN: top; BORDER-LEFT: #85c285 1px solid; BORDER-BOTTOM: #85c285 1px solid
+}
+#productlist IMG {
+	BORDER-BOTTOM: #85c285 1px solid
+}
+#productlist UL {
+	MARGIN: 8px 11px 22px; LIST-STYLE-TYPE: none
+}
+#productlist LI {
+	MARGIN-BOTTOM: 5px; LIST-STYLE-TYPE: none
+}
+#productlist H2 {
+	PADDING-RIGHT: 0px; BORDER-TOP: #85c285 1px solid; PADDING-LEFT: 0px; FONT-SIZE: 110%; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #85c285 1px solid; TEXT-ALIGN: center
+}
+#productlist A {
+	COLOR: #666
+}
+.producttype {
+	FONT-SIZE: 95%; MARGIN-BOTTOM: 2px
+}
+.producttypelist {
+	BORDER-RIGHT: #000 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #000 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; MARGIN: 2em; BORDER-LEFT: #000 1px solid; WIDTH: 10em; PADDING-TOP: 5px; BORDER-BOTTOM: #000 1px solid
+}
+.producttype TABLE {
+	WIDTH: 100%
+}
+.producttype TH {
+	BORDER-RIGHT: #85c285 1px solid; BORDER-TOP: #85c285 1px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: #85c285 1px solid; WIDTH: 135px; BORDER-BOTTOM: #85c285 1px solid; TEXT-ALIGN: center
+}
+.producttype TD {
+	PADDING-RIGHT: 13px; PADDING-LEFT: 13px; BACKGROUND: #e5e5e5; PADDING-BOTTOM: 13px; VERTICAL-ALIGN: top; BORDER-LEFT: #fff 2px solid; WIDTH: 290px; PADDING-TOP: 13px
+}
+.producttype P {
+	MARGIN-BOTTOM: 0px
+}
+.productlink {
+	MARGIN-TOP: 8px
+}
+.productlink A {
+	COLOR: #339933; PADDING-TOP: 10px
+}
+#division #content {
+	PADDING-RIGHT: 100px; PADDING-LEFT: 12px; PADDING-BOTTOM: 0px; WIDTH: 441px; PADDING-TOP: 0px
+}
+H1#divisionshead {
+	MARGIN-BOTTOM: 30px
+}
+#division H2 {
+	FONT-SIZE: 130%; MARGIN-BOTTOM: 15px
+}
+#division H3 {
+	MARGIN-TOP: 22px; FONT-SIZE: 140%
+}
+.firstproduct {
+	MARGIN-TOP: 50px
+}
+.pdflist {
+	FONT-SIZE: 90%; MARGIN-BOTTOM: 48px; VERTICAL-ALIGN: bottom; LIST-STYLE-TYPE: none
+}
+.pdflist LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 27px; BACKGROUND: url(images/divisions/pdf_icon.gif) no-repeat 0px 0px; PADDING-BOTTOM: 5px; MARGIN-RIGHT: 25px; PADDING-TOP: 9px; LIST-STYLE-TYPE: none
+}
+.pdflist A {
+	COLOR: #339933
+}
+H1#onthegreenhead {
+	PADDING-RIGHT: 0px; BORDER-TOP: #fff 6px solid; PADDING-LEFT: 21px; FONT-WEIGHT: normal; FONT-SIZE: 150%; BACKGROUND: #339933; PADDING-BOTTOM: 12px; COLOR: #fff; PADDING-TOP: 12px
+}
+#onthegreen {
+	BORDER-RIGHT: #339933 1px solid; BORDER-TOP: #339933 1px solid; BACKGROUND: #fff; BORDER-LEFT: #339933 1px solid; BORDER-BOTTOM: #339933 1px solid
+}
+#onthegreen P {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 26px; PADDING-TOP: 13px
+}
+#onthegreen UL {
+	PADDING-BOTTOM: 9px; MARGIN-LEFT: 45px; LIST-STYLE-TYPE: none
+}
+#onthegreen UL LI {
+	MARGIN-BOTTOM: 14px; LIST-STYLE-TYPE: none
+}
+#chipco {
+	BORDER-TOP: #339933 1px solid
+}
+#division .producttype TH {
+	BORDER-RIGHT: #85c285 1px solid; BORDER-TOP: #85c285 1px solid; VERTICAL-ALIGN: middle; BORDER-LEFT: #85c285 1px solid; WIDTH: 185px; BORDER-BOTTOM: #85c285 1px solid; TEXT-ALIGN: center
+}
+#division .producttype TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #e5e5e5; PADDING-BOTTOM: 12px; BORDER-LEFT: #fff 2px solid; WIDTH: 250px; PADDING-TOP: 12px
+}
+#division .producttype UL {
+	FONT-WEIGHT: bold; FONT-SIZE: 90%; MARGIN-LEFT: 12px
+}
+#division .producttype UL LI {
+	
+}
+#division .producttype UL UL {
+	FONT-WEIGHT: normal; FONT-SIZE: 100%; MARGIN-LEFT: 35px
+}
+#division .productlink {
+	PADDING-LEFT: 13px
+}
+#findlocalrep {
+	FONT-SIZE: 90%; MARGIN: 0px 28px 46px 51px; COLOR: #333
+}
+#findlocalrep H2 {
+	FONT-SIZE: 100%; MARGIN-BOTTOM: 10px
+}
+.pest-list {
+	LIST-STYLE-TYPE: none
+}
+.pest-bullet-list {
+	PADDING-LEFT: 40px
+}
+.pestlist {
+	BORDER-RIGHT: #339933 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #339933 1px solid; PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 85%; PADDING-BOTTOM: 10px; BORDER-LEFT: #339933 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #339933 1px solid; LIST-STYLE-TYPE: none
+}
+.pestlist LI {
+	MARGIN-BOTTOM: 3px; LIST-STYLE-TYPE: none
+}
+.pestlist A {
+	COLOR: #666
+}
+#diseases {
+	WIDTH: 185px
+}
+#insects {
+	WIDTH: 245px
+}
+#weeds {
+	
+}
+#util_nav {
+	CLEAR: both; MARGIN: 20px 0pt 8px; HEIGHT: 20px
+}
+#util_nav LI {
+	DISPLAY: inline; FLOAT: right
+}
+#util_nav LI A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #535353
+}
+#print {
+	BACKGROUND-POSITION: left center; PADDING-LEFT: 18px; BACKGROUND-IMAGE: url(images/assets/printer.jpg); BACKGROUND-REPEAT: no-repeat; LIST-STYLE-TYPE: none
+}
+#view_all {
+	PADDING-RIGHT: 10px; BACKGROUND-POSITION: left center; PADDING-LEFT: 8px; BACKGROUND-IMAGE: url(images/assets/black_arrow.jpg); BACKGROUND-REPEAT: no-repeat; LIST-STYLE-TYPE: none
+}
+.news {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 0px
+}
+.news TD {
+	PADDING-RIGHT: 12px; VERTICAL-ALIGN: top
+}
+#app_tips {
+	CLEAR: both
+}
+.bold_green {
+	FONT-WEIGHT: bold; COLOR: #339933
+}
+.product_intro {
+	PADDING-RIGHT: 50px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+P.product_intro {
+	PADDING-LEFT: 12px
+}
+UL.product_intro {
+	LIST-STYLE: none none outside
+}
+UL.product_intro LI {
+	LIST-STYLE: none none outside; PADDING-LEFT: 12px; BACKGROUND: url(images/assets/list_dot.gif) no-repeat left 6px
+}
+.product_info {
+	BORDER-RIGHT: #339933 1px solid; PADDING-RIGHT: 14px; BORDER-TOP: #339933 1px solid; PADDING-LEFT: 14px; BACKGROUND-IMAGE: url(images/assets/grey_gradient_head.jpg); MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 15px; BORDER-LEFT: #339933 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #339933 1px solid; BACKGROUND-REPEAT: repeat-x
+}
+.product_info P {
+	CLEAR: both
+}
+.product_info UL {
+	LIST-STYLE: none none outside
+}
+.product_info LI {
+	LIST-STYLE: none none outside
+}
+.product_info_head {
+	CLEAR: none; HEIGHT: 10px
+}
+.product_info_head_closed {
+	CLEAR: none; HEIGHT: 10px
+}
+.product_info_head_title {
+	BACKGROUND-POSITION: left 6px; PADDING-LEFT: 16px; FLOAT: left; BACKGROUND-IMAGE: url(images/assets/arrow_closed.gif); BACKGROUND-REPEAT: no-repeat; LIST-STYLE-TYPE: none
+}
+.product_info_head_close {
+	FLOAT: right; COLOR: #666666; LIST-STYLE-TYPE: none
+}
+.product_info_head_close A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #666666
+}
+#content .product_info H1 {
+	FONT-SIZE: 14px; MARGIN-BOTTOM: 20px; COLOR: #339933
+}
+.product_info H2 {
+	FONT-SIZE: 100%; MARGIN-BOTTOM: 4px; COLOR: #999999
+}
+TABLE#product_info_apprate {
+	MARGIN-BOTTOM: 20px; WIDTH: 100%; BORDER-COLLAPSE: collapse
+}
+#product_info_apprate TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #c9c9c9 1px solid
+}
+.list_lines {
+	PADDING-RIGHT: 0pt; PADDING-LEFT: 10px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #c9c9c9 1px solid
+}
+#trial_results H2 {
+	PADDING-LEFT: 18px; MARGIN-BOTTOM: 0px; COLOR: #339933
+}
+#trial_results H5 {
+	PADDING-LEFT: 18px; FONT-WEIGHT: normal; MARGIN-BOTTOM: 10px
+}
+#download_docs {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-TOP: 10px; BACKGROUND-COLOR: #e5e5e5
+}
+#download_docs A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #666666
+}
+#download_product {
+	LIST-STYLE: none none outside; PADDING-LEFT: 20px; FLOAT: left; BACKGROUND-IMAGE: url(images/assets/pdf.jpg); BACKGROUND-REPEAT: no-repeat
+}
+#download_reader {
+	LIST-STYLE: none none outside; PADDING-LEFT: 20px; FLOAT: right; BACKGROUND-IMAGE: url(images/assets/pdf.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.crop-list {
+	LIST-STYLE-TYPE: none
+}
+.crop-bullet-list {
+	PADDING-LEFT: 40px
+}
+#careers #content {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; WIDTH: 513px; PADDING-TOP: 0px
+}
+#careers_marquee {
+	PADDING-BOTTOM: 15px
+}
+#quickfacts {
+	PADDING-RIGHT: 11px; PADDING-LEFT: 11px; FLOAT: right; PADDING-BOTTOM: 19px; MARGIN: 0px 0px 10px 15px; WIDTH: 196px; PADDING-TOP: 11px; BACKGROUND-COLOR: #e5e5e5
+}
+#quickfacts UL {
+	MARGIN-TOP: 3px; LIST-STYLE-TYPE: none
+}
+#quickfacts LI {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px 7px; PADDING-LEFT: 10px; BACKGROUND-IMAGE: url(images/OurCompany/Careers/green_dot.jpg); PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #cecece 1px solid; BACKGROUND-REPEAT: no-repeat
+}
+#careers_top100 {
+	MARGIN: 0px 18px 18px
+}
+.career_box {
+	CLEAR: left; PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #e5e5e5; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+#content .career_box H1 {
+	FONT-SIZE: 14px; MARGIN-BOTTOM: 0px; COLOR: #666
+}
+#content #summer_emp H1 {
+	MARGIN-BOTTOM: 10px
+}
+#fulltime_emp TABLE {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN: 0px -10px; BORDER-COLLAPSE: collapse
+}
+#fulltime_emp TH {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; PADDING-BOTTOM: 5px; COLOR: #888; PADDING-TOP: 5px
+}
+#fulltime_emp TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#fulltime_emp TD {
+	BACKGROUND: url(images/OurCompany/Careers/black_line.gif) no-repeat right top; VERTICAL-ALIGN: middle
+}
+#fulltime_emp TD.position {
+	PADDING-LEFT: 10px
+}
+#fulltime_emp TH.position {
+	PADDING-LEFT: 10px
+}
+#fulltime_emp TD.apply {
+	BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-TOP: 5px
+}
+#fulltime_emp .oddrow TD {
+	BORDER-BOTTOM: #f4f4f4 5px solid; BACKGROUND-COLOR: #f4f4f4
+}
+#fulltime_emp .evenrow TD {
+	BORDER-BOTTOM: #e5e5e5 5px solid; BACKGROUND-COLOR: #e5e5e5
+}
+#summer_emp P {
+	MARGIN-BOTTOM: 0px
+}

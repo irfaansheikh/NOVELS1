@@ -1,0 +1,602 @@
+1University of Toronto Department of Computer Science 
+© 2004-5 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 
+How Theses Get Written: 
+Some Cool Tips 
+Dr Steve Easterbrook 
+Dept of Computer Science 
+University of Toronto 
+sme@cs.toronto.edu1University of Toronto Department of Computer Science 
+© 2004-5 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 
+How Theses Get Written: 
+Some Cool Tips 
+Dr Steve Easterbrook 
+Dept of Computer Science 
+University of Toronto 
+sme@cs.toronto.edu
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 2
+Outline 
+.Part 1: Writing your thesis 
+.(1) Context: What is a thesis (for)? 
+.(2) How Do I Get Started? 
+.(3) What Should My Thesis Contain? 
+.(4) How Do I Get Finished? 
+.(5) Summary 
+.Part 2: The Examiner’s View 
+.(1) “Uh oh, not another thesis to read…” 
+.(2) “What’s this one about?” 
+.(3) “Now there must be some corrections…” 
+.(4) “Let’s see, what can I ask the candidate?” 
+
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 3
+What is a thesis? 
+.An argument 
+.An exposition of an original piece of research 
+.The product of an apprenticeship 
+.Probably the largest (most self-indulgent) piece of 
+work you’ll ever do 
+.Something that could be published: 
+.E.g. at least one paper in a scholarly journal 
+.but you will probably never publish the whole thesis 
+“A thesis for the PhD must form a distinctive contribution to the knowledgeof the subject and afford evidence of originality shown by the discovery ofnew facts and/or by the exercise of independent critical power.” 
+(University of London regulations) 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 3
+What is a thesis? 
+.An argument 
+.An exposition of an original piece of research 
+.The product of an apprenticeship 
+.Probably the largest (most self-indulgent) piece of 
+work you’ll ever do 
+.Something that could be published: 
+.E.g. at least one paper in a scholarly journal 
+.but you will probably never publish the whole thesis 
+“A thesis for the PhD must form a distinctive contribution to the knowledgeof the subject and afford evidence of originality shown by the discovery ofnew facts and/or by the exercise of independent critical power.” 
+(University of London regulations) 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 4
+Examination Issues 
+.Your examiners need to appreciate your research: 
+.Choose your examiners well 
+.Target your thesis at them 
+.Keep abreast of their work 
+.Talk to them regularly 
+.Ask around about what is the norm for your university 
+.E.g. at U of T, it is normal to interact regularly with your thesis committee 
+.Your examiners need to be told about your research: 
+.If it’s not in your thesis, they won’t find out about it 
+.No matter how good your research is, you MUST write a good thesis 
+
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 5
+How do I get started? 
+.Do this today: 
+.Decide your title 
+.Write your title page 
+.Start a binder 
+.(Look at some theses in your area) 
+.Plan your argument… 
+.You can change things later 
+.But you can’t change it unless you have something to change! 
+Idoreallymeantoday! 
+Beforeyougotobedtonight. 
+Tomorrowistoolate! 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 5
+How do I get started? 
+.Do this today: 
+.Decide your title 
+.Write your title page 
+.Start a binder 
+.(Look at some theses in your area) 
+.Plan your argument… 
+.You can change things later 
+.But you can’t change it unless you have something to change! 
+Idoreallymeantoday! 
+Beforeyougotobedtonight. 
+Tomorrowistoolate! 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 6
+For example: 
+Look, I’ve just 
+done 1/126 
+of the task! 
+This changed 
+a few times… 
+I just copied 
+this format 
+from another 
+thesis 
+Okay, so this 
+wasn’t my 
+first choice… 
+
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 7
+Plan Your Argument 
+One sentence for each:ExampleIntroduction(area of study)
+“The success of a software development project depends oncapturing stakeholders’ needs in a specification ...
+The problem(that I tackle)
+“However, specifications often reflect the analyst’s own bias,
+rather than the inputs of the many different stakeholders…
+What the literature saysabout this problem“Current methods described in the literature fail to addressidentification and integration of multiple views.
+How I tackle this problem“By treating the specification activity as a dialogue betweenstakeholders, we can model each perspective separately.
+How I implement mysolution“We provide a set of tools for exploring disagreement betweenperspectives, and use these tools as the basis for a computer-
+supported negotiation process.
+The result“This approach is shown to significantly improve traceability andvalidity of specifications and overall stakeholder satisfaction.”
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 7
+Plan Your Argument 
+One sentence for each:ExampleIntroduction(area of study)
+“The success of a software development project depends oncapturing stakeholders’ needs in a specification ...
+The problem(that I tackle)
+“However, specifications often reflect the analyst’s own bias,
+rather than the inputs of the many different stakeholders…
+What the literature saysabout this problem“Current methods described in the literature fail to addressidentification and integration of multiple views.
+How I tackle this problem“By treating the specification activity as a dialogue betweenstakeholders, we can model each perspective separately.
+How I implement mysolution“We provide a set of tools for exploring disagreement betweenperspectives, and use these tools as the basis for a computer-
+supported negotiation process.
+The result“This approach is shown to significantly improve traceability andvalidity of specifications and overall stakeholder satisfaction.”
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 8
+Plan Your Argument 
+One sentence for each:ExampleIntroduction(area of study)
+“The success of a software development project depends oncapturing stakeholders’ needs in a specification ...
+The problem(that I tackle)
+“However, specifications often reflect the analyst’s own bias,
+rather than the inputs of the many different stakeholders…
+What the literature saysabout this problem“Current methods described in the literature fail to addressidentification and integration of multiple views.
+How I tackle this problem“By treating the specification activity as a dialogue betweenstakeholders, we can model each perspective separately.
+How I implement mysolution“We provide a set of tools for exploring disagreement betweenperspectives, and use these tools as the basis for a computer-
+supported negotiation process.
+The result“This approach is shown to significantly improve traceability andvalidity of specifications and overall stakeholder satisfaction.”
+
+University of Toronto Department of Computer Science 
+Another Example… 
+One sentence for each:ExampleIntroduction(area of study)
+“A Ph.D. is examined by submission of a thesis...
+The problem(that I tackle)
+“Many students fail to complete their theses within theregulation four years...
+What the literature says aboutthis problem“Empirical studies indicate that late submission is highlycorrelated with delaying the start of the write-up...
+How I tackle this problem“A model of PhD study that encourages an early start tothe thesis writing task is clearly desirable...
+How I implement my solution“Such a model encourages the student to plan a structurefor the thesis and collect material for each chapterthroughout their study...
+The result“Application of this model dramatically improvessubmission rates.”
+University of Toronto Department of Computer Science 
+Another Example… 
+One sentence for each:ExampleIntroduction(area of study)
+“A Ph.D. is examined by submission of a thesis...
+The problem(that I tackle)
+“Many students fail to complete their theses within theregulation four years...
+What the literature says aboutthis problem“Empirical studies indicate that late submission is highlycorrelated with delaying the start of the write-up...
+How I tackle this problem“A model of PhD study that encourages an early start tothe thesis writing task is clearly desirable...
+How I implement my solution“Such a model encourages the student to plan a structurefor the thesis and collect material for each chapterthroughout their study...
+The result“Application of this model dramatically improvessubmission rates.”
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 9
+
+
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 10
+Plan your thesis 
+.Convert this argument into a chapter outline 
+.At least one chapter per sentence 
+....maybe more than one for some sentences 
+.Start a binder with a division for each chapter 
+.Collect material in this binder 
+.Set out clearly what each chapter should say 
+.Don’t be afraid to change your mind 
+.As you write the thesis, your ideas will evolve 
+.Don’t wait for them to stop evolving: 
+.It’s much easier to change an outline that you’ve written down than one you 
+haven’t. 
+
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 11
+.Of course, your plan will 
+evolve as you proceed with 
+the research 
+.…and you may find that exactly six 
+chapters doesn’t quite work for you… 
+Here’s one of 
+my attempts… 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 11
+.Of course, your plan will 
+evolve as you proceed with 
+the research 
+.…and you may find that exactly six 
+chapters doesn’t quite work for you… 
+Here’s one of 
+my attempts… 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 12
+Don’t omit any of these: 
+Title (and title page) -conveys a message 
+Abstract -for the librarian 
+Contents Listing -shows the right things are there 
+Acknowledgements -get your supervisor on your side! 
+Introduction -says “I am going to look at the following things”. 
+Review of Previous Work -show you know the subject 
+Philosophy of Approach -show you can pick out important ideas succinctly 
+Plan of Attack -show you approached the problem in a systematic way 
+Description of the work -details, so that others can follow what you did 
+Critical analysis of the results -show you know its limitations 
+Future Work -show you know what’s missing 
+Conclusions -repetition of the intro, but with reference to the detail. 
+References -Cover the field; examiners will look for the key references 
+Appendices -Nitty Gritty details that would clutter your eloquent description 
+
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 13
+Say everything thrice 
+.In the thesis as a whole: 
+.Within each chapter / section 
+.Within each paragraph… 
+.Each paragraph describes a single idea 
+.The first sentence introduces the idea (linking it with the previous one) 
+.The last sentence concludes the idea (linking it with the next one) 
+.But it’s not repetition, it’s linking and rationale. 
+.If you do it right, the reader won’t notice any repetition 
+Details of the work 
+(Body) 
+What the thesis said 
+(Conclusion) 
+What the thesis will say 
+(Introduction) 
+The details 
+(Body) 
+What this section said 
+(Summary) 
+What this section says 
+(Signposting) 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 13
+Say everything thrice 
+.In the thesis as a whole: 
+.Within each chapter / section 
+.Within each paragraph… 
+.Each paragraph describes a single idea 
+.The first sentence introduces the idea (linking it with the previous one) 
+.The last sentence concludes the idea (linking it with the next one) 
+.But it’s not repetition, it’s linking and rationale. 
+.If you do it right, the reader won’t notice any repetition 
+Details of the work 
+(Body) 
+What the thesis said 
+(Conclusion) 
+What the thesis will say 
+(Introduction) 
+The details 
+(Body) 
+What this section said 
+(Summary) 
+What this section says 
+(Signposting) 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 14
+Bibliography 
+.Keep a database of complete references 
+.Use a consistent citation style 
+.Use a tool 
+.Bibtex, Refer, Endnote, ProCite, or whatever. 
+.Attention to detail is important 
+.Get the spellings right 
+.Keep complete references 
+.page numbers, volume numbers, editors names, locations and dates for conference 
+proceedings, etc. 
+.Find out what the local rules are for citation style 
+.If there are no local rules, use [Author, Year] format 
+.This improves readability by saving the reader flicking to the back 
+.Assume the reader is familiar with the main references 
+.But that doesn’t mean you should skip them! 
+
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 15
+How do I get finished? 
+Answer: by not getting stuck. 
+You’ve written most of it ... 
+... but for the bits you’re avoiding ... 
+... you keep rewriting other bits ... 
+... doing more reading ... 
+... tinkering with the layout ... 
+... seeking cute quotations ... 
+Q: Why are you stuck? 
+A: Because you’ve set yourself too hard a task. 
+.Don’t be afraid to change your plan if it proves too hard. 
+.Be savage in cutting irrelevant bits. 
+.Learn how to notice symptoms of “being stuck”, and ask for help… 
+STOP 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 15
+How do I get finished? 
+Answer: by not getting stuck. 
+You’ve written most of it ... 
+... but for the bits you’re avoiding ... 
+... you keep rewriting other bits ... 
+... doing more reading ... 
+... tinkering with the layout ... 
+... seeking cute quotations ... 
+Q: Why are you stuck? 
+A: Because you’ve set yourself too hard a task. 
+.Don’t be afraid to change your plan if it proves too hard. 
+.Be savage in cutting irrelevant bits. 
+.Learn how to notice symptoms of “being stuck”, and ask for help… 
+STOP 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 16
+Reviewing 
+.Get other people to read your drafts 
+.Peers will give friendly comments (and may have the most time!) 
+.Supervisor will steer you 
+.Other academics will spot things your supervisor has missed. 
+.Above all: 
+.…get the bugs out before the examiners see it. 
+
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 17
+Summary 
+.Start writing today (never tomorrow) 
+.Make up a title page for inspiration 
+.Write down your argument succinctly 
+.Turn the argument into a chapter plan 
+.Maintain a binder of stuff to put into these chapters 
+.Don’t be afraid to change the plan 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 17
+Summary 
+.Start writing today (never tomorrow) 
+.Make up a title page for inspiration 
+.Write down your argument succinctly 
+.Turn the argument into a chapter plan 
+.Maintain a binder of stuff to put into these chapters 
+.Don’t be afraid to change the plan 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 18
+The Examiner’s View 
+.Uh oh, not another thesis to read... 
+.Your examiners are busy people 
+.Examining theses is a chore, but: 
+.“It might help me keep up to date with an area of research” 
+.“It might inspire me” 
+.“I might learn something” 
+.“I might gain a new colleague” 
+.Note: the reading will be done in trains, planes, and 
+departmental meetings! 
+
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 19
+Examiner’s first question 
+.What’s this one about? 
+Examiners have little time available, so they want to extract the most juice in 
+the shortest time: 
+.This may be enough to decide whether it’s worth a PhD. 
+.Then: 
+1) What questions now spring to mind? 
+2) ...read through... 
+3) Were the questions answered? 
+abstract bibliography conclusions contents listing 
+Typical scanning order of a new thesis: 
+What’s it 
+about? 
+Does it cite 
+the right things? 
+Has it been 
+published already? 
+What was 
+achieved? 
+do I believe it? 
+Are all the 
+pieces there? 
+Is the 
+argument clear? 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 19
+Examiner’s first question 
+.What’s this one about? 
+Examiners have little time available, so they want to extract the most juice in 
+the shortest time: 
+.This may be enough to decide whether it’s worth a PhD. 
+.Then: 
+1) What questions now spring to mind? 
+2) ...read through... 
+3) Were the questions answered? 
+abstract bibliography conclusions contents listing 
+Typical scanning order of a new thesis: 
+What’s it 
+about? 
+Does it cite 
+the right things? 
+Has it been 
+published already? 
+What was 
+achieved? 
+do I believe it? 
+Are all the 
+pieces there? 
+Is the 
+argument clear? 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 20
+Has it been published already? 
+.Peer-review publications are crucial 
+.The research community’s most important validation criteria 
+.Sure-fire recipe for success: 
+.Identify the top peer-reviewed conferences and journals in your area 
+.Ask the experts to help you identify these 
+.Concentrate on conferences -faster turn-around 
+.Publish your research at them 
+.Plan to have pieces of work ready for each conference submission deadline 
+.Always take the reviewers comments seriously 
+.If they didn’t understand your work, it’s your fault, not theirs! 
+.If you can’t convince the reviewers, you won’t convince your examiners. 
+.If you’ve published in the right places… 
+.…you have nothing more to worry about 
+.Your examiners cannot ignore the outcome of the peer-review process 
+.(Unless you picked wacko examiners … see slide 4) 
+
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 21
+Corrections 
+.“Now there must be some corrections…” 
+.Some examiners don’t feel they’ve done the job unless they find some 
+corrections to do. 
+.Typical corrections 
+.Typographical / grammatical errors 
+.Poor presentation 
+.Missing statements / references 
+.(Superfluous / redundant statements) 
+.Missing pieces of work 
+.Whole sections missing … for example: 
+.research questions 
+.critical review of literature 
+.research methodology 
+.presentation of results 
+.validation of results 
+.discussion and conclusions 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 21
+Corrections 
+.“Now there must be some corrections…” 
+.Some examiners don’t feel they’ve done the job unless they find some 
+corrections to do. 
+.Typical corrections 
+.Typographical / grammatical errors 
+.Poor presentation 
+.Missing statements / references 
+.(Superfluous / redundant statements) 
+.Missing pieces of work 
+.Whole sections missing … for example: 
+.research questions 
+.critical review of literature 
+.research methodology 
+.presentation of results 
+.validation of results 
+.discussion and conclusions 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 22
+Thesis defense 
+.“Let’s see, what can I ask the candidate?” 
+.The examiners may have decided before the exam whether to pass you. 
+.Defense, oral, viva, exam, ... 
+.viva = “viva voce” = “lively discussion” 
+.The exam is to check it’s your work... 
+.Talk fluently about the work; 
+.show you’ve thought about it (which you have!). 
+.This is easy 
+.after all you’ve spent four+ years talking about it! 
+....and a chance to clarify things that aren’t clear in 
+the thesis. 
+.These are areas where corrections are likely. 
+
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 23
+Summary 
+.Know your audience 
+.Help them understand: 
+.Keep it short; 
+.use signposts; 
+.get the contents right. 
+.Make sure you’ve covered the bases 
+University of Toronto Department of Computer Science 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 23
+Summary 
+.Know your audience 
+.Help them understand: 
+.Keep it short; 
+.use signposts; 
+.get the contents right. 
+.Make sure you’ve covered the bases 
+University of Toronto Department of Computer Science 
+
+What the examiners are looking for
+
+[Adapted from Brown, G. and Atkins, M. (1988) Effective teaching in Higher Education. London: Routledge] 
+
+. 
+Review of literature . 
+Presentation of results 
+
+• 
+To what extent is the review relevant to the • 
+Have the hypotheses in fact been tested?
+research study? 
+• 
+Do the solutions obtained relate to the 
+• 
+Has the candidate slipped into “Here is all I know questions posed?
+about x”? 
+• 
+Is the level and form of analysis appropriate 
+• 
+Is there evidence of critical appraisal of other for the data? 
+work, or is the review just descriptive? 
+• 
+Could the presentation of the results been
+• 
+How well has the candidate mastered the technical 
+made clearer? 
+or theoretical literature? 
+
+
+• 
+Are patterns and trends in the results
+• 
+Does the candidate make the links between the 
+accurately identified and summarized?
+review and his or her methodology explicit? 
+
+• 
+Does the software appear to work
+• 
+Is there a summary of the essential features of 
+satisfactorily?
+other work as it relates to this study? 
+
+
+. 
+Discussion and Conclusions 
+
+. 
+Methodology 
+
+• 
+Is the candidate aware of possible limits to
+• 
+What precautions were taken against likely sources 
+confidence/reliability/validity of the work?
+
+of bias? 
+
+• 
+Have the main points to emerge from the
+• 
+What are the limitations in the methodology? Is 
+results been picked up for discussion?
+
+the candidate aware of them? 
+
+• 
+Are there links made to the literature?
+• 
+Is the methodology for data collection appropriate? 
+• 
+Is there evidence of attempts at theory
+• 
+Are the techniques used for analysis appropriate? 
+building or reconceptualisation of problems? 
+
+• 
+In the circumstances, has the best methodology 
+• 
+Are there speculations? Are they well grounded
+been chosen? 
+
+in the results? 
+
+• 
+Has the candidate given an adequate justification 
+to the methodology? 
+© 1992-2005 Steve Easterbrook. This presentation is available free for non-commercial use with attribution under a creative commons license. 24 
+
+
+

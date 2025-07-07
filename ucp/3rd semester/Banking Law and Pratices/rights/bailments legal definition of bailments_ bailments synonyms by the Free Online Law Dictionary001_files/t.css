@@ -1,0 +1,597 @@
+BODY {
+	MARGIN-TOP: 1px; MARGIN-LEFT: 7px; MARGIN-RIGHT: 7px; FONT-FAMILY: Arial; BACKGROUND-COLOR: white
+}
+DT {
+	FONT-WEIGHT: bold
+}
+DL {
+	MARGIN-TOP: 3pt; MARGIN-BOTTOM: 0px
+}
+H4 {
+	FONT-SIZE: 0.8em
+}
+H5 {
+	FONT-SIZE: 0.8em
+}
+INPUT {
+	FONT-SIZE: 1em
+}
+H1 {
+	MARGIN-TOP: 2pt; FONT-SIZE: 1.6em; MARGIN-BOTTOM: 0pt
+}
+H2 {
+	FONT-SIZE: 1.3em; PADDING-BOTTOM: 0px; WIDTH: 98%; BORDER-BOTTOM: #85a8c2 1px solid; TEXT-ALIGN: left
+}
+H3 {
+	FONT-SIZE: 1.15em; MARGIN-BOTTOM: 3pt
+}
+H4 {
+	FONT-SIZE: 1em; MARGIN-BOTTOM: 1pt; TEXT-ALIGN: left
+}
+H5 {
+	FONT-SIZE: 1em; MARGIN-BOTTOM: 1pt; TEXT-ALIGN: left
+}
+HR {
+	COLOR: #85a8c2; HEIGHT: 6px; BACKGROUND-COLOR: #85a8c2
+}
+PRE {
+	BORDER-RIGHT: #638ea8 1px dashed; PADDING-RIGHT: 5px; BORDER-TOP: #638ea8 1px dashed; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; BORDER-LEFT: #638ea8 1px dashed; PADDING-TOP: 5px; BORDER-BOTTOM: #638ea8 1px dashed; BACKGROUND-COLOR: #f7fafb
+}
+.hint {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: black 1px solid; PADDING-LEFT: 2px; LEFT: 0px; VISIBILITY: hidden; PADDING-BOTTOM: 2px; FONT: 1em Arial; TEXT-TRANSFORM: none; BORDER-LEFT: black 1px solid; WIDTH: 500px; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: black 1px solid; POSITION: absolute; TOP: 0px; BACKGROUND-COLOR: oldlace; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.hint HR {
+	WIDTH: 80%; COLOR: black; HEIGHT: 1px
+}
+SPAN.flw {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: red; FONT-FAMILY: Tahoma
+}
+B A.tip {
+	MARGIN-RIGHT: 2pt
+}
+EM A.tip {
+	MARGIN-RIGHT: 2pt
+}
+DIV.Ov {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px; TEXT-ALIGN: left
+}
+DIV.Ov SPAN.by {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FLOAT: right; COLOR: #226699
+}
+DIV.Ov SPAN.by A {
+	FONT-SIZE: 9pt; COLOR: #226699
+}
+DIV.Ov A {
+	TEXT-DECORATION: none
+}
+.OvBorder {
+	PADDING-RIGHT: 0px; BORDER-TOP: #85a8c2 1px solid; PADDING-LEFT: 0px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 5px; MARGIN-RIGHT: 30px; PADDING-TOP: 5px; BORDER-BOTTOM: #85a8c2 1px solid; TEXT-ALIGN: left
+}
+.OvTitle {
+	MARGIN-LEFT: 7px; TEXT-DECORATION: underline
+}
+.OvDescr {
+	MARGIN-LEFT: 15px; COLOR: black
+}
+SPAN.OvURL {
+	MARGIN-LEFT: 15px; COLOR: #226699
+}
+DIV.AdSep {
+	MARGIN-BOTTOM: 5px
+}
+.pic {
+	MARGIN: 0px 0px 4px 8px; BACKGROUND-COLOR: white
+}
+.pic IMG {
+	MARGIN: 2px
+}
+.imgcaption {
+	BORDER-TOP: gray 1px solid; FONT-SIZE: 8pt; MARGIN-LEFT: 2px; MARGIN-RIGHT: 2px
+}
+.outerpic {
+	BACKGROUND-COLOR: white
+}
+#MainTxt {
+	MARGIN-TOP: 6pt
+}
+#MainTxt TH {
+	FONT-SIZE: 0.8em
+}
+#MainTxt TABLE {
+	BACKGROUND-COLOR: white
+}
+.lit_links {
+	MARGIN-BOTTOM: 6pt; MARGIN-RIGHT: 15px; FONT-STYLE: italic; TEXT-ALIGN: right
+}
+.LitContext {
+	FONT-WEIGHT: bold; MARGIN-LEFT: 11pt; FONT-STYLE: normal
+}
+.highlight {
+	FONT-WEIGHT: bold
+}
+HR.hmsep {
+	WIDTH: 60%; HEIGHT: 3px
+}
+HR.hmshort {
+	WIDTH: 25%; HEIGHT: 1px
+}
+DIV.def {
+	MARGIN-LEFT: 1cm
+}
+DIV.ds-single {
+	MARGIN-LEFT: 1cm
+}
+DIV.ds-list {
+	MARGIN-LEFT: 1cm
+}
+DIV.notx {
+	MARGIN-LEFT: 1cm
+}
+DIV.regn {
+	MARGIN-LEFT: 1cm
+}
+DIV.sndlst {
+	MARGIN-LEFT: 1cm
+}
+DIV.syntx {
+	MARGIN-LEFT: 1cm
+}
+DIV.usen {
+	MARGIN-LEFT: 1cm
+}
+DIV.wrdhst {
+	MARGIN-LEFT: 1cm
+}
+DIV.sds-single {
+	MARGIN-LEFT: 1cm
+}
+DIV.sds-list {
+	MARGIN-LEFT: 1cm
+}
+DIV.idmseg {
+	MARGIN-LEFT: 0cm
+}
+DIV.pvseg {
+	MARGIN-LEFT: 0cm
+}
+DIV.runseg {
+	MARGIN-TOP: 3pt; MARGIN-LEFT: 0.5cm
+}
+DIV.etyseg {
+	MARGIN-TOP: 6pt; MARGIN-BOTTOM: 6pt
+}
+.SeeAlso {
+	
+}
+.pronOx {
+	FONT-FAMILY: 'Arial Unicode MS','Lucida Sans Unicode'
+}
+.IPA {
+	FONT-FAMILY: 'Arial Unicode MS','Lucida Sans Unicode'
+}
+.noteOx SPAN {
+	BACKGROUND-COLOR: #f7fafb
+}
+.hw {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt
+}
+TT {
+	FONT-SIZE: 11pt
+}
+.area {
+	DISPLAY: none; VISIBILITY: hidden; MARGIN-LEFT: 0.5cm; FONT-STYLE: italic
+}
+.illustration {
+	COLOR: #226699; FONT-STYLE: italic
+}
+SPAN.pron {
+	CURSOR: hand; BORDER-BOTTOM: #809e83 1px dashed
+}
+.hp {
+	LEFT: 0px; VISIBILITY: hidden; POSITION: absolute
+}
+DIV.himg {
+	FLOAT: right; WIDTH: 370px; BACKGROUND-COLOR: white; TEXT-ALIGN: center
+}
+TABLE.AcrFinder TH {
+	PADDING-RIGHT: 6pt; PADDING-LEFT: 6pt; FONT-SIZE: 0.8em; PADDING-BOTTOM: 6pt; PADDING-TOP: 6pt; TEXT-ALIGN: left
+}
+TABLE.AcrFinder TD {
+	PADDING-LEFT: 3pt
+}
+TABLE.AcrFinder TD.acr {
+	TEXT-ALIGN: center
+}
+.brand_copy {
+	CLEAR: both; MARGIN-TOP: 5px; FONT-SIZE: 10px; FONT-FAMILY: Arial
+}
+.brand_copy A {
+	COLOR: black
+}
+P.brand_copy {
+	MARGIN: 6pt 0px 0px
+}
+TABLE.cde {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-TOP: #85a8c2 1px solid; MARGIN-LEFT: 1cm; BORDER-LEFT: #85a8c2 1px solid; WIDTH: 350px; BORDER-BOTTOM: #85a8c2 1px solid
+}
+.toccolours {
+	BORDER-RIGHT: #85a8c2 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #85a8c2 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 8pt; PADDING-BOTTOM: 5px; BORDER-LEFT: #85a8c2 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #85a8c2 1px solid
+}
+TABLE.gallery {
+	BORDER-RIGHT: #85a8c2 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #85a8c2 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 8pt; PADDING-BOTTOM: 5px; BORDER-LEFT: #85a8c2 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #85a8c2 1px solid
+}
+TABLE#toc {
+	BORDER-RIGHT: #85a8c2 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #85a8c2 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 8pt; PADDING-BOTTOM: 5px; BORDER-LEFT: #85a8c2 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #85a8c2 1px solid
+}
+.toccolours TD {
+	FONT-SIZE: 8pt
+}
+.toccolours A {
+	FONT-SIZE: 8pt
+}
+.toccolours TH {
+	FONT-SIZE: 0.8em
+}
+SMALL {
+	FONT-SIZE: 8pt
+}
+.editlink {
+	DISPLAY: none
+}
+.noprint {
+	DISPLAY: none
+}
+.hiddenStructure {
+	DISPLAY: none
+}
+.infobox {
+	CLEAR: right; BORDER-RIGHT: #85a8c2 1px solid; BORDER-TOP: #85a8c2 1px solid; FLOAT: right; BORDER-LEFT: #85a8c2 1px solid; BORDER-BOTTOM: #85a8c2 1px solid
+}
+.bordered TD {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-TOP: #85a8c2 1px solid; BORDER-LEFT: #85a8c2 1px solid; BORDER-BOTTOM: #85a8c2 1px solid
+}
+.bordered TH {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-TOP: #85a8c2 1px solid; BORDER-LEFT: #85a8c2 1px solid; BORDER-BOTTOM: #85a8c2 1px solid
+}
+.bordered {
+	BORDER-COLLAPSE: collapse
+}
+TABLE.wikitable {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; MARGIN: 1em 1em 1em 0px; BORDER-LEFT: #aaaaaa 1px solid; BORDER-BOTTOM: #aaaaaa 1px solid; BORDER-COLLAPSE: collapse
+}
+TABLE.prettytable {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; MARGIN: 1em 1em 1em 0px; BORDER-LEFT: #aaaaaa 1px solid; BORDER-BOTTOM: #aaaaaa 1px solid; BORDER-COLLAPSE: collapse
+}
+TABLE.wikitable TH {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 0.2em; BORDER-TOP: #aaaaaa 1px solid; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0.2em; BORDER-LEFT: #aaaaaa 1px solid; PADDING-TOP: 0.2em; BORDER-BOTTOM: #aaaaaa 1px solid
+}
+TABLE.prettytable TH {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 0.2em; BORDER-TOP: #aaaaaa 1px solid; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0.2em; BORDER-LEFT: #aaaaaa 1px solid; PADDING-TOP: 0.2em; BORDER-BOTTOM: #aaaaaa 1px solid
+}
+TABLE.wikitable TD {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 0.2em; BORDER-TOP: #aaaaaa 1px solid; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0.2em; BORDER-LEFT: #aaaaaa 1px solid; PADDING-TOP: 0.2em; BORDER-BOTTOM: #aaaaaa 1px solid
+}
+TABLE.prettytable TD {
+	BORDER-RIGHT: #aaaaaa 1px solid; PADDING-RIGHT: 0.2em; BORDER-TOP: #aaaaaa 1px solid; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0.2em; BORDER-LEFT: #aaaaaa 1px solid; PADDING-TOP: 0.2em; BORDER-BOTTOM: #aaaaaa 1px solid
+}
+TABLE.wikitable TH {
+	BACKGROUND: #f2f2f2
+}
+TABLE.prettytable TH {
+	BACKGROUND: #f2f2f2
+}
+TABLE.wikitable TD {
+	BACKGROUND: #f9f9f9
+}
+TABLE.prettytable TD {
+	BACKGROUND: #f9f9f9
+}
+DIV.thumb {
+	BORDER-LEFT-COLOR: white; MARGIN-BOTTOM: 0.5em; BORDER-BOTTOM-COLOR: white; WIDTH: auto; BORDER-TOP-STYLE: solid; BORDER-TOP-COLOR: white; BORDER-RIGHT-STYLE: solid; BORDER-LEFT-STYLE: solid; BORDER-RIGHT-COLOR: white; BORDER-BOTTOM-STYLE: solid
+}
+DIV.thumb DIV {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 3px! important; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 3px! important; PADDING-BOTTOM: 3px! important; OVERFLOW: hidden; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 3px! important; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #f9f9f9; TEXT-ALIGN: center
+}
+.tright {
+	BORDER-TOP-WIDTH: 0.5em; CLEAR: right; BORDER-LEFT-WIDTH: 1.4em; FLOAT: right; BORDER-BOTTOM-WIDTH: 0.8em; BORDER-RIGHT-WIDTH: 0px
+}
+#shp {
+	BEHAVIOR: url(#default#homepage)
+}
+#topline {
+	FONT-SIZE: 8pt; WHITE-SPACE: nowrap; TEXT-ALIGN: right
+}
+#topline IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; WIDTH: 14px; BORDER-BOTTOM: medium none; HEIGHT: 14px
+}
+TABLE.Tabs IMG {
+	FLOAT: left; WIDTH: 9px; HEIGHT: 9px
+}
+#TDTotalBrowser IMG {
+	WIDTH: 9px; MARGIN-RIGHT: 3px; HEIGHT: 9px
+}
+A {
+	COLOR: #1d4994
+}
+A:visited {
+	COLOR: #645e7d
+}
+.icon {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; WIDTH: 18px; MARGIN-RIGHT: 5px; BORDER-BOTTOM: medium none; HEIGHT: 14px
+}
+IMG.toggle {
+	MARGIN-LEFT: 2px; WIDTH: 11px; CURSOR: hand; HEIGHT: 11px
+}
+.box1 {
+	MARGIN-TOP: 0pt; MARGIN-BOTTOM: 5px; WIDTH: 100%
+}
+.box1 TH {
+	FONT-SIZE: 11pt; COLOR: #638ea8; HEIGHT: 24px; BACKGROUND-COLOR: #e4eaed; TEXT-ALIGN: left
+}
+.box1 H3 {
+	MARGIN: 0px
+}
+.box1 TD {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 3px
+}
+.box1img {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; MARGIN-TOP: 3px; MARGIN-BOTTOM: 3px; BORDER-LEFT: medium none; MARGIN-RIGHT: 13px; BORDER-BOTTOM: medium none
+}
+.box2 {
+	MARGIN-TOP: 0pt; MARGIN-BOTTOM: 5px; WIDTH: 100%
+}
+.box2 TH {
+	FONT-SIZE: 11pt; BACKGROUND-IMAGE: url(http://img.tfd.com/m/title_bg.gif); COLOR: white; HEIGHT: 24px; BACKGROUND-COLOR: #85a8c2; TEXT-ALIGN: left
+}
+.box2 TD {
+	FONT-SIZE: 10pt
+}
+.sbox1 {
+	BORDER-RIGHT: #85a8c2 1px solid; MARGIN-BOTTOM: 9px; BORDER-LEFT: #85a8c2 1px solid; WIDTH: 300px; BORDER-BOTTOM: #85a8c2 1px solid
+}
+.sbox1 TH {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 10pt; BACKGROUND-IMAGE: url(http://img.tfd.com/m/title_bg.gif); COLOR: white; HEIGHT: 20px; BACKGROUND-COLOR: #85a8c2; TEXT-ALIGN: left
+}
+.sbox1 TD {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 10pt; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+.banner_ad {
+	MARGIN-BOTTOM: 12px
+}
+.banner_ad .adv {
+	COLOR: #808080; TEXT-ALIGN: center
+}
+.banner_ad .adv A {
+	COLOR: #808080; TEXT-ALIGN: center
+}
+#SignIn TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#SignIn INPUT {
+	FONT-SIZE: 8pt
+}
+#DefandLit {
+	MARGIN-TOP: 7px
+}
+#Browsers {
+	MARGIN-TOP: 7px
+}
+#DefandLit TH {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-TOP: #85a8c2 1px solid; BORDER-LEFT: #85a8c2 1px solid; COLOR: #638ea8; BACKGROUND-COLOR: #e4eaed
+}
+#Browsers TH {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-TOP: #85a8c2 1px solid; BORDER-LEFT: #85a8c2 1px solid; COLOR: #638ea8; BACKGROUND-COLOR: #e4eaed
+}
+#TDDef {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-LEFT: #85a8c2 1px solid; BORDER-BOTTOM: #85a8c2 1px solid
+}
+#TDLit {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-LEFT: #85a8c2 1px solid; BORDER-BOTTOM: #85a8c2 1px solid
+}
+#TDBrandBrowser {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-LEFT: #85a8c2 1px solid; BORDER-BOTTOM: #85a8c2 1px solid
+}
+#TDTotalBrowser {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-LEFT: #85a8c2 1px solid; BORDER-BOTTOM: #85a8c2 1px solid
+}
+#toggle_td_9 TABLE TD {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; PADDING-BOTTOM: 7px; PADDING-TOP: 7px
+}
+#toggle_td_10 {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; PADDING-BOTTOM: 7px; PADDING-TOP: 7px
+}
+#toggle_td_11 {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; PADDING-BOTTOM: 7px; PADDING-TOP: 7px
+}
+#toggle_td_12 TABLE TD {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; PADDING-BOTTOM: 7px; PADDING-TOP: 7px
+}
+#TDBrandBrowser A.l {
+	MARGIN-LEFT: 10px
+}
+DIV.prev IMG {
+	WIDTH: 9px; HEIGHT: 12px
+}
+DIV.next IMG {
+	WIDTH: 9px; HEIGHT: 12px
+}
+DIV.prev {
+	MARGIN-BOTTOM: 3pt
+}
+DIV.next {
+	MARGIN-TOP: 3pt
+}
+.MoreResults {
+	FONT-WEIGHT: bold; TEXT-ALIGN: right
+}
+TABLE.Tabs {
+	BORDER-BOTTOM: #85a8c2 7px solid
+}
+TD.activeTab {
+	PADDING-RIGHT: 3px; BORDER-TOP: #85a8c2 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; BORDER-LEFT: #85a8c2 1px solid; LINE-HEIGHT: 12px; PADDING-TOP: 3px
+}
+TD.inactiveTab {
+	PADDING-RIGHT: 3px; BORDER-TOP: #85a8c2 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; BORDER-LEFT: #85a8c2 1px solid; LINE-HEIGHT: 12px; PADDING-TOP: 3px
+}
+TD.greyTab {
+	PADDING-RIGHT: 3px; BORDER-TOP: #85a8c2 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; BORDER-LEFT: #85a8c2 1px solid; LINE-HEIGHT: 12px; PADDING-TOP: 3px
+}
+TABLE.Tabs DIV {
+	PADDING-LEFT: 12px
+}
+TABLE.Tabs A {
+	TEXT-DECORATION: none
+}
+TD.activeTab {
+	COLOR: white; BACKGROUND-COLOR: #85a8c2
+}
+TD.inactiveTab {
+	BACKGROUND-COLOR: white
+}
+TD.greyTab {
+	BACKGROUND-COLOR: #e8e8e8
+}
+TD.greyTab A {
+	COLOR: #808080
+}
+TD.greyTab A:visited {
+	COLOR: #808080
+}
+TABLE.Tabs TD.Subscr {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: white; BACKGROUND-COLOR: #809e83
+}
+#TabSeparator {
+	BORDER-LEFT: #85a8c2 1px solid; WIDTH: 100%; PADDING-TOP: 3px
+}
+.box1 A:visited {
+	COLOR: #002f70
+}
+.box2 A:visited {
+	COLOR: #002f70
+}
+.sbox1 TD A:visited {
+	COLOR: #002f70
+}
+.Tabs .activeTab A:visited {
+	COLOR: #002f70
+}
+.Tabs .inactiveTab A:visited {
+	COLOR: #002f70
+}
+#MainTitle {
+	
+}
+#Thesaurus {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-TOP: #85a8c2 1px solid; MARGIN-TOP: 25px; PADDING-BOTTOM: 5px; BORDER-LEFT: #85a8c2 1px solid; BORDER-BOTTOM: #85a8c2 1px solid
+}
+#Translations {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-TOP: #85a8c2 1px solid; MARGIN-TOP: 25px; PADDING-BOTTOM: 5px; BORDER-LEFT: #85a8c2 1px solid; BORDER-BOTTOM: #85a8c2 1px solid
+}
+#ThesaurusHead {
+	HEIGHT: 20pt; BACKGROUND-COLOR: #e4eaed
+}
+#TranslationsHead {
+	HEIGHT: 20pt; BACKGROUND-COLOR: #e4eaed
+}
+#ThesaurusTitle {
+	PADDING-RIGHT: 6pt; PADDING-LEFT: 6pt; FONT-WEIGHT: bold; FONT-SIZE: 16pt; PADDING-BOTTOM: 6pt; COLOR: #638ea8; PADDING-TOP: 6pt
+}
+#TranslationsTitle {
+	PADDING-RIGHT: 6pt; PADDING-LEFT: 6pt; FONT-WEIGHT: bold; FONT-SIZE: 16pt; PADDING-BOTTOM: 6pt; COLOR: #638ea8; PADDING-TOP: 6pt
+}
+#TranslationsTitle {
+	PADDING-LEFT: 0px
+}
+#ThesaurusLegend {
+	PADDING-LEFT: 15px
+}
+#ThesaurusInner {
+	MARGIN: 15px
+}
+#toggle_td_5 {
+	MARGIN: 15px
+}
+#Thesaurus H3 {
+	MARGIN-BOTTOM: 6pt
+}
+.Syn {
+	MARGIN-TOP: 3px; PADDING-LEFT: 2px
+}
+.Rel {
+	MARGIN-TOP: 3px; PADDING-LEFT: 2px
+}
+.Ant {
+	MARGIN-TOP: 3px; PADDING-LEFT: 2px
+}
+.Syn {
+	BORDER-LEFT: #60ff60 4px solid
+}
+.Rel {
+	BORDER-LEFT: #8080ff 4px solid
+}
+.Ant {
+	BORDER-LEFT: #ff6060 4px solid
+}
+#wld_body {
+	MARGIN: 15px
+}
+DIV.Lit {
+	MARGIN-BOTTOM: 3pt; MARGIN-LEFT: 3px
+}
+#bottom_sep {
+	BORDER-TOP: #85a8c2 7px solid; MARGIN-TOP: 7px; FONT-SIZE: 1px; MARGIN-BOTTOM: 12px
+}
+#FooterLinks {
+	BORDER-RIGHT: #85a8c2 1px solid; BORDER-TOP: #85a8c2 1px solid; MARGIN-TOP: 6pt; BORDER-LEFT: #85a8c2 1px solid; BORDER-BOTTOM: #85a8c2 1px solid
+}
+#FooterLinks TD {
+	PADDING-RIGHT: 3pt; PADDING-LEFT: 3pt; FONT-SIZE: 8pt; PADDING-BOTTOM: 3pt; PADDING-TOP: 3pt
+}
+#FooterLinks TH {
+	PADDING-RIGHT: 12pt; PADDING-LEFT: 12pt; BACKGROUND-IMAGE: url(http://img.tfd.com/m/title_bg.gif); COLOR: white; BACKGROUND-COLOR: #85a8c2; TEXT-ALIGN: left
+}
+#FooterCopy {
+	FONT-SIZE: 8pt; MARGIN: 6pt
+}
+#toggle_td_3 {
+	MARGIN-TOP: 4pt; FONT-SIZE: 9px; WIDTH: 450px; COLOR: gray; FONT-FAMILY: Tahoma
+}
+.help {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; FONT: bold 10px Verdana; PADDING-TOP: 2px; TEXT-DECORATION: none
+}
+.help5 {
+	BORDER-RIGHT: #b4cbdc 1px solid; BORDER-TOP: #b4cbdc 1px solid; MARGIN-LEFT: 8px; VERTICAL-ALIGN: text-top; BORDER-LEFT: #b4cbdc 1px solid; COLOR: #b4cbdc; BORDER-BOTTOM: #b4cbdc 1px solid
+}
+.help5:visited {
+	BORDER-RIGHT: #b4cbdc 1px solid; BORDER-TOP: #b4cbdc 1px solid; MARGIN-LEFT: 8px; VERTICAL-ALIGN: text-top; BORDER-LEFT: #b4cbdc 1px solid; COLOR: #b4cbdc; BORDER-BOTTOM: #b4cbdc 1px solid
+}
+.help8 {
+	BORDER-RIGHT: #b4cbdc 1px solid; BORDER-TOP: #b4cbdc 1px solid; MARGIN-LEFT: 8px; VERTICAL-ALIGN: text-top; BORDER-LEFT: #b4cbdc 1px solid; COLOR: #b4cbdc; BORDER-BOTTOM: #b4cbdc 1px solid
+}
+.help8:visited {
+	BORDER-RIGHT: #b4cbdc 1px solid; BORDER-TOP: #b4cbdc 1px solid; MARGIN-LEFT: 8px; VERTICAL-ALIGN: text-top; BORDER-LEFT: #b4cbdc 1px solid; COLOR: #b4cbdc; BORDER-BOTTOM: #b4cbdc 1px solid
+}
+.help8 {
+	FLOAT: right
+}
+.help7 {
+	BORDER-RIGHT: #c0d1c2 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #c0d1c2 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 3px; BORDER-LEFT: #c0d1c2 1px solid; COLOR: #c0d1c2; PADDING-TOP: 0px; BORDER-BOTTOM: #c0d1c2 1px solid
+}
+.help7:visited {
+	BORDER-RIGHT: #c0d1c2 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #c0d1c2 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 3px; BORDER-LEFT: #c0d1c2 1px solid; COLOR: #c0d1c2; PADDING-TOP: 0px; BORDER-BOTTOM: #c0d1c2 1px solid
+}
+.help:hover {
+	BORDER-RIGHT: white 1px solid; BORDER-TOP: white 1px solid; BORDER-LEFT: white 1px solid; COLOR: white; BORDER-BOTTOM: white 1px solid
+}
+.help5:hover {
+	BORDER-RIGHT: #638ea8 1px solid; BORDER-TOP: #638ea8 1px solid; BORDER-LEFT: #638ea8 1px solid; COLOR: #638ea8; BORDER-BOTTOM: #638ea8 1px solid
+}
+.help8:hover {
+	BORDER-RIGHT: #638ea8 1px solid; BORDER-TOP: #638ea8 1px solid; BORDER-LEFT: #638ea8 1px solid; COLOR: #638ea8; BORDER-BOTTOM: #638ea8 1px solid
+}
+#MainTxt IFRAME {
+	FLOAT: right
+}
+#Aux H1 {
+	MARGIN-TOP: 12pt
+}

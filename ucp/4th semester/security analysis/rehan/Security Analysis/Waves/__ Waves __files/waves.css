@@ -1,0 +1,195 @@
+.BODY {
+	SCROLLBAR-FACE-COLOR: #3366cc; SCROLLBAR-HIGHLIGHT-COLOR: #3366cc; SCROLLBAR-SHADOW-COLOR: #3366cc; SCROLLBAR-3DLIGHT-COLOR: #3366cc; SCROLLBAR-ARROW-COLOR: #3366cc; SCROLLBAR-TRACK-COLOR: #3366cc; SCROLLBAR-DARKSHADOW-COLOR: #3366cc; SCROLLBAR-BASE-COLOR: #3366cc
+}
+A.innerlink:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #bb0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.innerlink:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #bb0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.innerlink:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.innerlink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.view:link {
+	COLOR: #bb0000; TEXT-DECORATION: none
+}
+A.view:visited {
+	COLOR: #bb0000; TEXT-DECORATION: none
+}
+A.view:active {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.view:hover {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.button:link {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.button:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A.button:active {
+	COLOR: #bb0000; TEXT-DECORATION: none
+}
+A.button:hover {
+	COLOR: #bb0000; TEXT-DECORATION: none
+}
+.navtext {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.cpyrite {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #cccccc; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.indexprohead {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #bb0000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.indexproducts {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.txtfield {
+	PADDING-RIGHT: 1px; BORDER-TOP: thin solid; PADDING-LEFT: 1px; FONT-WEIGHT: normal; BORDER-LEFT-WIDTH: thin; FONT-SIZE: 9px; BORDER-BOTTOM-WIDTH: thin; PADDING-BOTTOM: 1px; MARGIN: 1px; WIDTH: auto; COLOR: #333333; PADDING-TOP: 1px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 21px; BORDER-RIGHT-WIDTH: thin
+}
+.viewdetajils {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #aa0000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.siscon {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #bb0000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.hometxt {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.innertxt {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.siscontxt {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.proheadings {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; COLOR: #c40000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 35px
+}
+.tablebdr {
+	BORDER-RIGHT: #e5e5e5 1px solid; BORDER-TOP: #e5e5e5 1px solid; BORDER-LEFT: #e5e5e5 1px solid; BORDER-BOTTOM: #e5e5e5 1px solid
+}
+.tablebdr1 {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid
+}
+.desctext {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.innerhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.inheadtxt {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.proheadings1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; COLOR: #c40000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 35px; BACKGROUND-COLOR: #f3f3f3
+}
+.innertxtnew {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.btmnav {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #666666; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.prodesctable {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #b00000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.prodesctablehomapp {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #950000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.miswaves {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #666666; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.webuyinpt {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #cccccc 1px solid
+}
+.webuyformhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.webuyhead2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #bb0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.webuybtns {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 10px; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #ffffff 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #990000
+}
+.innertxtwebuy {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.modelno {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.contact {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #bb0000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.contactnew {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.coollinks {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #bb0000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.adsbox {
+	BORDER-RIGHT: 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: 1px solid
+}
+.txturl {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #bb0000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tabledotedbdr {
+	BORDER-RIGHT: #999999 0px; BORDER-TOP: #999999 1px dotted; BORDER-LEFT: #999999 0px; BORDER-BOTTOM: #999999 1px dotted
+}
+.tabledotedbdr2 {
+	BORDER-RIGHT: #999999 0px; BORDER-TOP: #999999 0px dotted; BORDER-LEFT: #999999 0px; BORDER-BOTTOM: #999999 1px dotted
+}
+.mainheading {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #cc0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tabledotedbdr2Copy {
+	BORDER-RIGHT: #999999 1px; BORDER-TOP: #999999 1px; BORDER-LEFT: #999999 1px; BORDER-BOTTOM: #999999 1px
+}
+.mainheadingCopy {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #cc0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tabledotedbdrCopy {
+	BORDER-RIGHT: #999999 0px; BORDER-TOP: #999999 1px dotted; BORDER-LEFT: #999999 0px; BORDER-BOTTOM: #999999 1px dotted
+}
+.price {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.pricefigure {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #b00000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.availablecolors {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.descbg {
+	BACKGROUND-COLOR: #f8f8f8
+}
+.models {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.productspagetxt {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.innertxtdesc {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tablebdrpro {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.mainbdr {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: 0px; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid
+}
+.sisconnew {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #bb0000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.aftersaletblbg {
+	BACKGROUND-COLOR: #f8f8f8
+}
+.innerlinkstatic {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.inheadtxta {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}

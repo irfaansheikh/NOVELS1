@@ -1,0 +1,144 @@
+.large {
+	WIDTH: 99%! important
+}
+UL {
+	PADDING-LEFT: 0px
+}
+OL {
+	PADDING-LEFT: 0px
+}
+DIV.bahamaHead IMG {
+	MARGIN-TOP: 2em; DISPLAY: block; MARGIN-RIGHT: 1em
+}
+.head {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 2px; PADDING-TOP: 0px; xdisplay: none
+}
+#navWrapper {
+	FLOAT: left; BACKGROUND-COLOR: #ebeeef
+}
+#leftBand {
+	DISPLAY: none
+}
+DIV.pubtable {
+	MARGIN-TOP: 15px; MARGIN-LEFT: 5px
+}
+DIV#mainNavExtWrapper DIV#mainnav UL LI {
+	MARGIN-BOTTOM: 0px
+}
+DIV.pullUp#mainNavExtWrapper DIV#mainnav UL LI {
+	MARGIN-BOTTOM: 0px
+}
+DIV.pullUp#contentarea {
+	MARGIN-TOP: 23px
+}
+DIV.pullUp#crossnav {
+	MARGIN-TOP: -10px
+}
+DIV.facts {
+	MARGIN-LEFT: 45px
+}
+DIV#facts IMG#slide_facts_HR {
+	DISPLAY: none; MARGIN-LEFT: 40px
+}
+UL.homepage_press LI DIV {
+	MARGIN-TOP: -10px; DISPLAY: block; MARGIN-BOTTOM: -5px; POSITION: relative
+}
+.newsWrapper {
+	MARGIN-TOP: 5px; DISPLAY: block
+}
+UL.datalist LI DIV.releaseyear {
+	FONT-WEIGHT: bold; WIDTH: 6em
+}
+UL.datalist LI DIV.rightcol {
+	FLOAT: none
+}
+UL.datalist LI DIV.pressrelease {
+	WIDTH: auto
+}
+DIV.extranet .head {
+	PADDING-TOP: 3px; HEIGHT: 1.2em
+}
+DIV.extranet IMG.absmiddle {
+	MARGIN-TOP: 1px
+}
+DIV#mainnav #naviecb {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #naviecbactive {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navipress {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navipressactive {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navipressactive {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navievents {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navieventsactive {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navipub {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navipubactive {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navistats {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navistatsactive {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navibc {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navibcactive {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navimopo {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navimopoactive {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navipaym {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#mainnav #navipaymactive {
+	BORDER-BOTTOM-WIDTH: 1px
+}
+DIV#bc P {
+	PADDING-LEFT: 200px
+}
+DIV#bc {
+	TOP: 23px
+}
+TABLE.bahama TR.visible TD {
+	BACKGROUND-COLOR: #f9f9f1
+}
+DIV.statstable TABLE THEAD TH SUP {
+	PADDING-TOP: 0.1em
+}
+.boxpatch4IE {
+	HEIGHT: 50px
+}
+#cultural {
+	WIDTH: 98%; xdisplay: none
+}
+#cultural .boxmarginR {
+	MARGIN-RIGHT: 10px
+}
+#cultural .boxmarginB .clearAll {
+	DISPLAY: none
+}
+#cultural .floatleft .clearAll {
+	DISPLAY: none
+}
+.boxmarginR#cultural {
+	MARGIN-RIGHT: 0px
+}

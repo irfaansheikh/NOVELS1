@@ -1,0 +1,733 @@
+A {
+	TEXT-DECORATION: none
+}
+ADDRESS {
+	MARGIN-TOP: 10mm; PADDING-TOP: 5mm
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 8pt; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; WIDTH: 98%; COLOR: #000; LINE-HEIGHT: 12.5pt; PADDING-TOP: 0px; FONT-FAMILY: Verdana,Arial,"Times New Roman",serif
+}
+H1 {
+	FONT-SIZE: 13pt; PADDING-BOTTOM: 1mm; COLOR: #b1b3b6; LINE-HEIGHT: 19pt; BORDER-BOTTOM: #b1b3b6 1px solid
+}
+H2 {
+	FONT-SIZE: 10pt; PADDING-BOTTOM: 1mm; COLOR: #000099; LINE-HEIGHT: 14pt; PADDING-TOP: 2mm
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000099
+}
+P {
+	TEXT-ALIGN: justify
+}
+TABLE {
+	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid; BORDER-COLLAPSE: collapse
+}
+TD {
+	BORDER-BOTTOM: #ddd 1px solid
+}
+TH {
+	BACKGROUND-COLOR: #ddd
+}
+UL {
+	PADDING-LEFT: 1em; MARGIN-LEFT: 1em
+}
+.alignleft {
+	FLOAT: left; MARGIN-RIGHT: 3em
+}
+.italics {
+	FONT-STYLE: italic
+}
+.basicbg0 {
+	BACKGROUND-COLOR: #eee
+}
+.basicborder {
+	BORDER-BOTTOM: #eee 1px solid
+}
+.boxborder {
+	BORDER-RIGHT: #dee2e5 1px solid; BORDER-TOP: #dee2e5 1px solid; BORDER-LEFT: #dee2e5 1px solid; BORDER-BOTTOM: #dee2e5 1px solid
+}
+.boxborderTop {
+	BORDER-RIGHT: #dee2e5 1px solid; BORDER-TOP: #dee2e5 1px solid; MARGIN-TOP: 1em; BORDER-LEFT: #dee2e5 1px solid; BORDER-BOTTOM: #dee2e5 0px solid
+}
+.boxmarginL {
+	MARGIN-LEFT: 5mm
+}
+.boxmarginR {
+	MARGIN-RIGHT: 5mm
+}
+.boxMarginV {
+	MARGIN-BOTTOM: 5mm
+}
+.boxpadding {
+	PADDING-RIGHT: 5mm; PADDING-LEFT: 5mm; PADDING-BOTTOM: 5mm; PADDING-TOP: 5mm
+}
+.boxpadding {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.boxpadding1 {
+	PADDING-RIGHT: 5mm; PADDING-LEFT: 5mm; PADDING-BOTTOM: 5mm; PADDING-TOP: 3mm
+}
+.boxpaddingB {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 4mm; PADDING-TOP: 0px
+}
+.boxpaddingH {
+	PADDING-RIGHT: 3mm; PADDING-LEFT: 3mm; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.boxpaddingHalf {
+	PADDING-RIGHT: 4mm; PADDING-LEFT: 4mm; PADDING-BOTTOM: 4mm; PADDING-TOP: 4mm
+}
+.boxpaddingL {
+	PADDING-LEFT: 3mm
+}
+.boxpaddingR {
+	PADDING-RIGHT: 3mm
+}
+.boxpaddingR2 {
+	PADDING-RIGHT: 5mm
+}
+.boxpaddingR4 {
+	PADDING-RIGHT: 1cm
+}
+.boxpaddingT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 3mm
+}
+.boxpaddingV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 3mm; PADDING-TOP: 3mm
+}
+.cellVerticalBorder {
+	BORDER-RIGHT: #dee2e5 1px solid; PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0.2em; BORDER-LEFT: #dee2e5 1px solid; PADDING-TOP: 0.2em
+}
+.clearAll {
+	CLEAR: both; FONT-SIZE: 0pt; LINE-HEIGHT: 0px; HEIGHT: 0px
+}
+.clearleft {
+	CLEAR: left
+}
+.floatleft {
+	FLOAT: left
+}
+.leftcol {
+	FLOAT: left
+}
+.floatright {
+	FLOAT: right
+}
+.rightcol {
+	FLOAT: right
+}
+.imgfloatleft {
+	FLOAT: left; MARGIN: 0px 3mm 5mm 0px
+}
+.imgfloatright {
+	MARGIN-TOP: 2mm; FLOAT: right; MARGIN-BOTTOM: 2mm; MARGIN-LEFT: 1mm
+}
+.pagebreakafter {
+	PAGE-BREAK-AFTER: always
+}
+.pressrelease {
+	
+}
+.qrcode {
+	DISPLAY: block; page-break-inside: avoid
+}
+.releaseyear {
+	FONT-WEIGHT: bold; WIDTH: 3cm
+}
+.row {
+	PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em
+}
+.tablepress {
+	BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid
+}
+SPAN.arrow {
+	PADDING-LEFT: 13px
+}
+DIV.bahama {
+	PAGE-BREAK-BEFORE: left; PAGE-BREAK-AFTER: always
+}
+TABLE.bahama {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; MARGIN-BOTTOM: 2cm; BORDER-LEFT: #ccc 1px solid; WIDTH: 100%; BORDER-BOTTOM: #ccc 1px solid; FONT-FAMILY: Garamond,"Times New Roman",serif; BACKGROUND-COLOR: #fff; empty-cells: show
+}
+TABLE.bahama CAPTION {
+	FONT-WEIGHT: normal; FONT-SIZE: 1em; PADDING-BOTTOM: 1.5em; PADDING-TOP: 1em; FONT-FAMILY: Garamond,"Times New Roman",serif; caption-side: top
+}
+TABLE.bahama TBODY {
+	
+}
+TABLE.bahama TD {
+	FONT-SIZE: 7pt; VERTICAL-ALIGN: top; BORDER-LEFT: #eee 1px solid; BORDER-BOTTOM: #ccc 1px solid
+}
+TABLE.bahama TFOOT {
+	DISPLAY: table-footer-group; HEIGHT: 1cm; BACKGROUND-COLOR: #eee
+}
+TABLE.bahama TH {
+	BORDER-RIGHT: #777 1px solid; BORDER-TOP: #777 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 7pt; VERTICAL-ALIGN: top; BORDER-LEFT: #777 1px solid; BORDER-BOTTOM: #777 1px double; BACKGROUND-COLOR: #eee
+}
+TABLE.bahama THEAD {
+	DISPLAY: table-header-group
+}
+TABLE.bahama TR {
+	HEIGHT: 1cm
+}
+TABLE.bahama CAPTION SPAN {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.1em
+}
+UL.datalist {
+	LIST-STYLE-TYPE: none
+}
+DIV.ECBLogo {
+	MARGIN: 0px auto; TEXT-ALIGN: center
+}
+DIV.fxref {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PAGE-BREAK-AFTER: always; WIDTH: 100%; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.head {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #aaa 1px solid; MARGIN-TOP: 2em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #eee
+}
+UL.homepage_press {
+	PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.2em; PADDING-BOTTOM: 0.2em; MARGIN: 0px; PADDING-TOP: 0.2em; LIST-STYLE-TYPE: none
+}
+UL.homepage_press {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+SPAN.keyfigure {
+	FONT-WEIGHT: bold; TEXT-ALIGN: right
+}
+DIV.keyfigureRow {
+	HEIGHT: 1.5em
+}
+DIV.keyfigureRowDouble {
+	HEIGHT: 2.5em
+}
+TABLE.layouterwfs {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-BOTTOM: #ccc 1px solid; FONT-FAMILY: Arial,Helvetica,sans-serif; HEIGHT: 95%; empty-cells: show
+}
+UL.arrowlinks LI {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; MARGIN-LEFT: 1em; PADDING-TOP: 0.1em; LIST-STYLE-TYPE: none
+}
+UL.datalist LI {
+	CLEAR: both; BORDER-TOP: #ddd 1px solid; PADDING-TOP: 2mm
+}
+DIV.exboard2 DL {
+	MARGIN-TOP: 5mm; MARGIN-BOTTOM: 5mm
+}
+UL.homepage_press LI {
+	BORDER-RIGHT: #ebeeef 1px solid; PADDING-RIGHT: 2mm; PADDING-LEFT: 2mm; PADDING-BOTTOM: 1mm; BORDER-LEFT: #ebeeef 1px solid; PADDING-TOP: 1mm; BORDER-BOTTOM: #ebeeef 1px solid
+}
+DIV.exboard2 DL DD {
+	MARGIN-LEFT: 7mm
+}
+DIV.exboard2 DL DT {
+	MARGIN-TOP: 0.8mm; FONT-WEIGHT: bold; MARGIN-BOTTOM: 0.5mm
+}
+DIV.fxref .clearAll {
+	CLEAR: both; LINE-HEIGHT: 0px; HEIGHT: 0px
+}
+A:link {
+	TEXT-DECORATION: underline
+}
+A:visited {
+	TEXT-DECORATION: underline
+}
+A.printlink:unknown {
+	WHITE-SPACE: pre; content: " [ " attr(href) " ] 
+"
+}
+IMG.SecurityFeatures {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em
+}
+P.SecurityFeatures {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.2em 0.3em 0.3em 0px; PADDING-TOP: 0px
+}
+DIV.statstable {
+	HEIGHT: 100%; BACKGROUND-COLOR: white
+}
+DIV.statstable2 {
+	BACKGROUND-COLOR: white; page-break-inside: avoid
+}
+H3.statstable2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 8pt; PADDING-BOTTOM: 0px; TEXT-TRANSFORM: capitalize; WIDTH: 100%; COLOR: black; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+DIV.statstable TABLE {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 7pt; BORDER-BOTTOM-WIDTH: 0px; BORDER-COLLAPSE: collapse; BORDER-RIGHT-WIDTH: 0px; empty-cells: show
+}
+DIV.statstable2 CAPTION {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 1.2em; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+DIV.statstable2 TABLE {
+	BORDER-TOP-WIDTH: 0px; BORDER-RIGHT: #ddd 1px solid; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 7pt; BORDER-BOTTOM-WIDTH: 0px; BORDER-COLLAPSE: collapse; empty-cells: show
+}
+DIV.table TABLE {
+	MARGIN: 0px; BORDER-COLLAPSE: collapse; empty-cells: show
+}
+DIV.tablestats TABLE {
+	MARGIN-TOP: 1em; FONT-SIZE: x-small; FONT-FAMILY: Arial,Helvetica,sans-serif; BORDER-COLLAPSE: collapse; empty-cells: show
+}
+DIV.tablestats TFOOT {
+	FONT-SIZE: 1em
+}
+DIV.statstable TBODY TD {
+	BORDER-BOTTOM: #999 1px solid; TEXT-ALIGN: right
+}
+DIV.statstable TBODY TH {
+	BORDER-BOTTOM: #999 1px solid; BACKGROUND-COLOR: white; TEXT-ALIGN: left
+}
+DIV.statstable THEAD TH {
+	FONT-SIZE: 8pt; VERTICAL-ALIGN: bottom; BORDER-BOTTOM: #000 1px solid; BACKGROUND-COLOR: white; TEXT-ALIGN: right
+}
+DIV.statstable2 TBODY TD {
+	BORDER-RIGHT: #ddd 1px solid; BORDER-BOTTOM: #999 1px solid; TEXT-ALIGN: right
+}
+DIV.statstable2 TBODY TH {
+	BORDER-BOTTOM: #999 1px solid; BACKGROUND-COLOR: #e9e9e9; TEXT-ALIGN: left
+}
+DIV.statstable2 THEAD TH {
+	BORDER-RIGHT: #666 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 8pt; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000 1px solid; BACKGROUND-COLOR: #ddd; TEXT-ALIGN: center
+}
+DIV.tablestats TABLE CAPTION {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; FONT: bold 1em Arial,Helvetica,sans-serif; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+DIV.tablestats TABLE TH {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 0.9em; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #999 1px solid
+}
+DIV.tablestats TABLE TBODY TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #999 1px solid; BORDER-COLLAPSE: collapse; TEXT-ALIGN: right
+}
+DIV.tablestats TABLE TBODY TH {
+	COLOR: black; BORDER-BOTTOM: #999 1px solid; TEXT-ALIGN: left
+}
+DIV.tablestats TABLE TFOOT TD {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 2px; PADDING-LEFT: 2px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 1em; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.tablestats TABLE TFOOT TH {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-COLLAPSE: collapse; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.tablestats TABLE THEAD TH {
+	FONT-SIZE: 0.9em; VERTICAL-ALIGN: baseline; WIDTH: 40px; BACKGROUND-COLOR: #ddd; TEXT-ALIGN: right
+}
+DIV.table TABLE TBODY TR TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.table TABLE TBODY TR TD P {
+	PADDING-RIGHT: 1mm; PADDING-LEFT: 1mm; FONT-SIZE: 8pt; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.pressbg {
+	BACKGROUND-COLOR: #d2c4aa
+}
+.bcpress {
+	BACKGROUND-COLOR: #d2c4aa
+}
+TABLE.wfs {
+	FONT-FAMILY: Arial,Helvetica,sans-serif; HEIGHT: 99%; empty-cells: show
+}
+DIV.statstable2 TH.title {
+	TEXT-ALIGN: center
+}
+DIV.table P.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt
+}
+UL.datalist LI DIV.leftcol {
+	FLOAT: left
+}
+UL.datalist LI DIV.rightcol {
+	FLOAT: none
+}
+DIV.statstable CAPTION {
+	TEXT-ALIGN: left
+}
+DIV.table P {
+	TEXT-ALIGN: left
+}
+DIV.statstable TFOOT {
+	DISPLAY: table-footer-group
+}
+DIV.statstable2 TFOOT {
+	DISPLAY: table-footer-group
+}
+DIV.tablestats TABLE TR.row-even TD {
+	BACKGROUND-COLOR: transparent
+}
+DIV.statstable TFOOT TD {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 1mm; PADDING-LEFT: 1mm; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 8pt; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 1mm; PADDING-TOP: 1mm; TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.statstable2 TFOOT TD {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 1mm; PADDING-LEFT: 1mm; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 8pt; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 1mm; PADDING-TOP: 1mm; TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.statstable TFOOT TH {
+	BORDER-TOP: black 1px solid; MARGIN-TOP: 5mm; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.statstable2 TFOOT TH {
+	BORDER-TOP: black 1px solid; MARGIN-TOP: 5mm; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE.wfs .printlinebottom {
+	BORDER-BOTTOM: #000000 1px solid
+}
+TABLE.wfs .printlinedouble {
+	BORDER-TOP: #000000 3px double
+}
+TABLE.wfs .printlinetop {
+	BORDER-TOP: #000000 1px solid
+}
+TABLE.wfs .spacewfs {
+	LINE-HEIGHT: 8.5em
+}
+H4 {
+	FONT-WEIGHT: bold
+}
+H5 {
+	FONT-WEIGHT: bold
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+DIV.statstable2 .totals TD {
+	FONT-WEIGHT: bold
+}
+DIV.statstable DT {
+	FLOAT: left
+}
+DIV.statstable2 DT {
+	FLOAT: left
+}
+DIV.tablestats DT {
+	FLOAT: left
+}
+DIV.tablestats DD {
+	MARGIN-LEFT: 75px
+}
+DIV.statstable DD {
+	MARGIN-LEFT: 75px
+}
+DIV.statstable2 DD {
+	MARGIN-LEFT: 75px
+}
+DIV.tablestats DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.statstable DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.statstable2 DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.fxref .boxleft {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+DIV.fxref .boxright {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+DIV.imgfloatright DIV.head {
+	MARGIN-TOP: 0px
+}
+DIV.imgfloatleft DIV.head {
+	MARGIN-TOP: 0px
+}
+DIV.statstable TBODY TH A:link {
+	FONT-SIZE: 8pt; COLOR: black
+}
+DIV.statstable2 TBODY TH A:link {
+	FONT-SIZE: 8pt; COLOR: black
+}
+DIV.statstable THEAD TH A:link {
+	COLOR: black
+}
+DIV.statstable2 THEAD TH A:link {
+	COLOR: black
+}
+DIV.tablestats EM.data-grey {
+	COLOR: #fff
+}
+DIV.statstable EM.data-grey {
+	COLOR: #fff
+}
+DIV.statstable2 EM.data-grey {
+	COLOR: #fff
+}
+DIV.head H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 7.5pt; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.head H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 7.5pt; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.row H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 7.5pt; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.row H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 7.5pt; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H2.boxhead {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 7.5pt; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H3.boxhead {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 7.5pt; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TABLE.wfs TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 7pt; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+TABLE.wfs TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 7pt; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+TABLE.wfs TBODY TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 7pt; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+TABLE.wfs TBODY TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 7pt; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+#keyfiguresLegend {
+	FONT-SIZE: 0.9em; COLOR: #999; TEXT-ALIGN: right
+}
+#pastInterestRates {
+	BORDER-TOP: #dee2e5 0px solid
+}
+#pastInterestRates {
+	MARGIN-BOTTOM: 0.3em
+}
+DIV#header_facts {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 600px; PADDING-TOP: 0px; HEIGHT: 300px; BACKGROUND-COLOR: #fff
+}
+DIV#facts {
+	MARGIN: 0.7cm 0px 0px; WIDTH: 600px; BACKGROUND-COLOR: #fff
+}
+DIV#facts_handout {
+	MARGIN-TOP: 1cm
+}
+DIV#facts_handout H1 {
+	MARGIN-TOP: -0.5cm; MARGIN-BOTTOM: 0.5em; COLOR: #666
+}
+DIV#facts_handout H2 {
+	MARGIN-TOP: 0.5em; MARGIN-BOTTOM: 0.5em; COLOR: #666
+}
+DIV#facts_handout UL LI {
+	LIST-STYLE-TYPE: disc
+}
+DIV#facts_handout P SUP A {
+	COLOR: blue
+}
+DIV.facts DIV#imgbck {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV#facts_handout HR.footnotes {
+	WIDTH: 100px; TEXT-ALIGN: left
+}
+DIV#facts_handout DIV.identifier {
+	BORDER-TOP: #b1b3b6 1px solid; MARGIN-TOP: 20px; PADDING-TOP: 10px
+}
+DIV#facts_handout DIV.identifier P {
+	FLOAT: right; MARGIN: 0px; COLOR: #009
+}
+DIV#facts_handout DIV.identifier SPAN.logo {
+	FONT-WEIGHT: bold; MARGIN: 0px; TEXT-TRANSFORM: uppercase; COLOR: #009; FONT-FAMILY: verdana,arial,sans-serif
+}
+DIV#facts DIV#slide_facts {
+	MARGIN: 0px auto 20px; TEXT-ALIGN: center
+}
+DIV#facts DIV#slide_facts IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+DIV#facts_handout P {
+	MARGIN-TOP: 0.25em; MARGIN-BOTTOM: 0.25em
+}
+DIV#facts_handout UL {
+	MARGIN-TOP: 0.25em; MARGIN-BOTTOM: 0.25em
+}
+#cultural {
+	
+}
+#cultural .cd-author {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 25px
+}
+#cultural .cd-image {
+	FLOAT: left; MARGIN: 2px 14px 7px 0px; TEXT-ALIGN: center
+}
+#cultural .cd-top {
+	MARGIN-TOP: -10px
+}
+#cultural .c-tableevents {
+	MARGIN: 5px 0px 5px 1px; WIDTH: 99%; BORDER-COLLAPSE: collapse; empty-cells: show
+}
+#cultural .events0 {
+	MARGIN-TOP: 7px; MARGIN-BOTTOM: 1em
+}
+#cultural .cd-image P {
+	MARGIN: 0px; TEXT-ALIGN: center
+}
+#cultural .c-tableevents TD {
+	VERTICAL-ALIGN: top; BORDER-BOTTOM: #666 1px solid
+}
+#cultural .c-tableevents TH {
+	BORDER-RIGHT: #000 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #000 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: #000 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #000 1px solid; HEIGHT: 18px
+}
+#cultural .c-tableevents TD.date {
+	BORDER-LEFT: #000 1px solid; WIDTH: 85px! important
+}
+#cultural .c-tableevents TD.event {
+	
+}
+#cultural .c-tableevents TD.priceleft {
+	BORDER-LEFT: #000 1px solid
+}
+#cultural .c-tableevents TD.time {
+	
+}
+#cultural .c-tableevents TD.top {
+	PADDING-BOTTOM: 10px; BORDER-TOP-STYLE: none; PADDING-TOP: 8px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-ALIGN: right; BORDER-BOTTOM-STYLE: none
+}
+#cultural .c-tableevents TR.last TD {
+	BORDER-BOTTOM: #333 1px solid
+}
+#cultural .c-tableevents TD.top A {
+	FLOAT: right
+}
+#cultural #c-graphics {
+	MARGIN-BOTTOM: 17px
+}
+#cultural #c-graphics {
+	DISPLAY: none; MARGIN-BOTTOM: 34px; WIDTH: 600px! important
+}
+#cultural #c-award IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#cultural #c-images IMG.clear {
+	CLEAR: left; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#cultural #c-images IMG.float {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#cultural #c-images IMG.float {
+	MARGIN-LEFT: -3px; MARGIN-RIGHT: -3px
+}
+#cultural .c-tableevents TH#date {
+	BORDER-LEFT: #000 1px solid; WIDTH: 84px! important
+}
+#cultural .c-tableevents TH#event {
+	
+}
+#cultural .c-tableevents TH#time {
+	WIDTH: 60px! important
+}
+#cultural .c-tableevents TH#venue {
+	BORDER-RIGHT: #000 1px solid; WIDTH: 169px! important
+}
+#cultural .c-tableevents TH {
+	PADDING-LEFT: 10px
+}
+#cultural .c-tableevents TD {
+	PADDING-LEFT: 10px
+}
+#cultural .c-tableevents TD.venue {
+	BORDER-RIGHT: #000 1px solid
+}
+#cultural .c-tableevents TD.price {
+	BORDER-RIGHT: #000 1px solid
+}
+#cultural #c-images {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 17px; PADDING-TOP: 0px
+}
+#cultural #c-award {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 17px; PADDING-TOP: 0px
+}
+#cultural .c-tableevents CAPTION {
+	
+}
+#cultural .c-tableevents TD.event A {
+	
+}
+#cultural .c-tableevents TD.price A {
+	
+}
+.collapsable {
+	
+}
+.collapsableListTitle {
+	PADDING-RIGHT: 0.5em; DISPLAY: block; PADDING-LEFT: 0.5em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.1em
+}
+.collapsableBlock {
+	MARGIN: 1px 0px
+}
+UL.collapsableList {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 0px; LIST-STYLE-TYPE: none
+}
+DIV#Control {
+	DISPLAY: none
+}
+DIV#Caption {
+	DISPLAY: none
+}
+DIV#Control_bottom {
+	DISPLAY: none
+}
+#bc {
+	DISPLAY: none
+}
+.noprint {
+	DISPLAY: none
+}
+.hidden {
+	DISPLAY: none
+}
+.subnav-new {
+	DISPLAY: none
+}
+#rightBand {
+	DISPLAY: none
+}
+DIV#mainnav {
+	DISPLAY: none
+}
+DIV#mainnavWrapper {
+	DISPLAY: none
+}
+DIV#headarea {
+	DISPLAY: none
+}
+DIV#sectionnav {
+	DISPLAY: none
+}
+DIV#headarea {
+	DISPLAY: none
+}
+DIV#crossnav {
+	DISPLAY: none
+}
+.top {
+	DISPLAY: none
+}
+.top_nobr {
+	DISPLAY: none
+}
+DIV.homepage_press {
+	DISPLAY: none
+}
+TABLE.bahama CAPTION IMG {
+	DISPLAY: none
+}
+DIV.bahama SPAN.boxright {
+	DISPLAY: none
+}
+DIV#facts DIV#headline_ei {
+	DISPLAY: none
+}
+DIV#facts DIV#headline_bc {
+	DISPLAY: none
+}
+DIV#facts DIV#headline_or {
+	DISPLAY: none
+}
+DIV#facts DIV#headline_mp {
+	DISPLAY: none
+}
+DIV#facts DIV.headline {
+	DISPLAY: none
+}
+DIV#facts DIV.background_visual {
+	DISPLAY: none
+}
+DIV#facts DIV#background {
+	DISPLAY: none
+}
+DIV#scrollbar_fact {
+	DISPLAY: none
+}
