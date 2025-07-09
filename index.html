@@ -56,21 +56,6 @@
                 break;
               }
             }
-<<<<<<< Updated upstream
-          }
-          const card = document.createElement("div");
-          card.className = "col-md-4 col-lg-3";
-
-            card.innerHTML = `
-          <div class="card author-card shadow-sm h-100" onclick="window.location.href='author.html?path=${encodeURIComponent(item.path)}'">
-          <img src="${imageUrl}" class="card-img-top" alt="${author}" style="height: 180px; object-fit: cover;">
-          <div class="card-body text-center">
-          <h5 class="card-title">${author}</h5>
-    </div>
-  </div>
-`;
-
-=======
 
             const card = document.createElement("div");
             card.className = "col-md-4 col-lg-3";
@@ -83,7 +68,6 @@
                 </div>
               </div>
             `;
->>>>>>> Stashed changes
 
             container.appendChild(card);
           }

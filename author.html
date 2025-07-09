@@ -70,10 +70,6 @@
         data.forEach(item => fileMap[item.name.toLowerCase()] = item.download_url);
 
         data.forEach(item => {
-<<<<<<< Updated upstream
-          // 📁 Subfolders: make them clickable
-=======
->>>>>>> Stashed changes
           if (item.type === "dir") {
             const subPath = folderPath ? `${folderPath}/${item.name}` : item.name;
             const card = document.createElement("div");
@@ -89,10 +85,6 @@
             container.appendChild(card);
           }
 
-<<<<<<< Updated upstream
-          // 📄 Book files only (pdf, epub, mobi, html)
-=======
->>>>>>> Stashed changes
           if (item.type === "file" && item.name.match(/\.(pdf|epub|mobi|html)$/i)) {
             const baseName = item.name.replace(/\.(pdf|epub|mobi|html)$/i, '');
             const coverExtensions = [".jpg", ".png", ".webp"];
