@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Author's Books</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    .book-card {
+      transition: transform 0.2s ease;
+    }
+    .book-card:hover {
+      transform: scale(1.03);
+    }
+    .cover-img {
+      height: 200px;
+      object-fit: cover;
+    }
+    .card-title {
+      font-size: 1rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .breadcrumb a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container py-4">
+    <nav class="mb-4">
+      <div class="d-flex justify-content-between align-items-center">
+        <h4 id="folder-name">📁 Loading...</h4>
+        <a href="index.html" class="btn btn-secondary">🏠 Home</a>
+      </div>
+      <div id="breadcrumbs" class="mt-2 text-muted small"></div>
+    </nav>
+
+    <div id="book-list" class="row g-4 justify-content-center"></div>
+  </div>
+
+  <script>
+    const username = "irfaansheikh";
+    const repo = "NOVELS";
+    const defaultCover = "https://via.placeholder.com/300x200.png?text=No+Cover";
+    const urlParams = new URLSearchParams(window.location.search);
+    const folderPath = urlParams.get("path") || urlParams.get("name") || "";
+    const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/${folderPath}`;
+
+    const breadcrumbDiv = document.getElementById("breadcrumbs");
+    const folderParts = folderPath.split("/").filter(Boolean);
+    let breadcrumbHTML = `<a href="index.html">🏠 Home</a>`;
+
+    let fullPath = "";
+    folderParts.forEach((part, index) => {
+      fullPath += (index > 0 ? "/" : "") + part;
+      breadcrumbHTML += ` / <a href="author.html?path=${encodeURIComponent(fullPath)}">${part}</a>`;
+    });
+
+    document.getElementById("folder-name").innerText = folderParts[folderParts.length - 1] || "Books";
+    breadcrumbDiv.innerHTML = breadcrumbHTML;
+
+    fetch(apiUrl)
+      .then(res => res.json())
+      .then(data => {
+        const container = document.getElementById("book-list");
+        const fileMap = {};
+        data.forEach(item => fileMap[item.name.toLowerCase()] = item.download_url);
+
+        data.forEach(item => {
+<<<<<<< Updated upstream
+          // 📁 Subfolders: make them clickable
+=======
+>>>>>>> Stashed changes
+          if (item.type === "dir") {
+            const subPath = folderPath ? `${folderPath}/${item.name}` : item.name;
+            const card = document.createElement("div");
+            card.className = "col-sm-6 col-md-4 col-lg-3";
+
+            card.innerHTML = `
+              <div class="card shadow-sm h-100 text-center book-card" onclick="window.location.href='author.html?path=${encodeURIComponent(subPath)}'">
+                <div class="card-body d-flex align-items-center justify-content-center">
+                  <h6 class="card-title">📁 ${item.name}</h6>
+                </div>
+              </div>
+            `;
+            container.appendChild(card);
+          }
+
+<<<<<<< Updated upstream
+          // 📄 Book files only (pdf, epub, mobi, html)
+=======
+>>>>>>> Stashed changes
+          if (item.type === "file" && item.name.match(/\.(pdf|epub|mobi|html)$/i)) {
+            const baseName = item.name.replace(/\.(pdf|epub|mobi|html)$/i, '');
+            const coverExtensions = [".jpg", ".png", ".webp"];
+            let coverUrl = defaultCover;
+
+            for (const ext of coverExtensions) {
+              const possibleCover = `${baseName}${ext}`.toLowerCase();
+              if (fileMap[possibleCover]) {
+                coverUrl = fileMap[possibleCover];
+                break;
+              }
+            }
+
+            const card = document.createElement("div");
+            card.className = "col-sm-6 col-md-4 col-lg-3";
+
+            card.innerHTML = `
+              <div class="card book-card shadow-sm h-100">
+                <img src="${coverUrl}" class="cover-img card-img-top" onerror="this.src='${defaultCover}'" alt="Cover">
+                <div class="card-body d-flex flex-column justify-content-between">
+                  <h6 class="card-title text-center" title="${item.name}">${item.name}</h6>
+                  <a href="${item.download_url}" target="_blank" class="btn btn-primary mt-2 w-100">📥 Download</a>
+                </div>
+              </div>
+            `;
+
+            container.appendChild(card);
+          }
+        });
+      })
+      .catch(err => {
+        console.error("Error loading folder:", err);
+        document.getElementById("book-list").innerHTML = "<p class='text-danger'>Failed to load this folder.</p>";
+      });
+  </script>
+</body>
+</html>
